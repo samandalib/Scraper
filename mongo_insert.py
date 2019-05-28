@@ -9,14 +9,24 @@ import pymongo
 import os
 import json
 
-myclient =  pymongo.MongoClient("mongodb+srv://hesamandalib:hesam14239@restaurant-7f8ln.mongodb.net/test?retryWrites=true")
 
-mydb = myclient["Totell"]
-mycol = mydb["restaurants"]
+l = os.listdir()
+
+client =  pymongo.MongoClient("mongodb+srv://hesamandalib:hesam14239@restaurant-7f8ln.mongodb.net/test?retryWrites=true")
+
+db = client.get_database("test")
+records = db.restaurants
+
+print(records.count_documents({}))
+
 os.chdir("C:\\Users\\Hesam\\Desktop\\menu_parser\\countries\\usa\\states\\California\\Los Angeles")
+file_names = os.listdir()
+print(file_names)
 
-with open("Papa Cristos.json") as f:
-    mydata=f.read()
-
-print(type(mydata))
+for name in file_names:
+    with open(f"{name}") as f:
+        data=f.read()
+        data = json.loads(data)
+        records.insert_one(data)
+        print("data uploaded on db")
     

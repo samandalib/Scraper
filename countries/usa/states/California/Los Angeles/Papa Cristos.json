@@ -1,6 +1,7 @@
 {
     "address": "2771 W Pico Blvd",
     "city": "Los Angeles",
+    "currency": "USD",
     "id": "270942",
     "menu": [
         {
@@ -18,7 +19,7 @@
                         "grilled",
                         "hot"
                     ],
-                    "price": "$12.99",
+                    "price": 12.99,
                     "title": "Sizzling Feta and Tomato"
                 },
                 {
@@ -33,7 +34,7 @@
                         "grilled",
                         "hot"
                     ],
-                    "price": "$7.99",
+                    "price": 7.99,
                     "title": "Grilled Eggplant"
                 }
             ]
@@ -55,7 +56,7 @@
                         "olives",
                         "hot"
                     ],
-                    "price": "$10.99",
+                    "price": 10.99,
                     "title": "Feta Plate"
                 },
                 {
@@ -69,7 +70,7 @@
                         "hot",
                         "roasted"
                     ],
-                    "price": "$7.99",
+                    "price": 7.99,
                     "title": "Baba Ghanouj"
                 }
             ]
@@ -77,30 +78,6 @@
         {
             "category": "Greek Salad",
             "items": [
-                {
-                    "description": "Ripe red tomatoes, Cucumber, crisp lettuce, Kalamata olives, imported Greek Feta Cheese.  Served with Papa Cristo's famous house dressing and warm Greek pita.",
-                    "ingredients": [
-                        "port",
-                        "cucumber",
-                        "tomato",
-                        "lettuce",
-                        "red tomatoes",
-                        "dressing",
-                        "tomatoe",
-                        "pita",
-                        "tomatoes",
-                        "red tomato",
-                        "cheese",
-                        "olive",
-                        "ripe",
-                        "crisp",
-                        "feta",
-                        "chees",
-                        "olives"
-                    ],
-                    "price": "$5.99+",
-                    "title": "Greek Salad"
-                },
                 {
                     "description": "Our famous Greek Salad with your choice of Gyro or Kebab (Chicken, Lamb, Beef.)",
                     "ingredients": [
@@ -110,7 +87,7 @@
                         "beef",
                         "chicken"
                     ],
-                    "price": "$18.99",
+                    "price": 18.99,
                     "title": "Greek Salad Meal"
                 }
             ]
@@ -132,49 +109,14 @@
                         "butt",
                         "bread"
                     ],
-                    "price": "$19.99",
+                    "price": 19.99,
                     "title": "Greek Island Shrimp Platter"
-                },
-                {
-                    "description": "Seasoned with proprietary Red Rub seasoning, steamed, marinated, baked, and then rolled on the plancha grill. Our special potatoes take 2 days to make!",
-                    "ingredients": [
-                        "potato",
-                        "tea",
-                        "seasoning",
-                        "potatoes",
-                        "hen"
-                    ],
-                    "price": "$3.99+",
-                    "title": "Potatoes"
                 }
             ]
         },
         {
             "category": "Soups",
-            "items": [
-                {
-                    "description": "\"Egg-lemon\" soup. Chicken and rice in a hearty broth made of egg and fresh lemon juice.",
-                    "ingredients": [
-                        "egg",
-                        "juice",
-                        "ice",
-                        "soup",
-                        "lemon",
-                        "rice",
-                        "broth",
-                        "fresh",
-                        "chicken"
-                    ],
-                    "price": "$4.99+",
-                    "title": "Avgolemono Soup"
-                },
-                {
-                    "description": "100% vegetarian.",
-                    "ingredients": [],
-                    "price": "$4.99+",
-                    "title": "Lentil Soup"
-                }
-            ]
+            "items": []
         },
         {
             "category": "Spaghetti, Greek Style",
@@ -188,7 +130,7 @@
                         "butt",
                         "chees"
                     ],
-                    "price": "$9.99",
+                    "price": 9.99,
                     "title": "Macaronia"
                 },
                 {
@@ -203,7 +145,7 @@
                         "chees",
                         "olives"
                     ],
-                    "price": "$18.99",
+                    "price": 18.99,
                     "title": "Spaghetti with Grilled Veggies and Feta"
                 }
             ]
@@ -228,7 +170,7 @@
                         "bread",
                         "roasted"
                     ],
-                    "price": "$8.99",
+                    "price": 8.99,
                     "title": "Feta Pitza"
                 },
                 {
@@ -250,7 +192,7 @@
                         "olives",
                         "bread"
                     ],
-                    "price": "$8.99",
+                    "price": 8.99,
                     "title": "Chicken Kebab Pitza"
                 }
             ]
@@ -274,7 +216,7 @@
                         "grilled",
                         "chicken"
                     ],
-                    "price": "$9.99",
+                    "price": 9.99,
                     "title": "Chicken Kebab Sandwich"
                 },
                 {
@@ -298,7 +240,7 @@
                         "sage",
                         "hot"
                     ],
-                    "price": "$8.99",
+                    "price": 8.99,
                     "title": "Loukaniko Sandwich"
                 }
             ]
@@ -320,7 +262,7 @@
                         "hot",
                         "roasted"
                     ],
-                    "price": "$19.99",
+                    "price": 19.99,
                     "title": "Chicken Kebab Plate"
                 },
                 {
@@ -347,7 +289,7 @@
                         "hot",
                         "roasted"
                     ],
-                    "price": "$19.99",
+                    "price": 19.99,
                     "title": "Loukaniko Plate"
                 }
             ]
@@ -371,7 +313,7 @@
                         "bread",
                         "hot"
                     ],
-                    "price": "$59.99",
+                    "price": 59.99,
                     "title": "Gyro and Falafel Family Package (serves 4)"
                 },
                 {
@@ -403,7 +345,7 @@
                         "natural",
                         "hot"
                     ],
-                    "price": "$159.90",
+                    "price": 159.9,
                     "title": "Kebab Bar (serves 10)"
                 }
             ]
@@ -421,7 +363,7 @@
                         "sweet",
                         "chopped"
                     ],
-                    "price": "$2.99",
+                    "price": 2.99,
                     "title": "Baklava"
                 },
                 {
@@ -430,7 +372,7 @@
                         "yogurt",
                         "honey"
                     ],
-                    "price": "$5.99",
+                    "price": 5.99,
                     "title": "Greek Yogurt and Honey"
                 }
             ]
@@ -448,7 +390,7 @@
                         "homemade",
                         "small"
                     ],
-                    "price": "$0.50",
+                    "price": 0.5,
                     "title": "Homemade Tzatziki"
                 },
                 {
@@ -472,7 +414,7 @@
                         "sesame",
                         "tahini"
                     ],
-                    "price": "$0.50",
+                    "price": 0.5,
                     "title": "Tahini"
                 }
             ]
@@ -483,13 +425,13 @@
                 {
                     "description": "12oz Can",
                     "ingredients": [],
-                    "price": "$1.99",
+                    "price": 1.99,
                     "title": "Coke"
                 },
                 {
                     "description": "12 oz Can",
                     "ingredients": [],
-                    "price": "$1.99",
+                    "price": 1.99,
                     "title": "7-UP"
                 }
             ]
@@ -497,6 +439,7 @@
     ],
     "menu_url": "https://www.allmenus.com/ca/los-angeles/270942-papa-cristos/menu/",
     "name": "Papa Cristos",
+    "state": "California",
     "type": "Greek",
     "zip": "90006"
 }

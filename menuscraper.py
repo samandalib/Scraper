@@ -10,8 +10,11 @@ import json
 """**************************************************"""
 """ RUN THIS FUNCTION FOR SCRAPING BASED ON CITY NAME """
 """**************************************************"""
-def scrape_city(city,state):
+def scrape_city(city,state): #enter abbreviation for the state argument, such as "ca" for "california"
+    city = city.lower().replace(" ", "-")
+    state = state.lower()
     url = f"https://www.allmenus.com/{state}/{city}/-/?filters=filter_online"
+#    print(url)
     restaurants_list = get_restaurants(url)
     populate_menus(restaurants_list)
     return print(f"all resturants in {city} are now saved in the the directory with name {city}")
@@ -33,18 +36,16 @@ def scrape_site():
 """
 os.chdir("C:\\Users\\Hesam\\Desktop\\menu_parser\\countries\\usa")
 with open("us_states.json") as f:
-    states = f.read()
-    states= json.loads(states)
-#
-#
-#######MAKING A FOLDER FOR EACH STATE################
+    g_states = f.read()
+    g_states= json.loads(g_states)
+#MAKING A FOLDER FOR EACH STATE
 os.chdir("C:\\Users\\Hesam\\Desktop\\menu_parser\\countries\\usa\\states")#############CHECK DIRECTORIES FOR CHANGE
 state_short = []
-for state in states:
-    name = state['name']
+for state in g_states:
+    name = state['name'].strip()
     if not os.path.exists(name):
         os.makedirs(name)
-    state_short.append(state['abbreviation'].lower())
+    state_short.append(state['abbreviation'].lower().strip())#to be used in making urls
 ####################### END OF SECTION ##############################  
 #
 #    
@@ -57,9 +58,7 @@ os.chdir("C:\\Users\\Hesam\\Desktop\\menu_parser\\countries\\usa")#############C
 with open("us_cities.json") as c:
     state_cities = c.read()
     state_cities = json.loads(state_cities)
-#
-#
-############MAKING A FOLDER FOR EACH CITY IN ITS STATE FOLDER #################    
+##MAKING A FOLDER FOR EACH CITY IN ITS STATE FOLDER   
 for state in state_cities:
     os.chdir(f"C:\\Users\\Hesam\\Desktop\\menu_parser\\countries\\usa\\states\\{state}")#############CHECK DIRECTORIES FOR CHANGE
     for city in state_cities[state]:
@@ -79,7 +78,7 @@ def url_maker():
     urls=[]
     url_base = "https://www.allmenus.com/"
     urls = []
-    for s in states:
+    for s in g_states:
         for ss in state_cities:
             if s['name'] == ss:
                 for cty in state_cities[ss]:
@@ -87,7 +86,7 @@ def url_maker():
                     urls.append(url)
     return urls
 
-urls = url_maker()
+urls = url_maker()  ##FUNCTION CALL##
 #
 #
 ################################## END OF SECTION #############################################
@@ -145,6 +144,7 @@ def get_restaurants(url):
             rest_props.append(rest_address)
             
             restaurants_list.append(rest_props)
+            print("restaurant basic document is created")
     
         except:
             print('an error in getting restuarant information')
@@ -157,18 +157,26 @@ def get_restaurants(url):
         _type = item[2]
         address = item[3][0]
         location = item[3][1][:-7].split(",")
-        state = location[1]
         city = location[0]
+        rest_state = location[1].strip()
+        state_abb = ""
+        for state in g_states:
+            if state['abbreviation'].strip() == rest_state:
+                rest_state = state['name'].strip()
+                
+                state_abb = state['abbreviation'].strip()
+#        print(rest_state)
         _zip = item[3][1][-5:]
         
         entity['id']= _id
         entity['name']= name
         entity['type']= _type
         entity['address']= address
-        entity['state']=state
-        entity['city']= city
+        entity['state']=rest_state
+        entity['city']= city.strip()
         entity['zip']= _zip
-        entity['menu_url']="https://www.allmenus.com/"+state.strip().lower()+"/"+city.strip().replace(" ", "-").lower()+"/"+_id+"-"+name.replace(" ","-").lower()+"/"+"menu/"
+        entity['currency']='USD'
+        entity['menu_url']="https://www.allmenus.com/"+state_abb.lower()+"/"+city.replace(" ", "-").lower()+"/"+_id+"-"+name.replace(" ","-").lower()+"/"+"menu/"
         result.append(entity)
         
     return result #returning a list of dictionaries that each represent a restaurant
@@ -194,6 +202,7 @@ def populate_menus(restaurants_list):
         
         result_page = BeautifulSoup(response.content,'lxml') 
         
+        rest_website = result_page.find('a', class_="menu-link").get('href')
         
         #making the menu section of the restaurnat document in database
         #search for categories in each menu
@@ -222,6 +231,8 @@ def populate_menus(restaurants_list):
                          menu_item['title']= item_title
                      
                          item_price = item.find('span', {'class': 'item-price'}).get_text().strip()
+                         item_price= item_price.replace("$","")
+                         item_price = float(item_price)
                          menu_item['price'] = item_price
                      
                          item_desc = item.find('p', {'class': 'description'}).get_text()
@@ -240,18 +251,20 @@ def populate_menus(restaurants_list):
                      
                  category_content['items']=items_list
                  categories.append(category_content)
+                 print("menu items successfully populated")
                      
              except:
                  print('an error in category organizer')
          
              
         restaurant['menu'] = categories
-        
+        restaurant['website']=rest_website
         #saving the result in a JSON File
         name = restaurant["name"]
         state = restaurant["state"]
         city = restaurant["city"]
         save_as_JSON(restaurant, state, city, name)
+        print("restaurant json file created")
         
         
     return restaurants_list
@@ -314,8 +327,6 @@ def get_ingredients(description):
             for ing in ingredients:
                 ing = ing.strip()
                 if pattern.search(ing):
-#                    print(pattern)
-#                    print(ing)
                     ingredients.remove(ing)
                 elif len(ing)<2:
                     ingredients.remove(ing)
@@ -347,7 +358,7 @@ def extracting_data(files):
         os.chdir("C:\\Users\\Hesam\\Desktop\\menu_parser")#change the directory if the address is different
         data = pd.read_csv(file_name)
         return data
-#    print("OK-1")
+    print("OK-1")
     #reading each csv file from list of files
     for file in files:
         try:
@@ -357,7 +368,7 @@ def extracting_data(files):
             ingredients_master_list += ing_list
         except:
             print("error in handling file")
-#    print("OK-2")
+    print("OK-2")
     #removing possible duplications in the list
     ingredients_master_list = list(dict.fromkeys(ingredients_master_list))
     
@@ -372,7 +383,7 @@ def extracting_data(files):
             ingredients_master_list.remove(item)
         except:
             continue
-#    print("OK-3") 
+    print("OK-3") 
     #searching for and removing explainations in paranthesis and expressions after comma in each item
     for item in ingredients_master_list:
         pattern1 = re.compile(r"\s?\(.*\)\s?")
@@ -393,7 +404,7 @@ def extracting_data(files):
                 ingredients_master_list.remove(item)
         except:
             continue
-#    print("OK-4")
+    print("OK-4")
     #Removing possible duplicates from the master_list
     ingredients_master_list = list(dict.fromkeys(ingredients_master_list))
     

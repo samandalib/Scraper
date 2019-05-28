@@ -1,0 +1,290 @@
+{
+    "address": "6236 Wilshire Blvd",
+    "city": "Los Angeles",
+    "currency": "USD",
+    "id": "285236",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.25,
+                    "title": "Apple Juice"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.25,
+                    "title": "Lemonade"
+                }
+            ]
+        },
+        {
+            "category": "Starters",
+            "items": [
+                {
+                    "description": "Crispy rolls stuffed with mixed vegetables.",
+                    "ingredients": [
+                        "vegetable",
+                        "rolls",
+                        "crisp",
+                        "vegetables"
+                    ],
+                    "price": 5.95,
+                    "title": "4 Spring Rolls"
+                },
+                {
+                    "description": "Shrimp wrapped in wonton skin, deep fried to crispy.",
+                    "ingredients": [
+                        "crisp",
+                        "shrimp"
+                    ],
+                    "price": 10.5,
+                    "title": "8 Dancing Shrimps"
+                }
+            ]
+        },
+        {
+            "category": "Soups",
+            "items": []
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "An authentic Thai mixture of tofu,mixed green, tomato and cucumber tossed in house dressing.",
+                    "ingredients": [
+                        "cucumber",
+                        "tofu",
+                        "tomato",
+                        "dressing",
+                        "mixture",
+                        "hen",
+                        "thai"
+                    ],
+                    "price": 8.95,
+                    "title": "Tofu Salad"
+                },
+                {
+                    "description": "Grilled shrimp with lemon grass, lime juice chili and mint. Spicy.",
+                    "ingredients": [
+                        "juice",
+                        "ice",
+                        "mint",
+                        "lemon",
+                        "lime",
+                        "mint.",
+                        "shrimp",
+                        "grilled",
+                        "chili"
+                    ],
+                    "price": 11.5,
+                    "title": "Pla-Goong Salad"
+                }
+            ]
+        },
+        {
+            "category": "From the Grill",
+            "items": [
+                {
+                    "description": "Tender pork spareribs in our secret sauce.",
+                    "ingredients": [
+                        "ribs",
+                        "sauce",
+                        "spareribs",
+                        "pork"
+                    ],
+                    "price": 11.5,
+                    "title": "Pork Spareribs"
+                },
+                {
+                    "description": "The Angus rib eye steak marinated in house special sauce with choice of french fries or steam white rice.",
+                    "ingredients": [
+                        "ice",
+                        "tea",
+                        "steak",
+                        "sauce",
+                        "french",
+                        "white",
+                        "rice"
+                    ],
+                    "price": 16.5,
+                    "title": "Tawanna Rib Eye Steak"
+                }
+            ]
+        },
+        {
+            "category": "Rice",
+            "items": [
+                {
+                    "description": "Fried rice with chicken, beef, shrimp, egg, tomato, onion and green onion.",
+                    "ingredients": [
+                        "egg",
+                        "tomato",
+                        "ice",
+                        "onion",
+                        "beef",
+                        "rice",
+                        "shrimp",
+                        "chicken"
+                    ],
+                    "price": 12.5,
+                    "title": "Combination Fried Rice"
+                }
+            ]
+        },
+        {
+            "category": "Noodles",
+            "items": []
+        },
+        {
+            "category": "Curries",
+            "items": []
+        },
+        {
+            "category": "Entrees",
+            "items": []
+        },
+        {
+            "category": "Tawanna's Specials",
+            "items": [
+                {
+                    "description": "Breast of roasted duck with steamed vegetables, topped with duck sauce.",
+                    "ingredients": [
+                        "tea",
+                        "vegetable",
+                        "sauce",
+                        "duck",
+                        "roast",
+                        "vegetables",
+                        "roasted"
+                    ],
+                    "price": 18.95,
+                    "title": "Angel Duck"
+                },
+                {
+                    "description": "Grilled salmon topped with bell pepper in our special panang curry sauce. Hot and spicy dish.",
+                    "ingredients": [
+                        "curry",
+                        "pepper",
+                        "sauce",
+                        "grilled",
+                        "salmon",
+                        "hot"
+                    ],
+                    "price": 14.95,
+                    "title": "Salmon Sensation"
+                }
+            ]
+        },
+        {
+            "category": "Vegetables",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.95,
+                    "title": "Spicy Eggplant"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.95,
+                    "title": "Broccoli and Bean Sprouts"
+                }
+            ]
+        },
+        {
+            "category": "Wings",
+            "items": [
+                {
+                    "description": "Includes 1 dipping sauce.",
+                    "ingredients": [
+                        "sauce"
+                    ],
+                    "price": 5.49,
+                    "title": "5 Pieces Bone-In Wings"
+                },
+                {
+                    "description": "Includes 1 dipping sauce.",
+                    "ingredients": [
+                        "sauce"
+                    ],
+                    "price": 4.49,
+                    "title": "5 Pieces Boneless Wings"
+                }
+            ]
+        },
+        {
+            "category": "Side Orders",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.75,
+                    "title": "Steamed White Rice"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.0,
+                    "title": "Sticky Rice"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Special",
+            "items": [
+                {
+                    "description": "Served with salad, chicken gyoza and choice of rice.",
+                    "ingredients": [
+                        "ice",
+                        "salad",
+                        "rice",
+                        "chicken"
+                    ],
+                    "price": 9.5,
+                    "title": "Pork Spareribs Lunch Special"
+                },
+                {
+                    "description": "Served with salad, chicken gyoza and choice of rice.",
+                    "ingredients": [
+                        "ice",
+                        "salad",
+                        "rice",
+                        "chicken"
+                    ],
+                    "price": 9.5,
+                    "title": "Mixed Vegetables Lunch Special"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Thai tropical fruit.",
+                    "ingredients": [
+                        "fruit",
+                        "thai"
+                    ],
+                    "price": 3.0,
+                    "title": "Lychee"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.95,
+                    "title": "Coconut Ice Cream"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/los-angeles/285236-tawanna-thai/menu/",
+    "name": "Tawanna Thai",
+    "state": "California",
+    "type": "Thai",
+    "zip": "90048"
+}
