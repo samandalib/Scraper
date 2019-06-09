@@ -1,0 +1,252 @@
+{
+    "address": "1636 S Stapley Dr",
+    "city": "Mesa",
+    "currency": "USD",
+    "id": "2467",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "Coca-Cola? products.",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Soft Drink"
+                },
+                {
+                    "description": "The Drinkable Dessert! Bottomless Barq?s? and soft serve.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Root Beer Float"
+                }
+            ]
+        },
+        {
+            "category": "All-Age Concoctions",
+            "items": [
+                {
+                    "description": "A blissful blend of chocolate hazelnut spread and cocoa crisps. Topped with whipped cream, more cocoa crisps and dark chocolate Fruffles?.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Chocolate Hazelnut Bliss Milkshake"
+                }
+            ]
+        },
+        {
+            "category": "Wing Bar",
+            "items": [
+                {
+                    "description": "50 juicy, bone-in chicken wings and our signature sauce bar featuring Ranch, Bleu Cheese, Buzzard, Whisky River? BBQ and Teriyaki with celery sticks on the side. Serves 10. 1090 calories per serving.",
+                    "ingredients": [],
+                    "price": 49.99,
+                    "title": "Gourmet Wing & Sauce Bar"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "Steak Fries topped with queso, bacon, fried jalape?o coins and a drizzle of Fiery Ghost? Pepper Sauce. Served with a side of ranch dressing or Fiery Ghost Pepper Sauce.",
+                    "ingredients": [],
+                    "price": 7.0,
+                    "title": "VooDoo Fries"
+                },
+                {
+                    "description": "Cheesy and delicious. Served with celery sticks and sea salt tortilla chips.",
+                    "ingredients": [],
+                    "price": 7.0,
+                    "title": "Creamy Artichoke and Spinach Dip"
+                }
+            ]
+        },
+        {
+            "category": "Soups",
+            "items": []
+        },
+        {
+            "category": "Red Robin's Finest Gourmet Burgers",
+            "items": [
+                {
+                    "description": "A true knife-and-fork burger. Saut?ed, blackened portobello mushrooms, caramelized onions, house-made cheese sauce, and Bleu cheese crumbles on a toasted brioche bun with roasted garlic aioli.",
+                    "ingredients": [],
+                    "price": 13.79,
+                    "title": "Black & Bleu Burger"
+                },
+                {
+                    "description": "Gourmet patty with a duo of melted Cheddar and Provolone cheeses, Bistro Sauce, dill pickle planks, lettuce and tomatoes on a toasted brioche bun.",
+                    "ingredients": [],
+                    "price": 12.49,
+                    "title": "The Master Cheese Burger"
+                }
+            ]
+        },
+        {
+            "category": "Fire-Grilled Gourmet Burgers",
+            "items": [
+                {
+                    "description": "Bacon. It makes everything better. Even our cheeseburger, which is already tough to beat. Topped with mayo, lettuce, tomatoes and your choice of cheese.",
+                    "ingredients": [],
+                    "price": 12.19,
+                    "title": "Bacon Cheeseburger"
+                },
+                {
+                    "description": "Gourmet burger joint or five-star steakhouse? It gets confusing with the hardwood-smoked bacon, melted Pepper-Jack, A.1.? Peppercorn Spread, tomatoes and crispy onion straws on an onion bun, making this burger worthy of five stars.",
+                    "ingredients": [],
+                    "price": 12.39,
+                    "title": "A.1.\u00ae Peppercorn Burger"
+                }
+            ]
+        },
+        {
+            "category": "Red's Tavern Burgers",
+            "items": [
+                {
+                    "description": "Two classic patties topped with fresh guac, crunchy tortilla strips, Pepper-Jack, lettuce and zesty salsa. You?ll wanna taco ?bout how tasty it is. Available for upgrade to the Big Tavern!",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Taco Tavern Burger"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Big Fiery Ghost\u00ae Tavern Burger"
+                }
+            ]
+        },
+        {
+            "category": "Other Fun on a Bun",
+            "items": [
+                {
+                    "description": "Take a culinary trip through the Italian countryside with a perfectly grilled chicken breast topped with fresh bruschetta salsa, roasted garlic aioli, Provolone, onions and romaine lettuce with a splash of balsamic vinegar on rustic ciabatta. It?s a true Renaissance burger.",
+                    "ingredients": [],
+                    "price": 11.89,
+                    "title": "Bruschetta Chicken Burger"
+                },
+                {
+                    "description": "We dressed up our grilled chicken breast in guacamole, bacon, Provolone, lettuce, tomatoes, pickles and mayo for its Hollywood debut. Bites, camera, action!",
+                    "ingredients": [],
+                    "price": 12.19,
+                    "title": "California Chicken Burger"
+                }
+            ]
+        },
+        {
+            "category": "Fresh Salads",
+            "items": [
+                {
+                    "description": "Our juicy grilled chicken breast, Cheddar cheese, tomatoes and cucumbers on a bed of mixed greens. Served with garlic toast and choice of dressing.",
+                    "ingredients": [],
+                    "price": 9.49,
+                    "title": "Simply Grilled Chicken Salad"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Side Traditional Caesar Salad"
+                }
+            ]
+        },
+        {
+            "category": "Entrees",
+            "items": [
+                {
+                    "description": "Crispy chicken tenders and Bottomless Steak Fries? cooked to perfection.",
+                    "ingredients": [],
+                    "price": 11.79,
+                    "title": "Clucks & Fries\u00ae"
+                },
+                {
+                    "description": "There are plenty of fish in the sea, so try this combo instead: Crispy golden shrimp and coleslaw served with Bottomless Steak Fries? and cocktail sauce.",
+                    "ingredients": [],
+                    "price": 13.39,
+                    "title": "Shrimp & Slaw Platter"
+                }
+            ]
+        },
+        {
+            "category": "Wraps & Sandwiches",
+            "items": [
+                {
+                    "description": "Correct pronunciation not required! You?ll get enough of a mouthful with this delicious combination of turkey breast, hardwood-smoked bacon, mayo and, of course, lettuce, tomato and avocado.",
+                    "ingredients": [],
+                    "price": 11.69,
+                    "title": "BLTA Croissant"
+                },
+                {
+                    "description": "Choose your favorite wrap or sandwich and combine it with a cup of any of our savory soups.",
+                    "ingredients": [],
+                    "price": 12.49,
+                    "title": "Souper Sandwich Combo"
+                }
+            ]
+        },
+        {
+            "category": "Pizza",
+            "items": []
+        },
+        {
+            "category": "Red Robin Kid's Menu",
+            "items": [
+                {
+                    "description": "Beef, grilled chicken, turkey or veggie patty with American cheese and lettuce, tomatoes and pickles on the side.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Kid's Red's Cheese Burger"
+                },
+                {
+                    "description": "Plain or with BBQ sauce, ranch or teriyaki for dipping.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Kid's Grilled Chicken Dip'ns"
+                }
+            ]
+        },
+        {
+            "category": "A la Carte Sides",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Side Mac 'N' Cheese"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.49,
+                    "title": "Side Coleslaw"
+                }
+            ]
+        },
+        {
+            "category": "Deliciously Dunkable Dipping Sauces",
+            "items": []
+        },
+        {
+            "category": "Sweet Things",
+            "items": [
+                {
+                    "description": "Doh! Why didn?t we think of it before? Of course it?s delicious when croissants mix with donuts! Enjoy this tasty towering treat with layers of flavors, tossed in cinnamon and sugar and served with caramel and fudge.",
+                    "ingredients": [],
+                    "price": 9.49,
+                    "title": "Towering Doh! Ring of 8"
+                },
+                {
+                    "description": "Indulgent chocolate brownie cake and hot fudge topped with vanilla ice cream and berry sauce.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Gooey Chocolate Brownie Cake"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/az/mesa/2467-red-robin-gourmet-burgers/menu/",
+    "name": "Red Robin Gourmet Burgers",
+    "state": "Arizona",
+    "type": "Burgers, American",
+    "website": "http://www.redrobin.com/",
+    "zip": "85204"
+}

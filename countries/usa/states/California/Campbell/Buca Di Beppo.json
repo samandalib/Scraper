@@ -1,0 +1,70 @@
+{
+    "address": "1875 S Bascom Ave",
+    "city": "Campbell",
+    "currency": "USD",
+    "id": "9572",
+    "menu": [
+        {
+            "category": "Antipasti",
+            "items": []
+        },
+        {
+            "category": "Insalate",
+            "items": []
+        },
+        {
+            "category": "Baked Pasta Specialties",
+            "items": []
+        },
+        {
+            "category": "Pasta",
+            "items": []
+        },
+        {
+            "category": "Entrees",
+            "items": []
+        },
+        {
+            "category": "Pizza",
+            "items": []
+        },
+        {
+            "category": "Side Dishes",
+            "items": []
+        },
+        {
+            "category": "Dessert",
+            "items": []
+        },
+        {
+            "category": "Antipasti",
+            "items": []
+        },
+        {
+            "category": "Insalate",
+            "items": []
+        },
+        {
+            "category": "Baked Pasta Specialties",
+            "items": []
+        },
+        {
+            "category": "Pasta",
+            "items": []
+        },
+        {
+            "category": "Entrees",
+            "items": []
+        },
+        {
+            "category": "Pizza",
+            "items": []
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/campbell/9572-buca-di-beppo/menu/",
+    "name": "Buca Di Beppo",
+    "state": "California",
+    "type": "Italian, Pizza, Pasta",
+    "website": "http://www.bucadibeppo.com",
+    "zip": "95008"
+}

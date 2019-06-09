@@ -1,0 +1,157 @@
+{
+    "address": "200 E Hamilton Ave",
+    "city": "Campbell",
+    "currency": "USD",
+    "id": "49478",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.5,
+                    "title": "Canned Soda"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.5,
+                    "title": "Bottled Water"
+                }
+            ]
+        },
+        {
+            "category": "Antipasti",
+            "items": [
+                {
+                    "description": "Fresh garlic, basil and tomatoes with extra virgin olive oil on our toasted garlic ciabatta bread.",
+                    "ingredients": [],
+                    "price": 9.0,
+                    "title": "Classic Bruschetta"
+                },
+                {
+                    "description": "Lightly sauteed with fresh lemon, vodka, tomatoes and mushrooms. Served with garlic toast points.",
+                    "ingredients": [],
+                    "price": 10.0,
+                    "title": "Shrimp Portofino"
+                }
+            ]
+        },
+        {
+            "category": "Insalate and Zuppa",
+            "items": [
+                {
+                    "description": "Fresh mozzarella, tomatoes, fresh basil and extra virgin olive oil. Dressing served on the side.",
+                    "ingredients": [],
+                    "price": 12.0,
+                    "title": "Mozzarella Caprese Salad"
+                },
+                {
+                    "description": "Fresh crisp romaine lettuce, tossed with roasted bell peppers, Gorgonzola cheese, candied pecans, shredded Parmesan and garlic croutons. Dressing served on the side.",
+                    "ingredients": [],
+                    "price": 15.0,
+                    "title": "Our Popular Chicken Caesar Salad"
+                }
+            ]
+        },
+        {
+            "category": "Pasta",
+            "items": [
+                {
+                    "description": "Choice of pasta style, sauce, and additions. Served with choice of side.",
+                    "ingredients": [],
+                    "price": 16.0,
+                    "title": "Pasta and Sauce"
+                },
+                {
+                    "description": "Penne pasta tossed with Italian sausage, bacon, mushrooms, tomatoes and sweet onions in a light cream sauce. Served with choice of side.",
+                    "ingredients": [],
+                    "price": 21.0,
+                    "title": "Monte Sereno"
+                }
+            ]
+        },
+        {
+            "category": "Entrees",
+            "items": [
+                {
+                    "description": "Our famous fried calamari served over a lemon butter garlic sauce and pasta lemone. Served with choice of side.",
+                    "ingredients": [],
+                    "price": 20.0,
+                    "title": "Calamari Fritti Lemone"
+                },
+                {
+                    "description": "Breast of chicken filled with prosciutto, tomatoes, mozzarella cheese and oregano. Rolled and lightly breaded and baked. Topped with mushroom cream sauce. Served with choice of side.",
+                    "ingredients": [],
+                    "price": 22.0,
+                    "title": "Saltimboca di Pollo"
+                }
+            ]
+        },
+        {
+            "category": "Pizza",
+            "items": []
+        },
+        {
+            "category": "Dessert",
+            "items": [
+                {
+                    "description": "Cinnamon, butter, and brown sugar soaked into bread and baked. Served over creamy rum sauce.",
+                    "ingredients": [],
+                    "price": 7.0,
+                    "title": "Bread Pudding"
+                },
+                {
+                    "description": "Marianne's vanilla ice cream topped with a shot of espresso.",
+                    "ingredients": [],
+                    "price": 7.0,
+                    "title": "Affogato"
+                }
+            ]
+        },
+        {
+            "category": "Catering Appetizers",
+            "items": []
+        },
+        {
+            "category": "Catering Greens",
+            "items": []
+        },
+        {
+            "category": "Catering Pasta",
+            "items": []
+        },
+        {
+            "category": "Catering Meat and Seafood",
+            "items": []
+        },
+        {
+            "category": "Catering Dessert",
+            "items": []
+        },
+        {
+            "category": "Plates and Silverware",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 0.29,
+                    "title": "Silverware Packet"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "4 Serving Utensils"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/campbell/49478-mama-mia's/menu/",
+    "name": "Mama Mia's",
+    "state": "California",
+    "type": "Italian",
+    "website": "http://www.mamamias.com",
+    "zip": "95008"
+}

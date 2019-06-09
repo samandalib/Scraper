@@ -1,0 +1,218 @@
+{
+    "address": "4582 Dublin Blvd",
+    "city": "Dublin",
+    "currency": "USD",
+    "id": "56530",
+    "menu": [
+        {
+            "category": "Drinks",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.75,
+                    "title": "Mango Lassi"
+                },
+                {
+                    "description": "Indian masala tea.",
+                    "ingredients": [],
+                    "price": 2.25,
+                    "title": "Chai"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "Onions deep fried in a seasoned lentil batter until crisp. Served with mint and tamarind chutneys.",
+                    "ingredients": [],
+                    "price": 6.75,
+                    "title": "Onion Pakora"
+                },
+                {
+                    "description": "Fresh watermelon cubes tossed with ripe tomatoes, basil, roasted almonds and achar oil vinaigrette. Served with mint and tamarind chutneys.",
+                    "ingredients": [],
+                    "price": 6.5,
+                    "title": "Watermelon Salad"
+                }
+            ]
+        },
+        {
+            "category": "Chicken Entrees",
+            "items": [
+                {
+                    "description": "Pieces of chicken tikka cooked with exotic spices and herbs in a creamy tomato based sauce. Served with choice of rice or plain naan.",
+                    "ingredients": [],
+                    "price": 12.95,
+                    "title": "Chicken Tikka Masala"
+                },
+                {
+                    "description": "Chicken cooked with fenugreek leaves in a creamy tomato sauce. Served with choice of rice or plain naan.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Methi Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Seafood Entrees",
+            "items": [
+                {
+                    "description": "Fish cooked in a curry with a special blend of herbs and spices. Served with choice of rice or plain naan.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "Fish Curry"
+                },
+                {
+                    "description": "Succulent pieces of fish cooked with mango in our special masala sauce. Served with choice of rice or plain naan.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "Mango Fish Curry"
+                }
+            ]
+        },
+        {
+            "category": "Tandoori Entrees",
+            "items": [
+                {
+                    "description": "Cubes of boneless chicken breast marinated in yogurt flavored with giner, cilantro, lemon and a unique blend of herbs and spices. Grilled in a clay oven.",
+                    "ingredients": [],
+                    "price": 10.95,
+                    "title": "Tandoor Chicken Tikka"
+                },
+                {
+                    "description": "Fish marinated in yogurt flavored with ginger, cilantro, lemon and a unique blend of herbs and spices. Grilled in a clay oven.",
+                    "ingredients": [],
+                    "price": 14.75,
+                    "title": "Tandoori Fish"
+                }
+            ]
+        },
+        {
+            "category": "Vegetable Entrees",
+            "items": [
+                {
+                    "description": "Fenugreek leaves, potatoes and peas cooked in an onion and tomato based sauce. Served with choice of rice or plain naan.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Methi Aloo Mutter"
+                },
+                {
+                    "description": "Lentil dumplings cooked in a yogurt curry made with ginger, garlic, onions, tomatoes and spices. Served with choice of rice or plain naan.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Punjabi Kadhi"
+                }
+            ]
+        },
+        {
+            "category": "Lamb Entrees",
+            "items": [
+                {
+                    "description": "Spicy, curried goan dish. Marinated lamb cooked with potatoes, fresh herbs and spices in a tasty sauce. Served with choice of rice or plain naan.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "Lamb Vinadaloo"
+                },
+                {
+                    "description": "Lamb curry cooked with channa daal (lentils). Served with choice of rice or plain naan.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "Lamb Dalcha"
+                }
+            ]
+        },
+        {
+            "category": "Rice Entrees",
+            "items": [
+                {
+                    "description": "Steamed long grain basmati rice.",
+                    "ingredients": [],
+                    "price": 2.25,
+                    "title": "Basmati Rice"
+                },
+                {
+                    "description": "Boneless chicken cubs sauteed with special sauce served with long grain basmati rice.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "Vijayawada Chicken Biryani"
+                }
+            ]
+        },
+        {
+            "category": "Weekend Specials",
+            "items": [
+                {
+                    "description": "Fresh Gobi, potato, onion, peppers and paneer marinated with herbs and spices, cooked in low heat with long grain basmati rice.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Hydrabadi Vegetable Dum Biryani Special"
+                },
+                {
+                    "description": "Chicken with bones marinated with herbs, spices, cooked with long grain basmati rice.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Hyadrabadi Chicken Dum Biryani Special"
+                }
+            ]
+        },
+        {
+            "category": "Indian Breads",
+            "items": [
+                {
+                    "description": "Unleavened flat bread made with whole wheat flour and baked in tandoor (clay oven). Served with choice of rice or plain naan.",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Tandoori Roti"
+                },
+                {
+                    "description": "Leavened flat bread stuffed with exotic spices, chicken, raisins and nuts and baked in tandoor (clay oven). Served with choice of rice or plain naan.",
+                    "ingredients": [],
+                    "price": 4.25,
+                    "title": "Haveli Naan"
+                }
+            ]
+        },
+        {
+            "category": "Side Dishes",
+            "items": [
+                {
+                    "description": "Made with lentils, fresh ginger, butter, garlic, exotic herbs and spices.",
+                    "ingredients": [],
+                    "price": 5.25,
+                    "title": "Lentil Soup"
+                },
+                {
+                    "description": "Thick yogurt sauce mixed with fresh tomatoes and onions.",
+                    "ingredients": [],
+                    "price": 2.25,
+                    "title": "Raita"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.75,
+                    "title": "Gulab Jamun"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.25,
+                    "title": "Ras Malai"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/dublin/56530-haveli-indian-cuisine/menu/",
+    "name": "Haveli Indian Cuisine",
+    "state": "California",
+    "type": "Indian",
+    "website": "http://www.haveliindiancuisine.com",
+    "zip": "94568"
+}

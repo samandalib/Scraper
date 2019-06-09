@@ -1,0 +1,239 @@
+{
+    "address": "1800 W Valley Blvd",
+    "city": "Alhambra",
+    "currency": "USD",
+    "id": "307865",
+    "menu": [
+        {
+            "category": "Specialty Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.95,
+                    "title": "SB1. Thai Iced Tea"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.95,
+                    "title": "SB4. Iced Green Tea"
+                }
+            ]
+        },
+        {
+            "category": "Blended Ice Coolers",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.95,
+                    "title": "BC1. Green Apple Ice Cooler"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.95,
+                    "title": "BC5. Pineapple Ice Cooler"
+                }
+            ]
+        },
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.5,
+                    "title": "B1. Fountain Soda"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.75,
+                    "title": "B5. Bottled Water"
+                }
+            ]
+        },
+        {
+            "category": "Juice",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.95,
+                    "title": "J1. Fresh Coconut Juice"
+                },
+                {
+                    "description": "Martinelli.",
+                    "ingredients": [],
+                    "price": 2.95,
+                    "title": "J5. Apple Juice"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "French-fried tofu served with sweet chili sauce.",
+                    "ingredients": [],
+                    "price": 6.25,
+                    "title": "A1. Crispy Fried Tofu"
+                },
+                {
+                    "description": "Deep fried marinated strips of beef or pork, served with spicy tamarind sauce.",
+                    "ingredients": [],
+                    "price": 7.25,
+                    "title": "A8. Thai Jerky"
+                }
+            ]
+        },
+        {
+            "category": "Soups",
+            "items": [
+                {
+                    "description": "Mixed vegetables in a delicious broth.",
+                    "ingredients": [],
+                    "price": 7.95,
+                    "title": "S1. Vegetable Soup"
+                },
+                {
+                    "description": "Tom yum goong. Hot and sour soup with shrimp, mushrooms, tomato, galangal, lemongrass and kaffir lime leaves. Spicy.",
+                    "ingredients": [],
+                    "price": 9.5,
+                    "title": "S5. Spicy Shrimp Soup"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Shredded green papaya, tomato, green beans, peanuts and dried shrimps, dressed with chili and lime juice. Spicy.",
+                    "ingredients": [],
+                    "price": 7.65,
+                    "title": "SD1. Som Tum"
+                },
+                {
+                    "description": "Steak salad.",
+                    "ingredients": [],
+                    "price": 7.65,
+                    "title": "SD5. Nam Tok"
+                }
+            ]
+        },
+        {
+            "category": "House Special",
+            "items": [
+                {
+                    "description": "Half chicken marinated and grilled to perfection, served with sweet chili sauce.",
+                    "ingredients": [],
+                    "price": 9.25,
+                    "title": "HS1. BBQ Chicken"
+                },
+                {
+                    "description": "Deep fried catfish slices sauteed in a spicy curry sauce with basil.",
+                    "ingredients": [],
+                    "price": 10.25,
+                    "title": "HS7. Crispy Catfish"
+                }
+            ]
+        },
+        {
+            "category": "Noodles",
+            "items": [
+                {
+                    "description": "Classic stir fried rice noodles with bean sprouts, egg and choice of beef, chicken or pork, tossed in tamarind sauce.",
+                    "ingredients": [],
+                    "price": 7.75,
+                    "title": "N1. Pad Thai"
+                },
+                {
+                    "description": "Stir fried egg noodles with green onion. Choice of beef, chicken or pork.",
+                    "ingredients": [],
+                    "price": 7.75,
+                    "title": "N5. Chow Mein"
+                }
+            ]
+        },
+        {
+            "category": "Rice",
+            "items": [
+                {
+                    "description": "Steamed rice topped with BBQ chicken.",
+                    "ingredients": [],
+                    "price": 8.25,
+                    "title": "R1. BBQ Chicken with Rice"
+                },
+                {
+                    "description": "Beef stir-fried with rice, onion, egg and green chili.",
+                    "ingredients": [],
+                    "price": 7.65,
+                    "title": "R10. Spicy Beef Fried Rice"
+                }
+            ]
+        },
+        {
+            "category": "Vegetables",
+            "items": [
+                {
+                    "description": "Mixed vegetables sauteed in oyster sauce.",
+                    "ingredients": [],
+                    "price": 7.25,
+                    "title": "V1. Vegetable Stir Fry"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.25,
+                    "title": "V6. Spinach"
+                }
+            ]
+        },
+        {
+            "category": "Thai Curries",
+            "items": [
+                {
+                    "description": "This mild curry is made with yellow curry paste, coconut milk, potatoes and carrots. Spicy.",
+                    "ingredients": [],
+                    "price": 8.95,
+                    "title": "TC1. Yellow Curry"
+                },
+                {
+                    "description": "Green curry paste, coconut milk, fish cake, bamboo shoots and mint leaves. Spicy.",
+                    "ingredients": [],
+                    "price": 9.95,
+                    "title": "TC4. Green Curry with Fish Fillet"
+                }
+            ]
+        },
+        {
+            "category": "Thai Stir Fried",
+            "items": []
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Coconut, green tea, taro, chocolate, vanilla.",
+                    "ingredients": [],
+                    "price": 3.95,
+                    "title": "D1. Ice Cream"
+                },
+                {
+                    "description": "With sticky rice.",
+                    "ingredients": [],
+                    "price": 6.25,
+                    "title": "D3. Green Tea Ice Cream"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/alhambra/307865-green-papaya/menu/",
+    "name": "Green Papaya",
+    "state": "California",
+    "type": "Thai, Asian",
+    "website": "http://www.greenpapayasthai.com",
+    "zip": "91803"
+}

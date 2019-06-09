@@ -1,0 +1,216 @@
+{
+    "address": "35875 Date Palm Drive",
+    "city": "Cathedral City",
+    "currency": "USD",
+    "id": "382286",
+    "menu": [
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "Two crisp patties filled with potatoes, peas, and aromatic spices.",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "Samosas"
+                },
+                {
+                    "description": "Two crispy Indian wafers.",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "Pappadam"
+                }
+            ]
+        },
+        {
+            "category": "Soup & Salad",
+            "items": [
+                {
+                    "description": "Fresh vegetable soup with lentils and herbs.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Vegetable Soup"
+                },
+                {
+                    "description": "Fresh green salad with raita dressing.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Salad"
+                }
+            ]
+        },
+        {
+            "category": "Vegetables",
+            "items": [
+                {
+                    "description": "Cauliflower cooked with potato.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Aloo Gobi"
+                },
+                {
+                    "description": "Fresh peas cooked with mushrooms in mild gravy.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Mattar Mushroom"
+                }
+            ]
+        },
+        {
+            "category": "Tandoori",
+            "items": [
+                {
+                    "description": "Lamb meat marinated in yogurt and mild spices baked in traditional Indian clay oven.",
+                    "ingredients": [],
+                    "price": 15.99,
+                    "title": "Lamb Boti Kebab"
+                }
+            ]
+        },
+        {
+            "category": "Chicken",
+            "items": [
+                {
+                    "description": "Boneless chicken pieces cooked with fresh vegetables, garlic, ginger, onion, tomatoes, and spices.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "Chicken Jalfrezi"
+                },
+                {
+                    "description": "Pieces of chicken cooked with potatoes in highly spiced gravy with diced tomatoes and chili peppers.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Chicken Vindaloo"
+                }
+            ]
+        },
+        {
+            "category": "Lamb",
+            "items": [
+                {
+                    "description": "Lamb marinated and cooked with herbs and spices.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Rogan Josh"
+                },
+                {
+                    "description": "Lamb meat cooked with chopped onions and tomatoes in a mildly spiced gravy.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Lamb Dopiaza"
+                }
+            ]
+        },
+        {
+            "category": "Seafood",
+            "items": [
+                {
+                    "description": "Saut?ed shrimp in ginger and garlic and cooked in freshly chopped spinach with special spices.",
+                    "ingredients": [],
+                    "price": 15.99,
+                    "title": "Saag Shrimp"
+                },
+                {
+                    "description": "Saut?ed shrimp cooked in a special gravy.",
+                    "ingredients": [],
+                    "price": 15.99,
+                    "title": "Chili Shrimp"
+                }
+            ]
+        },
+        {
+            "category": "Chef's Specialties",
+            "items": [
+                {
+                    "description": "Mixed vegetables and nuts cooked in special cream curry.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Vegetable Korma"
+                },
+                {
+                    "description": "Homemade cheese cooked with special spicy gravy and roasted herbs.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "Chili Paneer"
+                }
+            ]
+        },
+        {
+            "category": "Rice",
+            "items": [
+                {
+                    "description": "Steamed traditional basmati rice.",
+                    "ingredients": [],
+                    "price": 2.95,
+                    "title": "Basamati Rice"
+                },
+                {
+                    "description": "Steamed basmati rice cooked with chicken pieces cooked in mild spices, saffron nuts, and fresh vegetables.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "Chicken Biryani"
+                }
+            ]
+        },
+        {
+            "category": "Tandoori Breads",
+            "items": [
+                {
+                    "description": "Traditional Indian-style whole wheat bread.",
+                    "ingredients": [],
+                    "price": 2.5,
+                    "title": "Tandoori Roti"
+                },
+                {
+                    "description": "Naan stuffed with homemade cheese.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Paneer Kulcha"
+                }
+            ]
+        },
+        {
+            "category": "Side Orders",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "Indian Pickle"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Raita"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Doughnut balls made from milk in scented light syrup.",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "Gulab Jaman"
+                },
+                {
+                    "description": "India-style ice cream.",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "Pistachio Kulfi"
+                }
+            ]
+        },
+        {
+            "category": "Misc.",
+            "items": []
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/cathedral-city/382286-india-oven/menu/",
+    "name": "India Oven",
+    "state": "California",
+    "type": "",
+    "website": "http://india-oven.com/directions.html",
+    "zip": "92234"
+}

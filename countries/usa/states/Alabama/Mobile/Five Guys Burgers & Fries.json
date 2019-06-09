@@ -1,0 +1,110 @@
+{
+    "address": "4663 Airport Blvd.",
+    "city": "Mobile",
+    "currency": "USD",
+    "id": "307039",
+    "menu": [
+        {
+            "category": "Burgers",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.29,
+                    "title": "Hamburger"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 8.29,
+                    "title": "Bacon Burger"
+                }
+            ]
+        },
+        {
+            "category": "Hot Dogs",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Hot Dog"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.69,
+                    "title": "Cheese Dog"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.69,
+                    "title": "Grilled Cheese Sandwich"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "BLT Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Fries",
+            "items": [
+                {
+                    "description": "Five Guys fries are cooked in 100% peanut oil. -   To ensure quality and freshness, your fries will not be cooked until you arrive",
+                    "ingredients": [],
+                    "price": 3.49,
+                    "title": "Little Fries"
+                },
+                {
+                    "description": "Five Guys fries are cooked in 100% peanut oil. -   To ensure quality and freshness, your fries will not be cooked until you arrive",
+                    "ingredients": [],
+                    "price": 4.49,
+                    "title": "Regular Cajun Fries"
+                }
+            ]
+        },
+        {
+            "category": "Drinks",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.09,
+                    "title": "Bottled Water"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Simply Lemonade (bottle)"
+                }
+            ]
+        },
+        {
+            "category": "Milkshakes",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.49,
+                    "title": "Milkshake"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/mobile/307039-five-guys-burgers-&-fries/menu/",
+    "name": "Five Guys Burgers & Fries",
+    "state": "Alabama",
+    "type": "Burgers, Sandwiches, American, Grill, Lunch Specials",
+    "website": "http://www.fiveguys.com",
+    "zip": "36608"
+}

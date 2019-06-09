@@ -1,0 +1,171 @@
+{
+    "address": "3470 Galleria Cir",
+    "city": "Birmingham",
+    "currency": "USD",
+    "id": "69138",
+    "menu": [
+        {
+            "category": "Drinks",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "16.9 oz. Bottle Aquafina"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "16.9 oz. Bottle Soda"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "Sauteed shrimp and chicken with fresh shiitake mushrooms, water chestnuts and green onions tossed in our spicy soy ginger sauce. Wraps cannot be altered as they are prepared at the beginning of each shift.",
+                    "ingredients": [],
+                    "price": 13.69,
+                    "title": "Lettuce Wraps - Chicken and Shrimp"
+                },
+                {
+                    "description": "Choose any two of your favorite spring rolls.",
+                    "ingredients": [],
+                    "price": 8.79,
+                    "title": "2 Tortilla Spring Rolls"
+                }
+            ]
+        },
+        {
+            "category": "Soups",
+            "items": []
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Nuesek's Applewood smoked bacon, avocado, chicken, tomatoes, chopped egg, fresh basil and Gorgonzola with housemade herb ranch of bleu cheese dressing.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "California Cobb Full Salad"
+                },
+                {
+                    "description": "One of a kind with roasted butternut squash, dates, avocado, toasted almonds, beets, red peppers, chopped egg and cranberries. Tossed with house-made champagne vinaigrette.",
+                    "ingredients": [],
+                    "price": 11.79,
+                    "title": "Moroccan-Spiced Chicken Half Salad"
+                }
+            ]
+        },
+        {
+            "category": "Small Plates and Flatbreads",
+            "items": [
+                {
+                    "description": "Arugula, asparagus and sun dried tomatoes tossed with almonds and shaved Parmesan with a housemade lemon vinaigrette. Vegetarian.",
+                    "ingredients": [],
+                    "price": 6.03,
+                    "title": "Asparagus and Arugula Salad"
+                },
+                {
+                    "description": "Cremini mushrooms, sauteed spinach and California olive ranch extra virgin olive oil with Romano and Parmesan.",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Shaved Mushroom and Spinach Flatbread"
+                }
+            ]
+        },
+        {
+            "category": "Original Hand-Tossed Pizzas",
+            "items": [
+                {
+                    "description": "Our legendary BBQ sauce, smoked Gouda, red onions and cilantro transform this original to iconic.",
+                    "ingredients": [],
+                    "price": 15.15,
+                    "title": "The Original BBQ Chicken Pizza"
+                },
+                {
+                    "description": "America's favorite pizza.",
+                    "ingredients": [],
+                    "price": 12.89,
+                    "title": "Pepperoni Pizza"
+                }
+            ]
+        },
+        {
+            "category": "Pastas",
+            "items": [
+                {
+                    "description": "Fresh asparagus, spinach, housemade checca and Parmesan.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Asparagus and Spinach Spaghettini"
+                },
+                {
+                    "description": "The ultimate roasted garlic Parmesan cream sauce.",
+                    "ingredients": [],
+                    "price": 11.29,
+                    "title": "Garlic Cream Fettuccine"
+                }
+            ]
+        },
+        {
+            "category": "Main Plates",
+            "items": [
+                {
+                    "description": "North Atlantic salmon roasted on a Cedar Plank in our hearth oven with Smoked Paprika & Lime. Served with White Corn & Spinach Succotash topped with Feta.",
+                    "ingredients": [],
+                    "price": 19.79,
+                    "title": "Cedar Plank Salmon"
+                },
+                {
+                    "description": "Panko-crusted chicken breast topped with wild arugula and house-made checca finished with California Olive Ranch extra virgin olive oil and shaved Parmesan.",
+                    "ingredients": [],
+                    "price": 16.99,
+                    "title": "Chicken Milanese"
+                }
+            ]
+        },
+        {
+            "category": "Crispy Thin-Crust Pizzas",
+            "items": [
+                {
+                    "description": "Even your friends will love this jerk. Spicy sweet Caribbean sauce, authentic Jamaican spices, Nueske's Applewood-smoked bacon, onions and bell peppers.",
+                    "ingredients": [],
+                    "price": 14.69,
+                    "title": "Jamaican Jerk Chicken Pizza"
+                },
+                {
+                    "description": "Oven-roasted artichoke hearts, roasted garlic, sauteed spinach, mozzarella and Parmesan. Vegetarian.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "Roasted Artichoke and Spinach Pizza"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Warm chocolate cake served with triple-thick hot fudge and vanilla bean sauce.",
+                    "ingredients": [],
+                    "price": 7.2,
+                    "title": "Belgian Chocolate Souffle Cake"
+                },
+                {
+                    "description": "The classic you crave, frosted with hand-whipped vanilla bean cream cheese icing and white chocolate curls.",
+                    "ingredients": [],
+                    "price": 7.49,
+                    "title": "Red Velvet Cake"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/birmingham/69138-california-pizza-kitchen/menu/",
+    "name": "California Pizza Kitchen",
+    "state": "Alabama",
+    "type": "Pizza, Sandwiches, Soups, American, Californian, Pasta, Salads",
+    "website": "http://cpk.com",
+    "zip": "35244"
+}

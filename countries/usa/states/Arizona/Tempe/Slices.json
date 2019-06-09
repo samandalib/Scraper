@@ -1,0 +1,52 @@
+{
+    "address": "11 E 6th St",
+    "city": "Tempe",
+    "currency": "USD",
+    "id": "4889",
+    "menu": [
+        {
+            "category": "Pizzas",
+            "items": []
+        },
+        {
+            "category": "Calzones",
+            "items": [
+                {
+                    "description": "Mozzarella, pepperoni, sausage and ham.",
+                    "ingredients": [],
+                    "price": 7.0,
+                    "title": "Stromboli"
+                },
+                {
+                    "description": "Marinara sauce, breaded chicken, mushrooms and mozzarella.",
+                    "ingredients": [],
+                    "price": 7.0,
+                    "title": "Parking Zone Calzone"
+                }
+            ]
+        },
+        {
+            "category": "Pizzas Slice",
+            "items": [
+                {
+                    "description": "Marinara sauce and mozzarella cheese.",
+                    "ingredients": [],
+                    "price": 2.75,
+                    "title": "Cheese Pizza Slice"
+                },
+                {
+                    "description": "Marinara sauce, mozzarella and mushrooms.",
+                    "ingredients": [],
+                    "price": 3.25,
+                    "title": "Mushroom Pizza Slice"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/az/tempe/4889-slices/menu/",
+    "name": "Slices",
+    "state": "Arizona",
+    "type": "Pizza, American, Calzones",
+    "website": "http://slicespizzajoint.com",
+    "zip": "85281"
+}

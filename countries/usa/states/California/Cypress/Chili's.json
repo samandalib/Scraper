@@ -1,0 +1,329 @@
+{
+    "address": "10643 Valley View St",
+    "city": "Cypress",
+    "currency": "USD",
+    "id": "34038",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.69,
+                    "title": "Coca-Cola"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.09,
+                    "title": "Regular Arnold Palmer"
+                }
+            ]
+        },
+        {
+            "category": "Starters",
+            "items": [
+                {
+                    "description": "Choose any three. Served with dipping sauces.",
+                    "ingredients": [],
+                    "price": 12.19,
+                    "title": "Triple Dipper"
+                },
+                {
+                    "description": "With pico, guacamole, cilantro. Served with chips & salsa.",
+                    "ingredients": [],
+                    "price": 7.79,
+                    "title": "White Spinach Queso"
+                }
+            ]
+        },
+        {
+            "category": "Soups",
+            "items": []
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Chicken Crispers, pico, avocado, cilantro, tortilla strips, house-made ranch, and a drizzle of spicy Santa Fe sauce.",
+                    "ingredients": [],
+                    "price": 11.19,
+                    "title": "Santa Fe Crispers Salad"
+                },
+                {
+                    "description": "Crispy chicken tossed in spicy Buffalo sauce, bacon, bleu cheese crumbles, pico, and tortilla strips with house-made ranch.",
+                    "ingredients": [],
+                    "price": 10.59,
+                    "title": "Boneless Buffalo Chicken Salad"
+                }
+            ]
+        },
+        {
+            "category": "Side Salads",
+            "items": [
+                {
+                    "description": "Spring mix and queso fresco with honey-lime vinaigrette.",
+                    "ingredients": [],
+                    "price": 4.59,
+                    "title": "Fresco Side Salad"
+                },
+                {
+                    "description": "Garden salad with your choice of dressing.",
+                    "ingredients": [],
+                    "price": 4.59,
+                    "title": "House Side Salad"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "Grilled chicken, bacon, Swiss, avocado, sauteed onions, lettuce, tomato, and cilantro-pesto mayo on a toasted buttery roll. Served with home style fries.",
+                    "ingredients": [],
+                    "price": 10.79,
+                    "title": "Bacon Avocado Grilled Chicken Sandwich"
+                },
+                {
+                    "description": "Bacon, avocado, tomato, red onion, Swiss, lettuce, and cilantro-pesto mayo on wheat Texas toast. Served with home style fries.",
+                    "ingredients": [],
+                    "price": 9.89,
+                    "title": "California Turkey Club Toasted Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Big Mouth Burgers",
+            "items": [
+                {
+                    "description": "Bacon, cheddar, pickles, Awesome Blossom Petals, lettuce, tomato and garlic aioli. Served with garlic dill pickles, fries, and a side of original BBQ sauce.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Southern Smokehouse Burger"
+                },
+                {
+                    "description": "Smoked brisket, rib meat, jalape?o-cheddar smoked sausage, bacon, cheddar, lettuce, tomato, house BBQ, and house-made ranch. Served with garlic dill pickles and fries.",
+                    "ingredients": [],
+                    "price": 14.69,
+                    "title": "The Boss"
+                }
+            ]
+        },
+        {
+            "category": "Baby Back Ribs",
+            "items": [
+                {
+                    "description": "Served with fries and coleslaw.",
+                    "ingredients": [],
+                    "price": 12.19,
+                    "title": "1/2 Rack House BBQ Baby Back Ribs"
+                },
+                {
+                    "description": "Served with fries and roasted street corn and your choice of up to two sauces.",
+                    "ingredients": [],
+                    "price": 19.49,
+                    "title": "Full Rack House BBQ Baby Back Ribs"
+                }
+            ]
+        },
+        {
+            "category": "Hand-Trimmed Steaks",
+            "items": [
+                {
+                    "description": "Marbled, thick-cut steak topped with garlic butter. Served with loaded mashed potatoes, steamed broccoli.",
+                    "ingredients": [],
+                    "price": 18.39,
+                    "title": "Classic Ribeye"
+                }
+            ]
+        },
+        {
+            "category": "Full-On Fajitas",
+            "items": [
+                {
+                    "description": "Two fajitas with chipotle butter, cilantro, bell peppers, and onions. Made with Mexican rice, black beans, guacamole, sour cream, pico, salsa, shredded cheese, and your choice of flour or all-natural corn tortillas.",
+                    "ingredients": [],
+                    "price": 16.99,
+                    "title": "Combine Any Two"
+                },
+                {
+                    "description": "Grilled chicken, sauteed mushrooms, crumbled bacon, and mixed cheese.",
+                    "ingredients": [],
+                    "price": 15.99,
+                    "title": "Mushroom Jack Chicken Fajitas"
+                }
+            ]
+        },
+        {
+            "category": "Fresh Mex",
+            "items": [
+                {
+                    "description": "3 spicy chile-lime shrimp tacos in flour tortillas with pico, avocado, cilantro, coleslaw, and queso fresco. Served with Mexican rice and black beans.",
+                    "ingredients": [],
+                    "price": 11.79,
+                    "title": "Spicy Shrimp Tacos"
+                }
+            ]
+        },
+        {
+            "category": "Guiltless Grill",
+            "items": [
+                {
+                    "description": "Margarita grilled chicken breast topped with house-made pico de gallo & tortilla strips. Served with citrus-chile rice & black beans.",
+                    "ingredients": [],
+                    "price": 12.29,
+                    "title": "Margarita Grilled Chicken"
+                },
+                {
+                    "description": "100% USDA Choice sirloin with Chili's seasoning & drizzled with spicy citrus-chile sauce, topped with grilled avocado slices, garlic roasted tomatoes & chopped cilantro. Served with fresco salad.",
+                    "ingredients": [],
+                    "price": 12.89,
+                    "title": "6 oz. Classic Sirloin with Grilled Avocado"
+                }
+            ]
+        },
+        {
+            "category": "Hand-Battered Crispers",
+            "items": [
+                {
+                    "description": "Served with bleu cheese. All-natural 100% white meat. Served with corn on the cob and home style fries.",
+                    "ingredients": [],
+                    "price": 11.39,
+                    "title": "Crispy Buffalo Bleu Crispers"
+                },
+                {
+                    "description": "Served with house-made ranch. All-natural 100% white meat. Served with corn on the cob and home style fries.",
+                    "ingredients": [],
+                    "price": 10.89,
+                    "title": "Crispy Honey Chipotle Crispers"
+                }
+            ]
+        },
+        {
+            "category": "Cajun Pasta",
+            "items": [
+                {
+                    "description": "Penne pasta in Alfredo sauce with a hint of chile spice, topped with Parmesan, diced tomatoes and green onions. Served with garlic toast.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Grilled Chicken Cajun Pasta"
+                },
+                {
+                    "description": "Penne pasta in Alfredo sauce with a hint of chile spice, topped with Parmesan, diced tomatoes and green onions. Served with garlic toast.",
+                    "ingredients": [],
+                    "price": 13.49,
+                    "title": "Seared Shrimp Cajun Pasta"
+                }
+            ]
+        },
+        {
+            "category": "Smokehouse Combos",
+            "items": [
+                {
+                    "description": "Served with roasted street corn, home style fries, chile-garlic toast, house-made garlic dill pickles.",
+                    "ingredients": [],
+                    "price": 16.49,
+                    "title": "Choose Any 2 Smokehouse Combo"
+                },
+                {
+                    "description": "Served with roasted street corn, home style fries, chile-garlic toast, house-made garlic dill pickles.",
+                    "ingredients": [],
+                    "price": 18.49,
+                    "title": "Choose Any 3 Smokehouse Combo"
+                }
+            ]
+        },
+        {
+            "category": "Full-On Meal Deals",
+            "items": [
+                {
+                    "description": "Your choice of a beverage, starter, and an entree.",
+                    "ingredients": [],
+                    "price": 10.0,
+                    "title": "3 for $10 Meal for 1"
+                },
+                {
+                    "description": "Two side salads with choice of two entrees and one shareable dessert.",
+                    "ingredients": [],
+                    "price": 25.0,
+                    "title": "Copy of $25 Meal for 2 with Two Side Salads"
+                }
+            ]
+        },
+        {
+            "category": "For the Kiddos",
+            "items": [
+                {
+                    "description": "Cheesy chicken pasta made with 100% all-natural, white meat chicken and served with choice of side and a drink.",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Pepper Pals\u00ae Cheesy Chicken Pasta"
+                },
+                {
+                    "description": "Cheese Quesadilla served with choice of side and a drink.",
+                    "ingredients": [],
+                    "price": 5.2,
+                    "title": "Pepper Pals\u00ae Cheese Quesadilla"
+                }
+            ]
+        },
+        {
+            "category": "Side Notes",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "Homestyle Fries"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Grilled Asparagus and Garlic Roasted Tomatoes"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Combos",
+            "items": [
+                {
+                    "description": "Served with fries.",
+                    "ingredients": [],
+                    "price": 8.0,
+                    "title": "Half Bacon Avocado Chicken Sandwich Lunch"
+                },
+                {
+                    "description": "Served with fries.",
+                    "ingredients": [],
+                    "price": 8.0,
+                    "title": "Lunch Double Burger"
+                }
+            ]
+        },
+        {
+            "category": "Sweet Stuff",
+            "items": [
+                {
+                    "description": "Chocolate cake with a molten chocolate center, topped with vanilla ice cream in a chocolate shell. Big enough to share, too good to actually do it.",
+                    "ingredients": [],
+                    "price": 7.69,
+                    "title": "Molten Chocolate Cake"
+                },
+                {
+                    "description": "Served over strawberry puree.",
+                    "ingredients": [],
+                    "price": 6.89,
+                    "title": "Cheesecake"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/cypress/34038-chili's/menu/",
+    "name": "Chili's",
+    "state": "California",
+    "type": "Tex-Mex, Burgers, Sandwiches, Soups, American",
+    "website": "http://www.chilis.com",
+    "zip": "90630"
+}

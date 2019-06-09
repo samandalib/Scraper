@@ -1,0 +1,82 @@
+{
+    "address": "700 SE Walton Blvd Ste 12",
+    "city": "Bentonville",
+    "currency": "USD",
+    "id": "106123",
+    "menu": [
+        {
+            "category": "STARTERS & SIDES",
+            "items": []
+        },
+        {
+            "category": "SALADS",
+            "items": [
+                {
+                    "description": "Wok seared steak in Thai spices, served over a salad of romaine, Asian slaw, Mandarin oranges, house pickled vegetables, herbs, and wonton chips, served with a soy grapefruit dressing. ",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Thai Steak Chopped Salad"
+                }
+            ]
+        },
+        {
+            "category": "MAMA'S SIGNATURES",
+            "items": []
+        },
+        {
+            "category": "ASIAN CLASSICS",
+            "items": []
+        },
+        {
+            "category": "KID'S MEALS",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.29,
+                    "title": "Kid's Meals"
+                }
+            ]
+        },
+        {
+            "category": "DESSERTS",
+            "items": [
+                {
+                    "description": "Made fresh every day. ",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "Rice Crispy Treat"
+                },
+                {
+                    "description": "Choose from Salted Caramel or Chocolate Chunk. ",
+                    "ingredients": [],
+                    "price": 2.29,
+                    "title": "Cookies"
+                }
+            ]
+        },
+        {
+            "category": "BEVERAGES",
+            "items": [
+                {
+                    "description": "Sweet, Unsweet, Green Tea, Seasonal Flavors",
+                    "ingredients": [],
+                    "price": 2.29,
+                    "title": "Iced Tea"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.49,
+                    "title": "Bottled Beverages"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ar/bentonville/106123-mama-fu's-asian-house-(bentonville)/menu/",
+    "name": "Mama Fu's Asian House (Bentonville)",
+    "state": "Arkansas",
+    "type": "Chinese",
+    "website": "https://locations.mamafus.com/ar/bentonville/700-se-walton-blvd-.html",
+    "zip": "72712"
+}

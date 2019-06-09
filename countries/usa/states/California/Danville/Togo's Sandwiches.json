@@ -1,0 +1,211 @@
+{
+    "address": "3454 Camino Tassajara",
+    "city": "Danville",
+    "currency": "USD",
+    "id": "163951",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.5,
+                    "title": "Bottled Drink"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Sobe"
+                }
+            ]
+        },
+        {
+            "category": "Soups",
+            "items": [
+                {
+                    "description": "Broccolli cheddar, chilli, garden vegetable, chicken noodle and chicken tortilla.",
+                    "ingredients": [],
+                    "price": 5.25,
+                    "title": "10 oz. Soup"
+                }
+            ]
+        },
+        {
+            "category": "Salads and Salad Wraps",
+            "items": [
+                {
+                    "description": "Chicken, black bean and corn salsa, tomatoes, avocado, cheddar cheese and chile-lime tortilla strips and spring mix.",
+                    "ingredients": [],
+                    "price": 9.25,
+                    "title": "Santa Fe Chicken Salad"
+                },
+                {
+                    "description": "Chicken, romaine lettuce, Parmesan cheese and multigrain croutons.",
+                    "ingredients": [],
+                    "price": 9.25,
+                    "title": "Chicken Caesar Salad Wrap"
+                }
+            ]
+        },
+        {
+            "category": "Mini Classics Sandwich",
+            "items": [
+                {
+                    "description": "Half of regular sandwich.",
+                    "ingredients": [],
+                    "price": 5.75,
+                    "title": "Mini Classic Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Hot Sandwiches",
+            "items": []
+        },
+        {
+            "category": "Cold Classic Sandwiches",
+            "items": []
+        },
+        {
+            "category": "Signature Sandwiches",
+            "items": []
+        },
+        {
+            "category": "Toasted Sandwiches",
+            "items": []
+        },
+        {
+            "category": "Cold Classic Sandwich Combo",
+            "items": []
+        },
+        {
+            "category": "Vegetarian Classic Sandwich",
+            "items": []
+        },
+        {
+            "category": "Vegetarian Classic Sandwich Combo",
+            "items": []
+        },
+        {
+            "category": "Gluten Free Wrap",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.0,
+                    "title": "Gluten Free Wrap"
+                }
+            ]
+        },
+        {
+            "category": "Pick Any 2",
+            "items": [
+                {
+                    "description": "Please call restaurant for daily soup selection.",
+                    "ingredients": [],
+                    "price": 9.49,
+                    "title": "Half Salad and Regular Soup"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.49,
+                    "title": "Half Salad and Mini Classic Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Sides and Sweets",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.5,
+                    "title": "Chips"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.25,
+                    "title": "Meat"
+                }
+            ]
+        },
+        {
+            "category": "Kid's Meals (12 and Under)",
+            "items": [
+                {
+                    "description": "Cheese, turkey, ham or tuna.",
+                    "ingredients": [],
+                    "price": 6.75,
+                    "title": "Kid's Mini Classic, Side and 12 oz. Drink"
+                }
+            ]
+        },
+        {
+            "category": "Catering Salads",
+            "items": []
+        },
+        {
+            "category": "Catering Sandwiches",
+            "items": [
+                {
+                    "description": "Pre-cut 3\" Bread. Serves up to 30.",
+                    "ingredients": [],
+                    "price": 37.0,
+                    "title": "Build A Sandwich (Catering)"
+                }
+            ]
+        },
+        {
+            "category": "Catering Boxed Lunches",
+            "items": []
+        },
+        {
+            "category": "Catering Fruits & Veggies",
+            "items": [
+                {
+                    "description": "Serves up to 30",
+                    "ingredients": [],
+                    "price": 69.0,
+                    "title": "Fresh Cut Vegetable Tray"
+                },
+                {
+                    "description": "Serves up to 30",
+                    "ingredients": [],
+                    "price": 84.0,
+                    "title": "Fresh Fruit Tray (Seasonal)"
+                }
+            ]
+        },
+        {
+            "category": "Party Trays",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 75.0,
+                    "title": "Fresh Cut Vegetable"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 95.0,
+                    "title": "Fresh Fruit Tray"
+                }
+            ]
+        },
+        {
+            "category": "Catering Desserts",
+            "items": []
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/danville/163951-togo's-sandwiches/menu/",
+    "name": "Togo's Sandwiches",
+    "state": "California",
+    "type": "Sandwiches, American, Wraps",
+    "website": "http://order.togos.com/Menu.aspx?StoreNum=332449",
+    "zip": "94506"
+}

@@ -1,0 +1,318 @@
+{
+    "address": "6012 W Bell Rd",
+    "city": "Glendale",
+    "currency": "USD",
+    "id": "4898",
+    "menu": [
+        {
+            "category": "Drinks",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Soda"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Hot Tea"
+                }
+            ]
+        },
+        {
+            "category": "For the Table",
+            "items": [
+                {
+                    "description": "Toasted flour tortilla and layers of melted cheese.",
+                    "ingredients": [],
+                    "price": 7.59,
+                    "title": "Macayo's Famous Cheese Crisp"
+                },
+                {
+                    "description": "Fresh avocado, serranos, red onions, lime juice, and cilantro. Topped with Jack cheese and pico de gallo.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Guacamole"
+                }
+            ]
+        },
+        {
+            "category": "Platos Pequenos",
+            "items": [
+                {
+                    "description": "Chipotle crema, shredded cabbage, pico de gallo, Jack cheese, and fire-roasted tomatillo salsa. Spicy.",
+                    "ingredients": [],
+                    "price": 9.29,
+                    "title": "Shrimp and Chorizo Taquitos"
+                },
+                {
+                    "description": "Bite-sized beef or chicken chimis with mixed cheese, sour cream, guacamole, and pico de gallo.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Mini Chimichangas"
+                }
+            ]
+        },
+        {
+            "category": "True Flavors of Mexico",
+            "items": [
+                {
+                    "description": "Roasted corn served off the cob, topped with queso fresco and Pepe's picante salsa.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Mexican Corn"
+                },
+                {
+                    "description": "Smoky chipotle chicken, flour tortilla, Jack cheese, and guacamole. Spicy.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Tinga Quesadilla"
+                }
+            ]
+        },
+        {
+            "category": "Ensaladas",
+            "items": [
+                {
+                    "description": "Romaine, kale, and cabbage with black beans, calabacitas, diced avocado, queso fresco, pico de gallo, and caramelized pepitas tossed in tomatillo vinaigrette and topped with tortilla strips.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Mercado Chopped Salad"
+                },
+                {
+                    "description": "Chipotle BBQ chicken, fresh greens, pico de gallo, black beans, and Jack cheese, tossed in Cilantro Lime dressing.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Chipotle BBQ Chicken Salad"
+                }
+            ]
+        },
+        {
+            "category": "Sopa",
+            "items": []
+        },
+        {
+            "category": "Tacos",
+            "items": [
+                {
+                    "description": "Grilled chicken, shredded cabbage, pico de gallo, and corn tortillas. Served with fire-roasted tomatillo salsa, fresh picante salsa, rice, and refried beans.",
+                    "ingredients": [],
+                    "price": 13.59,
+                    "title": "Grilled Chicken Tacos"
+                },
+                {
+                    "description": "Choice of lightly battered or grilled seasonal fish on corn tortillas with chipotle crema, shredded cabbage, and pico de gallo. Served with fire-roasted tomatillo salsa, fresh picante salsa, rice, and refried beans.",
+                    "ingredients": [],
+                    "price": 13.59,
+                    "title": "Seasonal Fish Tacos"
+                }
+            ]
+        },
+        {
+            "category": "Mex-N-Match",
+            "items": [
+                {
+                    "description": "Choice of 1 item and 1 side.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "1 Item and 1 Side Mex-N-Match"
+                },
+                {
+                    "description": "Choice of 2 items and 1 side.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "2 Items and 1 Side Mex-N-Match"
+                }
+            ]
+        },
+        {
+            "category": "Fajitas",
+            "items": [
+                {
+                    "description": "Choice of grilled chicken or Certified Angus Beef with a grilled flour tortilla, fresh vegetables, mixed cheese, guacamole, and sour cream.",
+                    "ingredients": [],
+                    "price": 12.79,
+                    "title": "Fajita Quesadilla"
+                }
+            ]
+        },
+        {
+            "category": "Burros",
+            "items": [
+                {
+                    "description": "Green chile pork wrapped in a warm flour tortilla, served with rice and refried beans. Spicy.",
+                    "ingredients": [],
+                    "price": 11.49,
+                    "title": "Green Chile Pork Burro"
+                },
+                {
+                    "description": "Shredded beef, chicken, or carnitas wrapped in a crispy flour tortilla. Topped with Baja sauce and Jack cheese. Served with refried beans. Spicy.",
+                    "ingredients": [],
+                    "price": 12.79,
+                    "title": "Baja Burro"
+                }
+            ]
+        },
+        {
+            "category": "Especiales de Macayo",
+            "items": [
+                {
+                    "description": "3 roasted Anaheim chiles, mixed cheese with red enchilada sauce, carnitas with fire-roasted Tomatillo salsa, and shredded chicken with Baja sauce. Served with rice and black beans.",
+                    "ingredients": [],
+                    "price": 14.49,
+                    "title": "Tres Rellenos"
+                },
+                {
+                    "description": "Choice of beef or corn tamale served with rice, refried beans, and choice of sauce.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "1 Tamale Dinner"
+                }
+            ]
+        },
+        {
+            "category": "Woody's Original Chimichanga",
+            "items": [
+                {
+                    "description": "Choice of meat with Relleno sauce, crispy flour tortilla, sour cream, and choice of rice or refried beans.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Woody's Original Chimi de Macayo"
+                },
+                {
+                    "description": "Choice of meat with relleno sauce, Baja sauce, Jack cheese, rice, refried beans, and guacamole. Spicy.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Woody's Original Chimichanga Baja Dinner"
+                }
+            ]
+        },
+        {
+            "category": "Enchiladas",
+            "items": [
+                {
+                    "description": "Sauteed shrimp with green chilies and onions rolled in a corn tortilla and topped with fire-roasted tomatillo sauce and Jack cheese. Served with rice and black beans. Spicy.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "Verde Shrimp Enchilada"
+                },
+                {
+                    "description": "Beef enchilada with green sauce, chicken enchilada with Baja sauce, and cheese enchilada with red sauce. Served with rice and black beans. Spicy.",
+                    "ingredients": [],
+                    "price": 14.49,
+                    "title": "Sonoran Enchilada Trio"
+                }
+            ]
+        },
+        {
+            "category": "Vegetarian Menu",
+            "items": [
+                {
+                    "description": "Toasted flour tortilla, layers of melted cheese.",
+                    "ingredients": [],
+                    "price": 7.59,
+                    "title": "Vegetarian Macayo's Famous Cheese Crisp"
+                },
+                {
+                    "description": "Corn tortillas, black beans, calabacitas, Jack cheese, fire-roasted tomatillo salsa, and sour cream. Served with rice and black beans. Spicy.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Vegetarian Veggie Enchiladas"
+                }
+            ]
+        },
+        {
+            "category": "Gluten-Free Menu",
+            "items": [
+                {
+                    "description": "2 corn tortillas, layers of melted cheese, pico de gallo, and fire-roasted tomatillo salsa.",
+                    "ingredients": [],
+                    "price": 5.89,
+                    "title": "Gluten-Free Corn Crisp"
+                },
+                {
+                    "description": "Choice of grilled chicken or Certified Angus Beef with shredded cabbage, pico de gallo, and corn tortillas. Served with fire-roasted tomatillo salsa, fresh picante salsa, rice, and refried beans.",
+                    "ingredients": [],
+                    "price": 13.59,
+                    "title": "Gluten-Free Grilled Tacos"
+                }
+            ]
+        },
+        {
+            "category": "Lados",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 0.99,
+                    "title": "Side of Pico de Gallo"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Side of Black Beans"
+                }
+            ]
+        },
+        {
+            "category": "Lunch",
+            "items": [
+                {
+                    "description": "Served with rice and beans.",
+                    "ingredients": [],
+                    "price": 7.49,
+                    "title": "Chalupa Taco Lunch"
+                },
+                {
+                    "description": "Beef taco, cheese enchilada, and bean tostada.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Woody's Favorite Lunch"
+                }
+            ]
+        },
+        {
+            "category": "Dessert",
+            "items": [
+                {
+                    "description": "Crispy coated vanilla ice cream and honey.",
+                    "ingredients": [],
+                    "price": 5.75,
+                    "title": "Deep Fried Ice Cream"
+                },
+                {
+                    "description": "Mexican caramel, whipped cream, and Mexican cookie.",
+                    "ingredients": [],
+                    "price": 5.49,
+                    "title": "Flan"
+                }
+            ]
+        },
+        {
+            "category": "Little Amigos (For Kids 12 and Under)",
+            "items": [
+                {
+                    "description": "2 mini tacos, 2 mini burritos, and 2 mini tostadas. Served with choice of side.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Kid's Combo"
+                },
+                {
+                    "description": "Choice of preparation. Served with ranch dressing and choice of side.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Kid's Chicken Strips"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/az/glendale/4898-macayo's-mexican-kitchen/menu/",
+    "name": "Macayo's Mexican Kitchen",
+    "state": "Arizona",
+    "type": "Mexican",
+    "website": "http://www.macayo.com/",
+    "zip": "85308"
+}

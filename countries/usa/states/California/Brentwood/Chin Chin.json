@@ -1,0 +1,256 @@
+{
+    "address": "11740 San Vicente Blvd",
+    "city": "Brentwood",
+    "currency": "USD",
+    "id": "280236",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "Soda"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Lemonade"
+                }
+            ]
+        },
+        {
+            "category": "Shareables",
+            "items": [
+                {
+                    "description": "Minced chicken, water chestnuts, black mushrooms, pine nuts and bell peppers on a bed of crispy rice noodles. Served with 4 fresh lettuce cups.",
+                    "ingredients": [],
+                    "price": 17.95,
+                    "title": "Chicken Lettuce Cups"
+                },
+                {
+                    "description": "Chicken, pork, or vegetable moo shu with mushrooms, saut?ed vegetables and eggs. Wrapped with two thin moo shu wrappers.",
+                    "ingredients": [],
+                    "price": 15.95,
+                    "title": "Moo Shu"
+                }
+            ]
+        },
+        {
+            "category": "Soups and Salads",
+            "items": [
+                {
+                    "description": "Shredded iceberg lettuce, chicken breast, red cabbage, carrots, wanton crisps, fresh orange segments and scallions tossed with a sesame dressing.",
+                    "ingredients": [],
+                    "price": 17.95,
+                    "title": "Sesame Chicken Salad"
+                },
+                {
+                    "description": "Chin Chin's interpretation of the egg drop soup including egg, sweet corn, minced chicken, green peas and cellophane noodles.",
+                    "ingredients": [],
+                    "price": 13.95,
+                    "title": "Velvet Corn Soup"
+                }
+            ]
+        },
+        {
+            "category": "Dim Sum",
+            "items": [
+                {
+                    "description": "6 pieces. Open-face steamed dumplings with pork, water chestnuts, mushrooms and green onion topped with shrimp.",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "Shumai"
+                },
+                {
+                    "description": "5 pieces. Crispy wantons with choice of chicken or pork.",
+                    "ingredients": [],
+                    "price": 11.0,
+                    "title": "Fried Wontons"
+                }
+            ]
+        },
+        {
+            "category": "Poultry Entrees",
+            "items": [
+                {
+                    "description": "Crispy dark meat chicken with chili peppers in a spicy, sweet and savory sauce, garnished with green onions. Hot and spicy.",
+                    "ingredients": [],
+                    "price": 17.95,
+                    "title": "General Tso's Chicken"
+                },
+                {
+                    "description": "Dark meat chicken with red bell peppers, peanuts and water chestnuts in spicy red sauce. Hot and spicy.",
+                    "ingredients": [],
+                    "price": 17.95,
+                    "title": "Kung Pao Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Roasted  Chicken and Ribs",
+            "items": [
+                {
+                    "description": "Slow roasted pork ribs with barbecue sauce.",
+                    "ingredients": [],
+                    "price": 16.0,
+                    "title": "Barbecue Spare Ribs"
+                },
+                {
+                    "description": "Half roasted chicken topped off with signature Hunan sauce and garnished with scallions.",
+                    "ingredients": [],
+                    "price": 17.95,
+                    "title": "Hunan Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Beef and Pork Entrees",
+            "items": [
+                {
+                    "description": "Flank steak, garlic, and green onion stalks, tossed in a sweet savory sauce, served on a bed of crispy rice noodles.",
+                    "ingredients": [],
+                    "price": 18.95,
+                    "title": "Mongolian Beef"
+                },
+                {
+                    "description": "Flank steak, broccoli and black mushrooms sauteed in a garlic brown sauce.",
+                    "ingredients": [],
+                    "price": 18.95,
+                    "title": "Beef and Broccoli"
+                }
+            ]
+        },
+        {
+            "category": "Seafood Entrees",
+            "items": [
+                {
+                    "description": "Large shrimp, eggs, ground pork, snow peas, water chestnuts and red bell peppers sauteed in lobster sauce.",
+                    "ingredients": [],
+                    "price": 20.0,
+                    "title": "Shrimp with Lobster Sauce"
+                },
+                {
+                    "description": "Deep fried shrimp with red bell peppers, onions and pineapple in a sweet and sour sauce.",
+                    "ingredients": [],
+                    "price": 20.0,
+                    "title": "Sweet and Sour Shrimp"
+                }
+            ]
+        },
+        {
+            "category": "Vegetable Entrees",
+            "items": [
+                {
+                    "description": "Sauteed Chinese eggplant and red onions in a spicy garlic sauce, garnished with green onions. Hot and spicy.",
+                    "ingredients": [],
+                    "price": 13.95,
+                    "title": "Spicy Garlic Eggplant"
+                },
+                {
+                    "description": "Lightly battered tofu cubes with pepper, garlic, green onion, diced bell peppers, over crispy rice noodles.",
+                    "ingredients": [],
+                    "price": 13.95,
+                    "title": "Salt and Pepper Tofu"
+                }
+            ]
+        },
+        {
+            "category": "Gluten Concious",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 11.5,
+                    "title": "Vietnamese Summer Rolls"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 18.95,
+                    "title": "Crab and Asparagus Fried Rice"
+                }
+            ]
+        },
+        {
+            "category": "Noodles",
+            "items": [
+                {
+                    "description": "Soft lo mein noodles with shredded vegetables and a choice of of chicken, pork, or vegetables.",
+                    "ingredients": [],
+                    "price": 16.95,
+                    "title": "Lo Mein"
+                },
+                {
+                    "description": "Lo mein noodles, sliced chicken breast and shredded carrots tossed in a spicy cilantro sauce. Hot and spicy.",
+                    "ingredients": [],
+                    "price": 17.95,
+                    "title": "Anthony's Special Noodles"
+                }
+            ]
+        },
+        {
+            "category": "Rice",
+            "items": [
+                {
+                    "description": "White fried rice with shrimp, barbecue pork, peas, carrots and eggs. No soy sauce.",
+                    "ingredients": [],
+                    "price": 13.95,
+                    "title": "Yang Chow Rice"
+                },
+                {
+                    "description": "Your choice of protein with eggs, scallions and fried rice sauce.",
+                    "ingredients": [],
+                    "price": 12.25,
+                    "title": "Fried Rice"
+                }
+            ]
+        },
+        {
+            "category": "Catering",
+            "items": []
+        },
+        {
+            "category": "Chicken Entrees",
+            "items": [
+                {
+                    "description": "Crispy dark meat chicken with chili peppers in a spicy, sweet and savory sauce, garnished with green onions. Hot and spicy.",
+                    "ingredients": [],
+                    "price": 17.95,
+                    "title": "General Tso's Chicken"
+                },
+                {
+                    "description": "Dark meat chicken with red bell peppers, peanuts and water chestnuts in a spicy red sauce. Hot and spicy.",
+                    "ingredients": [],
+                    "price": 17.95,
+                    "title": "Kung Pao Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Kid's Menu",
+            "items": [
+                {
+                    "description": "Tender slices of flank steak and broccoli sauteed in a brown garlic sauce.",
+                    "ingredients": [],
+                    "price": 8.95,
+                    "title": "Kid's Beef and Broccoli"
+                },
+                {
+                    "description": "Crispy chicken breast pieces tossed with red and green bell peppers, onions and a tangy orange sauce.",
+                    "ingredients": [],
+                    "price": 8.95,
+                    "title": "Kid's Orange Chicken"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/brentwood/280236-chin-chin/menu/",
+    "name": "Chin Chin",
+    "state": "California",
+    "type": "Chinese, Dim Sum",
+    "website": "http://www.chinchin.com/menu.html",
+    "zip": "90049"
+}

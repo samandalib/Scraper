@@ -1,0 +1,199 @@
+{
+    "address": "19652 Steven Creek Blvd",
+    "city": "Cupertino",
+    "currency": "USD",
+    "id": "19990",
+    "menu": [
+        {
+            "category": "What's New",
+            "items": [
+                {
+                    "description": "Thinly sliced roast beef layered on a sweet French roll, heated and served with erik?s au jus and creamy horseradish on the side. 555 cal.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Barnbuster"
+                },
+                {
+                    "description": "Creamy, smooth New York cheesecake hand-fired for a delectable finish. 600 cal.",
+                    "ingredients": [],
+                    "price": 5.79,
+                    "title": "Big Cheese Brulee"
+                }
+            ]
+        },
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.95,
+                    "title": "Bottled Water"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.5,
+                    "title": "Arizona Iced Tea"
+                }
+            ]
+        },
+        {
+            "category": "Soup's On",
+            "items": []
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Grilled chicken breast over fresh greens topped with sharp Gorgonzola cheese, Craisins?, honey maple walnuts with blueberry pomegranate vinaigrette. 590 cal.",
+                    "ingredients": [],
+                    "price": 9.5,
+                    "title": "Chicken Gorgonzola Salad"
+                }
+            ]
+        },
+        {
+            "category": "Classic Sandwiches",
+            "items": [
+                {
+                    "description": "Slices of turkey breast and avocado on hearty 9-grain bread with onions, tomato, clover sprouts, and Erik's Secret Goo. 570 cal.",
+                    "ingredients": [],
+                    "price": 9.5,
+                    "title": "Pilgrim's Progress Sandwich"
+                },
+                {
+                    "description": "Slices of turkey breast topped with pastrami, Monterey jack cheese, onions, tomato, clover sprouts and Erik's Secret Goo on fresh baked sourdough.  Served with chips and drink.  670 cal.",
+                    "ingredients": [],
+                    "price": 13.45,
+                    "title": "Pot Belly Sandwich Combo"
+                }
+            ]
+        },
+        {
+            "category": "Warm Sandwiches",
+            "items": [
+                {
+                    "description": "Premium roast beef, Swiss cheese, mushrooms, onions, tomato, clover sprouts and Erik's Secret Goo? on a French roll. 670 cal.",
+                    "ingredients": [],
+                    "price": 9.5,
+                    "title": "Abbott's Habit Sandwich"
+                },
+                {
+                    "description": "A generous serving of fresh tuna salad with cheddar cheese, avocado, tomato, onions and Erik's Secret Goo? on fresh baked sourdough.  Served with chips and drink. 780 cal.",
+                    "ingredients": [],
+                    "price": 13.45,
+                    "title": "Sea Dog Combo"
+                }
+            ]
+        },
+        {
+            "category": "Veggie Sandwiches",
+            "items": [
+                {
+                    "description": "A warm sandwich with a wheat pita stuffed with Monterey Jack and Cheddar cheese, avocado, mushrooms, sunflower seeds, onions, tomato, clover sprouts and Erik's Secret Goo?. 880 cal.",
+                    "ingredients": [],
+                    "price": 9.5,
+                    "title": "Natural High Sandwich"
+                },
+                {
+                    "description": "Hearty 9-grain bread with avocado, Monterey Jack cheese, onions, tomato, clover sprouts, and Erik's Secret Goo?.  Served with chips and drink. 630 cal.",
+                    "ingredients": [],
+                    "price": 13.45,
+                    "title": "Del Monte Special Sandwich Combo"
+                }
+            ]
+        },
+        {
+            "category": "Half Sandwich",
+            "items": [
+                {
+                    "description": "Served with erik?s \"secret goo\", slivered red onion, fresh tomato, and locally grown sprouts.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "DIY Sandwich"
+                },
+                {
+                    "description": "Choice of half sandwich made-to-order.",
+                    "ingredients": [],
+                    "price": 5.95,
+                    "title": "Any Half Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Combos with Character",
+            "items": [
+                {
+                    "description": "Any half sandwich with a bowl of soup or house salad or deli salad.",
+                    "ingredients": [],
+                    "price": 10.95,
+                    "title": "Half Sandwich Combo"
+                },
+                {
+                    "description": "Purchase any sandwich and add a fountain drink and bag of chips.",
+                    "ingredients": [],
+                    "price": 2.95,
+                    "title": "Chips and Drink Deal"
+                }
+            ]
+        },
+        {
+            "category": "Kid's Meals",
+            "items": [
+                {
+                    "description": "Melted Monterey Jack and Cheddar cheese served in a half wheat pocket. Served with milk or apple juice. 310 cal.",
+                    "ingredients": [],
+                    "price": 5.95,
+                    "title": "Charlie Cheesepocket Kid's Meal"
+                },
+                {
+                    "description": "Half of a turkey breast sandwich with lettuce and Erik's Secret Goo? on hearty 9-grain bread. Served with milk or apple juice. 190 cal.",
+                    "ingredients": [],
+                    "price": 5.95,
+                    "title": "Tommy Turkey Kid's Meal"
+                }
+            ]
+        },
+        {
+            "category": "Chips",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 0.99,
+                    "title": "Whole Kosher Dill Pickle"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.95,
+                    "title": "Chips"
+                }
+            ]
+        },
+        {
+            "category": "Sweets",
+            "items": [
+                {
+                    "description": "Moist and delicious, our famous carrot cake is made from Erik's mother's family recipe. 350 cal.",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Erik's Carrot Cake"
+                },
+                {
+                    "description": "Homemade mini-marshmallows with gluten-free, crispy rice puffs, brown butter and a hint of sea salt. Gluten free. 250 cal.",
+                    "ingredients": [],
+                    "price": 3.5,
+                    "title": "Chewy Marshmallow Manifesto Bar"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/cupertino/19990-erik's-deli-cafe/menu/",
+    "name": "Erik's Deli Cafe",
+    "state": "California",
+    "type": "Deli Food, American",
+    "website": "http://www.eriksdelicafe.com/",
+    "zip": "95014"
+}

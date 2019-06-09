@@ -1,0 +1,103 @@
+{
+    "address": "1990 New Patton Chapel Rd",
+    "city": "Birmingham",
+    "currency": "USD",
+    "id": "114277",
+    "menu": [
+        {
+            "category": "Disclaimer",
+            "items": []
+        },
+        {
+            "category": "Pre-Made Coffee",
+            "items": [
+                {
+                    "description": "A smooth, easy to love Latin American blend with flavor and personality, balanced from start to finish. Served 8-12. 5 cal. The calorie value is for 12 oz. serving of coffee and does not include the additional of sugar, artificial sweeteners or creamers.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "96 oz. Coffee Brew Box - Smooth Blend"
+                },
+                {
+                    "description": "A rich blend of African, Indonesian and Central American coffees. It's a hearty roast for the sophisticated sipper. Serves 8-12. 5 cal. The calorie value is for 12 oz. serving of coffee and does not include the additional of sugar, artificial sweeteners or creamers.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "96 oz. Coffee Brew Box - Rich Blend"
+                }
+            ]
+        },
+        {
+            "category": "Bagged Coffee",
+            "items": [
+                {
+                    "description": "A light, easy-to-drink blend with flavor and personality, balanced from sip to smile. 12 oz.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Smooth Ground Coffee Bag"
+                },
+                {
+                    "description": "A flavorful blend of delightful decaf coffees with plenty of personality. 12 oz.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Decaf Ground Coffee Bag"
+                }
+            ]
+        },
+        {
+            "category": "K-Cup\u00ae Packs",
+            "items": [
+                {
+                    "description": "An easy to love Latin American blend with flavor and personality, balanced from start to finish available in a K-Cup? 12-count box.",
+                    "ingredients": [],
+                    "price": 9.49,
+                    "title": "K-Cup\u00ae 12-Pack - Smooth Blend"
+                },
+                {
+                    "description": "A caffeine-free and flavorful blend of Latin American and Sumatran decaf coffees with lots of character available in a K-Cup? 12-count box.",
+                    "ingredients": [],
+                    "price": 9.49,
+                    "title": "K-Cup\u00ae 12-Pack - Decaf"
+                }
+            ]
+        },
+        {
+            "category": "Doughnuts",
+            "items": [
+                {
+                    "description": "Indulge in our limited-time chocolate lovers dozen featuring our NEW REESE'S Peanut Butter Doughnut. This includes 4 Reese's Peanut Butter Doughnuts, 4 Chocolate Iced Kreme Filled and 4 Chocolate Iced Glazed. 240-400 cal. per doughnut.",
+                    "ingredients": [],
+                    "price": 17.39,
+                    "title": "Chocolate Lover's Dozen featuring NEW REESE'S Peanut Butter Doughnuts"
+                },
+                {
+                    "description": "Mix it up with one Original Glazed dozen and one Baker's Choice dozen. 190-400 cal. per doughnut.",
+                    "ingredients": [],
+                    "price": 24.0,
+                    "title": "Double Dozen: Original Glazed + Baker's Choice Assorted"
+                }
+            ]
+        },
+        {
+            "category": "Collectibles",
+            "items": [
+                {
+                    "description": "Iconic Krispy Kreme? mug. Dishwasher safe.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "White Ceramic Mug"
+                },
+                {
+                    "description": "Krispy Kreme? 24 oz. Doughnut Tumbler.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Doughnut Tumbler"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/birmingham/114277-krispy-kreme/menu/",
+    "name": "Krispy Kreme",
+    "state": "Alabama",
+    "type": "Bakery & Pastries, American",
+    "website": "http://www.krispykreme.com",
+    "zip": "35226"
+}

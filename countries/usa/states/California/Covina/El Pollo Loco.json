@@ -1,0 +1,150 @@
+{
+    "address": "621 N. Azusa",
+    "city": "Covina",
+    "currency": "USD",
+    "id": "168761",
+    "menu": [
+        {
+            "category": "Loco Favorites & Specialty Items",
+            "items": [
+                {
+                    "description": "Enjoy great value rolled into a flour tortilla filled with rice, pinto beans and shredded jack cheese",
+                    "ingredients": [],
+                    "price": 2.79,
+                    "title": "BRC Burrito"
+                }
+            ]
+        },
+        {
+            "category": "Chicken Meals",
+            "items": []
+        },
+        {
+            "category": "Burritos",
+            "items": [
+                {
+                    "description": "Chicken, Pinto Beans, Rice And Cheese. New Recipe",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Classic Chicken Burrito"
+                },
+                {
+                    "description": "Satisfy your craving for something delicious with fire-grilled chicken, fresh avocado, pinto beans, pico de gallo salsa, fresh cilantro, melted jack cheese and creamy cilantro dressing wrapped in a grilled tortilla.",
+                    "ingredients": [],
+                    "price": 7.19,
+                    "title": "Chicken Avocado Burrito"
+                }
+            ]
+        },
+        {
+            "category": "Pollo Bowls",
+            "items": [
+                {
+                    "description": "Dont miss out on chicken breast fire-grilled to perfection then chopped and joined with a mouthwatering combination of pinto beans, rice, diced onions, fresh cilantro and pico de gallo salsa",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Original Pollo Bowl"
+                },
+                {
+                    "description": "Double up on a double portion of delicious citrus-marinated chopped chicken breast on top of authentic pinto beans, rice, cabbage and garnished with sour cream, shredded jack cheese, avocado slices and pico de gallo salsa.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Ultimate Double Chicken Bowl"
+                }
+            ]
+        },
+        {
+            "category": "Pollo Salads",
+            "items": [
+                {
+                    "description": "Deeply marinated fire-grilled chicken, crisp shredded lettuce blend and authentic corn, pico de gallo salsa, Cotija cheese, corn tortilla strips and fresh cilantro make being a salad look good. Served with creamy cilantro dressing.",
+                    "ingredients": [],
+                    "price": 7.69,
+                    "title": "Grilled Chicken Salad"
+                },
+                {
+                    "description": "f you're a bacon lover, you'll go crazy over our Avocado Bacon Tostada Salad. Nested in a crisp flour tostada shell, it's filled with chopped romaine lettuce blend, pinto beans, rice, our famous fire-grilled chicken breast, pico de gallo salsa and finished with fresh avocado slices and crisp, delicious and satisfying bacon, of course.",
+                    "ingredients": [],
+                    "price": 9.19,
+                    "title": "Avocado Bacon Chicken Tostada Salad"
+                }
+            ]
+        },
+        {
+            "category": "Classic Sides",
+            "items": []
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Dusted in cinnamon sugar and served warm, our churros are perfectly fresh, crispy and delicious.",
+                    "ingredients": [],
+                    "price": 1.59,
+                    "title": "Churros (2)"
+                }
+            ]
+        },
+        {
+            "category": "Kids Meal",
+            "items": [
+                {
+                    "description": "Get a leg up on deliciousness with 2 pieces of juicy fire-grilled chicken legs, a small classic side, your choice of tortillas or chips",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Kid's - 2 Drumstick Combo"
+                },
+                {
+                    "description": "Get on the lunch honor roll with rice, pinto beans and shredded jack cheese rolled up in a flour tortilla with your choice of a small classic side",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Kid's - BRC Combo"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Chicken Meals",
+            "items": [
+                {
+                    "description": "*** Serves 10-12 *** Citrus-Marinated, Flame-Grilled Chicken (2 Pieces/per Person). 2 X-Large Side Dishes (see Choices Below) - Warm Flour Or Corn Tortillas - Tortilla Chips - Fresh Salsa.",
+                    "ingredients": [],
+                    "price": 89.99,
+                    "title": "24 Piece Chicken Meal"
+                },
+                {
+                    "description": "24 Pieces Of Citrus-Marinated, Flame-Grilled Chicken, Warm Flour Or Corn Tortillas -Fresh Salsa.",
+                    "ingredients": [],
+                    "price": 52.99,
+                    "title": "Additional Chicken - 24 Pieces"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Mexican Menu",
+            "items": [
+                {
+                    "description": "*** Serves 6-8 *** 4 burritos cut in half plus fresh salsa. Your choice of The Poblano (chicken, avocado, rice, pinto beans, flame-grilled corn, cilantro, diced onions, melted Jack cheese and a mild salsa prepared with Poblano chilies, or The Spicy Chipotle (chicken, rice, pinto beans, pico de gallo, sour cream, cilantro, melted Jack cheese and a spicy, smoky fire-roasted Chipotle salsa.",
+                    "ingredients": [],
+                    "price": 27.99,
+                    "title": "Cater. Burrito Platter"
+                },
+                {
+                    "description": "*** Serves 10-12 ***",
+                    "ingredients": [],
+                    "price": 9.59,
+                    "title": "Cater. Chips & Salsa"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Sides",
+            "items": []
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/covina/168761-el-pollo-loco/menu/",
+    "name": "El Pollo Loco",
+    "state": "California",
+    "type": "Mexican, Chicken",
+    "website": "http://www.elpolloloco.com",
+    "zip": "91722"
+}

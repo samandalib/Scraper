@@ -1,0 +1,129 @@
+{
+    "address": "3503 Memorial Pkwy NW",
+    "city": "Huntsville",
+    "currency": "USD",
+    "id": "239532",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.59,
+                    "title": "20 oz. Soda"
+                }
+            ]
+        },
+        {
+            "category": "Kick-Offs",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "5 Cheddar Poppers"
+                }
+            ]
+        },
+        {
+            "category": "Fresh Salads",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.79,
+                    "title": "Side Salad"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.19,
+                    "title": "Grilled Chicken Salad"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "Lettuce, tomato and mayo.",
+                    "ingredients": [],
+                    "price": 7.49,
+                    "title": "Fried Buffalo Chicken Tender Sandwich"
+                },
+                {
+                    "description": "Lettuce, tomato and mayo or tartar sauce.",
+                    "ingredients": [],
+                    "price": 7.49,
+                    "title": "Shrimp Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Buffalo Wings",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.29,
+                    "title": "5 Buffalo Wings"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 23.79,
+                    "title": "24 Buffalo Wings"
+                }
+            ]
+        },
+        {
+            "category": "Fresh Tenders",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "5 Tenders"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 27.49,
+                    "title": "20 Tenders"
+                }
+            ]
+        },
+        {
+            "category": "Buffalo Shrimp",
+            "items": []
+        },
+        {
+            "category": "Catfish Meals and Dinners",
+            "items": []
+        },
+        {
+            "category": "Sidelines",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.19,
+                    "title": "Corn Dog"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "Baked Beans"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/huntsville/239532-wings-to-go/menu/",
+    "name": "Wings To Go",
+    "state": "Alabama",
+    "type": "American, Wings",
+    "website": "http://www.wingstogo.com",
+    "zip": "35810"
+}

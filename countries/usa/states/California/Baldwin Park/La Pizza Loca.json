@@ -1,0 +1,74 @@
+{
+    "address": "13020 Francisquito Ave",
+    "city": "Baldwin Park",
+    "currency": "USD",
+    "id": "83179",
+    "menu": [
+        {
+            "category": "Coupons",
+            "items": [
+                {
+                    "description": "Create your own specialty Gigante Pizza with your choice of up to three toppings! The best way to enjoy 32 slices of deliciousness!",
+                    "ingredients": [],
+                    "price": 16.5,
+                    "title": "Gigante Trio Special"
+                },
+                {
+                    "description": "Your one shop for big meals, get your one topping 32 slice gigante, 12 pcs wings in your choice of sauce, cheese bready and a dipping sauce.",
+                    "ingredients": [],
+                    "price": 23.99,
+                    "title": "Family Meal Deal"
+                }
+            ]
+        },
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "2 Liter Soda"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.25,
+                    "title": "20 oz.  Bottled Water"
+                }
+            ]
+        },
+        {
+            "category": "Pizza",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Gigante Pizza"
+                }
+            ]
+        },
+        {
+            "category": "Specialty Pizza",
+            "items": []
+        },
+        {
+            "category": "Side Orders",
+            "items": [
+                {
+                    "description": "Soft, garlic-seasoned breadsticks, a great add on to make any of our pizzas a meal.",
+                    "ingredients": [],
+                    "price": 2.0,
+                    "title": "8 pieces Breadsticks"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/baldwin-park/83179-la-pizza-loca/menu/",
+    "name": "La Pizza Loca",
+    "state": "California",
+    "type": "Pizza, American, Wings",
+    "website": "http://www.lapizzaloca.com",
+    "zip": "91706"
+}

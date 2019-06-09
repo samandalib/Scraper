@@ -1,0 +1,349 @@
+{
+    "address": "400 S Baldwin Ave",
+    "city": "Arcadia",
+    "currency": "USD",
+    "id": "69066",
+    "menu": [
+        {
+            "category": "Menu Notes",
+            "items": []
+        },
+        {
+            "category": "Lunch Duos - 7 Pizzas",
+            "items": [
+                {
+                    "description": "Our legendary BBQ sauce, smoked Gouda, red onions and cilantro transform thisoriginal to iconic.",
+                    "ingredients": [],
+                    "price": 10.95,
+                    "title": "The Original BBQ Chicken Pizza - Lunch Duo"
+                },
+                {
+                    "description": "Cremini mushrooms, rustic pepperoni, spicy Italian sausage, fresh torn basil,Mozzarella and wild Greek oregano.",
+                    "ingredients": [],
+                    "price": 10.95,
+                    "title": "Mushroom Pepperoni Sausage Pizza - Lunch Duo"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Duos - Sandwiches",
+            "items": []
+        },
+        {
+            "category": "Lunch Duos - Soup & Salad",
+            "items": [
+                {
+                    "description": "Crisp Romaine, Roma tomatoes, garbanzos, Feta, black olives, red onions withour mustard herb vinaigrette.",
+                    "ingredients": [],
+                    "price": 8.95,
+                    "title": "The Mediterranean Salad - Lunch Duo"
+                },
+                {
+                    "description": "Crisp Romaine with shaved Parmesan and housemade garlic croutons.",
+                    "ingredients": [],
+                    "price": 8.95,
+                    "title": "Caesar Salad - Lunch Duo"
+                }
+            ]
+        },
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.49,
+                    "title": "Coke (12 oz can)"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.49,
+                    "title": "Sprite (12 oz can)"
+                }
+            ]
+        },
+        {
+            "category": "Small Plates",
+            "items": [
+                {
+                    "description": "Tossed in housemade lemon vinaigrette with sun-dried tomatoes, toasted almonds and shaved Parmesan.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Asparagus + Arugula Salad"
+                },
+                {
+                    "description": "Lime chicken, Monterey Jack, caramelized onions, roasted peppers, black beans and cilantro, baked in our hearth oven. Served with housemade ranchito sauce.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Spicy Chicken Tinga Quesadilla"
+                }
+            ]
+        },
+        {
+            "category": "California Flatbreads",
+            "items": [
+                {
+                    "description": "Whipped truffle cream, Gorgonzola, Mozzarella and fresh sage.",
+                    "ingredients": [],
+                    "price": 7.49,
+                    "title": "Bianco Flatbread"
+                },
+                {
+                    "description": "Emmentaler and goat cheese with caramelized onions and smashed garlic croutons.",
+                    "ingredients": [],
+                    "price": 8.29,
+                    "title": "Smoked Ham + Swiss Flatbread"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "Chinese dumplings topped with sesame seeds and scallions. Served with our soy-ginger chilisauce.",
+                    "ingredients": [],
+                    "price": 8.79,
+                    "title": "Sesame Ginger Chicken Dumpling"
+                },
+                {
+                    "description": "Baked in our hearth oven and sprinkled with herbs.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Tortilla Spring Rolls (2)"
+                }
+            ]
+        },
+        {
+            "category": "Soups",
+            "items": []
+        },
+        {
+            "category": "Salads",
+            "items": []
+        },
+        {
+            "category": "Main Plates",
+            "items": [
+                {
+                    "description": "North Atlantic salmon roasted on a cedar plank in our hearth oven with smokedpaprika and lime. Served with white corn & spinach succotash and topped with Feta.",
+                    "ingredients": [],
+                    "price": 19.99,
+                    "title": "Cedar Plank Salmon"
+                },
+                {
+                    "description": "Panko-crusted chicken breast topped with arugula and housemade checca, finished with extra virgin olive oil and shaved Parmesan.",
+                    "ingredients": [],
+                    "price": 16.99,
+                    "title": "Chicken Milanese"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "Pulled chicken with our Original BBQ sauce, onion straws, Sriracha ranch slawand cilantro on our toasted Cheddar Ciabatta.",
+                    "ingredients": [],
+                    "price": 13.45,
+                    "title": "The Original BBQ Chicken Sandwich"
+                },
+                {
+                    "description": "Oven-roasted turkey or grilled chicken breast with fresh avocado and Nueskesapplewood smoked bacon on our toasted Ciabatta.",
+                    "ingredients": [],
+                    "price": 13.45,
+                    "title": "California Club Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Pastas",
+            "items": [
+                {
+                    "description": "Our lighter spin on a traditional recipe. Zucchini ribbons sauted with lemon, garlic andwhite wine, tossed with parsley, Parmesan and a touch of fettuccine.",
+                    "ingredients": [],
+                    "price": 15.59,
+                    "title": "Shrimp Scampi Zucchini Fettuccine"
+                },
+                {
+                    "description": "Our creamy jalapeo lime sauce with spinach fettuccine, red onions, bell peppers and cilantro.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Chicken-Tequila Fettucine"
+                }
+            ]
+        },
+        {
+            "category": "Original Hand-Tossed Pizzas",
+            "items": [
+                {
+                    "description": "Always a good standby.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Untraditional Cheese Pizza"
+                },
+                {
+                    "description": "A combination of rustic and spicy pepperoni with fresh Mozzarella and wild Greek oregano.+ White Truffle Oil 1.50",
+                    "ingredients": [],
+                    "price": 13.89,
+                    "title": "Pepperoni Pizza"
+                }
+            ]
+        },
+        {
+            "category": "Crispy Thin Crust Pizzas",
+            "items": [
+                {
+                    "description": "Spicy sweet Caribbean sauce, authentic Jamaican spices, Nueskes applewood smoked bacon,red onions and bell peppers.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Jamaican Jerk Chicken Pizza"
+                },
+                {
+                    "description": "Oven-roasted artichoke hearts, roasted garlic, sauted spinach, Mozzarella and Parmesan.+ Chicken 2.00",
+                    "ingredients": [],
+                    "price": 14.79,
+                    "title": "Roasted Artichoke & Spinach Pizza"
+                }
+            ]
+        },
+        {
+            "category": "Cpkids Meals",
+            "items": [
+                {
+                    "description": "Pepperoni, tomato sauce and Mozzarella.",
+                    "ingredients": [],
+                    "price": 5.69,
+                    "title": "Kid's Pepperoni Pizza"
+                },
+                {
+                    "description": "With Parmesan Cream Sauce.",
+                    "ingredients": [],
+                    "price": 5.69,
+                    "title": "Kid's Fusilli Alfredo"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Frosted with hand-whipped vanilla bean cream cheese and white chocolate curls.+ Hagen-Dazs 1.75",
+                    "ingredients": [],
+                    "price": 7.49,
+                    "title": "Red Velvet Cake"
+                },
+                {
+                    "description": "Trust us. Just try it. Served warm with housemade whipped cream.+ Hagen-Dazs 1.75",
+                    "ingredients": [],
+                    "price": 7.29,
+                    "title": "Butter Cake"
+                }
+            ]
+        },
+        {
+            "category": "Complimentary Items",
+            "items": []
+        },
+        {
+            "category": "Popular Catering",
+            "items": [
+                {
+                    "description": "* Serves 8-10 * Includes 2 Pastas, 1 Salad, Sweets Platter.",
+                    "ingredients": [],
+                    "price": 153.99,
+                    "title": "Small Pasta Combo"
+                },
+                {
+                    "description": "* Serves 8-10 * Includes 1 Salad, 1 Pasta, 3 Pizzas, Sweets Platter.",
+                    "ingredients": [],
+                    "price": 136.99,
+                    "title": "Small Trio Combo"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Popular Combos",
+            "items": [
+                {
+                    "description": "* Serves 8-10 * Includes Includes 5 Pizzas  1 Salad  Sweets Platter",
+                    "ingredients": [],
+                    "price": 118.99,
+                    "title": "Small Pizza Combo"
+                },
+                {
+                    "description": "* Serves 15-20 * Includes 2 Pastas  2 Salads  Sweets Platter",
+                    "ingredients": [],
+                    "price": 198.99,
+                    "title": "Large Pasta Combo"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Sandwich Platters",
+            "items": []
+        },
+        {
+            "category": "Catering - Appetizers",
+            "items": [
+                {
+                    "description": "* Serves 8-10 *  This is how we roll Your favorite ingredients of a chicken club sandwich, like Nueskes applewood smoked bacon and melted Monterey Jack, wrapped in a crispy wonton. Served with housemade ranchito sauce and herb ranch.  * No substitutions",
+                    "ingredients": [],
+                    "price": 34.99,
+                    "title": "Cater. Avocado Club Egg Rolls"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Salads",
+            "items": [
+                {
+                    "description": "* Serves 8-10 *  Our most popular salad since 1985. With our signature BBQ sauce, housemade herb ranch and cilantro.  + Avocado 8.00",
+                    "ingredients": [],
+                    "price": 47.99,
+                    "title": "Cater. BBQ Chicken Chopped Salad"
+                },
+                {
+                    "description": "* Serves 8-10 *  Napa and red cabbage, lettuce, chicken breast, wontons, green onions, cilantro and sesame seeds. Served with hoisin ginger vinaigrette.",
+                    "ingredients": [],
+                    "price": 44.99,
+                    "title": "Cater. Chinese Chicken Salad"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Pastas & Specialties",
+            "items": [
+                {
+                    "description": "* Serves 6-8 *  Our creamy jalapeo lime sauce with spinach fettuccine, onion, bell peppers and cilantro. If you dont love it, you havent tried it yet.",
+                    "ingredients": [],
+                    "price": 55.99,
+                    "title": "Cater. Chicken Tequila Fettuccine"
+                },
+                {
+                    "description": "* Serves 6-8 *  The ultimate roasted garlic Parmesan cream sauce.  + Chicken 12.00  + Shrimp 16.00  + Chicken & Shrimp 26.00  + Sauted Mushrooms 4.00",
+                    "ingredients": [],
+                    "price": 41.99,
+                    "title": "Cater. Garlic Cream Fettuccine"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Desserts",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 38.99,
+                    "title": "Key Lime Pie (whole)"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/arcadia/69066-california-pizza-kitchen/menu/",
+    "name": "California Pizza Kitchen",
+    "state": "California",
+    "type": "Pizza, Sandwiches, Soups, American, Californian, Pasta, Salads",
+    "website": "http://cpk.com",
+    "zip": "91007"
+}

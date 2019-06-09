@@ -1,0 +1,485 @@
+{
+    "address": "4420 Lakeside Dr.",
+    "city": "Burbank",
+    "currency": "USD",
+    "id": "276720",
+    "menu": [
+        {
+            "category": "Great Beginnings",
+            "items": [
+                {
+                    "description": "Char-grilled California-grown artichoke seasoned and served with aioli sauce",
+                    "ingredients": [],
+                    "price": 10.95,
+                    "title": "Grilled Artichoke"
+                }
+            ]
+        },
+        {
+            "category": "Signature Soups",
+            "items": []
+        },
+        {
+            "category": "Classic Salads",
+            "items": [
+                {
+                    "description": "Chilled iceberg wedge topped with crumbled bleu cheese, smoked bacon bits, tomatoes, red onions, and bleu cheese dressing",
+                    "ingredients": [],
+                    "price": 12.95,
+                    "title": "The Wedge"
+                },
+                {
+                    "description": "Quinoa grains, roasted beets, carrots, scallions, walnuts, dried cherries, and crumbled bleu cheese. Tossed with organic greens and fat-free raspberry vinaigrette",
+                    "ingredients": [],
+                    "price": 17.95,
+                    "title": "Quinoa and Beet Salad"
+                }
+            ]
+        },
+        {
+            "category": "Guest Favorites",
+            "items": [
+                {
+                    "description": "Charbroiled ground filet topped with American cheese and served on a brioche bun. Lettuce, tomato, onion and pickle served on the side",
+                    "ingredients": [],
+                    "price": 15.95,
+                    "title": "Smoke House Cheeseburger"
+                },
+                {
+                    "description": "Tender chunks of chicken breast and vegetables in a creamy gravy, topped with a flaky pie crust. (no side dish)",
+                    "ingredients": [],
+                    "price": 18.95,
+                    "title": "Chicken Pot Pie"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "Served open-faced on sourdough bread, topped with crispy onions and a side of creamy horseradish",
+                    "ingredients": [],
+                    "price": 22.95,
+                    "title": "Prime Rib Sandwich"
+                },
+                {
+                    "description": "Extra lean corned beef, swiss cheese, sauerkraut, and thousand island dressing on rye bread",
+                    "ingredients": [],
+                    "price": 15.95,
+                    "title": "Reuben Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Steaks and More",
+            "items": []
+        },
+        {
+            "category": "Customize your Entree",
+            "items": [
+                {
+                    "description": "Perfect addition to any steak",
+                    "ingredients": [],
+                    "price": 8.95,
+                    "title": "Sauteed Mushrooms and Onions"
+                }
+            ]
+        },
+        {
+            "category": "Poultry",
+            "items": [
+                {
+                    "description": "Boneless chicken breast saut\u00e9ed with white wine, mushrooms, capers, and lemon",
+                    "ingredients": [],
+                    "price": 21.95,
+                    "title": "Chicken Picatta"
+                },
+                {
+                    "description": "Boneless chicken breast saut\u00e9ed with mushrooms, artichoke hearts, lemon, and wine",
+                    "ingredients": [],
+                    "price": 21.95,
+                    "title": "Chicken Buena Vista"
+                }
+            ]
+        },
+        {
+            "category": "Smoke House Famous BBQ",
+            "items": [
+                {
+                    "description": "Char-grilled, half-chicken glazed with our house-made barbecue sauce",
+                    "ingredients": [],
+                    "price": 19.95,
+                    "title": "Barbecued Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Fresh Seafood",
+            "items": [
+                {
+                    "description": "Northern halibut filets battered and deep fried. Served with fries and creamy coleslaw",
+                    "ingredients": [],
+                    "price": 21.95,
+                    "title": "Alaskan Halibut Fish and Chips"
+                },
+                {
+                    "description": "Fresh Atlantic salmon stuffed with crab meat and spinach. Served over saut\u00e9ed vegetables on a plank and topped with b\u00e9arnaise sauce. (no side dish)",
+                    "ingredients": [],
+                    "price": 26.95,
+                    "title": "Stuffed Salmon en-plank"
+                }
+            ]
+        },
+        {
+            "category": "Classic Side Dishes",
+            "items": []
+        },
+        {
+            "category": "Main",
+            "items": []
+        },
+        {
+            "category": "COLD SELECTIONS",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 50.0,
+                    "title": "Fruit Punch"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 85.0,
+                    "title": "Fresh Fruit Platter"
+                }
+            ]
+        },
+        {
+            "category": "HOT SELECTIONS",
+            "items": [
+                {
+                    "description": "Serves 4-6 guest.",
+                    "ingredients": [],
+                    "price": 8.0,
+                    "title": "World's Greatest Garlic Cheese Bread"
+                },
+                {
+                    "description": "With yogurt dill sauce, chicken, or beef.",
+                    "ingredients": [],
+                    "price": 75.0,
+                    "title": "Mini Shish Kabobs"
+                }
+            ]
+        },
+        {
+            "category": "FRESH HOMEMADE DESSERTS",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 30.0,
+                    "title": "Chocolate Chip Cookies or Brownies"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 65.0,
+                    "title": "Cheesecake, Carrot Cake, or Chocolate Cake"
+                }
+            ]
+        },
+        {
+            "category": "-",
+            "items": []
+        },
+        {
+            "category": "Great Beginnings",
+            "items": [
+                {
+                    "description": "Served with ranch dressing",
+                    "ingredients": [],
+                    "price": 9.95,
+                    "title": "Fried Pickles"
+                }
+            ]
+        },
+        {
+            "category": "Signature Soups",
+            "items": []
+        },
+        {
+            "category": "Signature Salads",
+            "items": [
+                {
+                    "description": "Chilled iceberg wedge topped with crumbled bleu cheese, smoked bacon bits, tomatoes, red onions, and bleu cheese dressing",
+                    "ingredients": [],
+                    "price": 12.95,
+                    "title": "The Wedge"
+                },
+                {
+                    "description": "Grilled chicken breast, pears, bleu cheese, crumbles, caramelized California walnuts and fresh baby greens tossed with an organic balsamic vinaigrette",
+                    "ingredients": [],
+                    "price": 19.95,
+                    "title": "California Salad"
+                }
+            ]
+        },
+        {
+            "category": "Steaks and More",
+            "items": [
+                {
+                    "description": "New York strip steak paired with Shrimp Scampi",
+                    "ingredients": [],
+                    "price": 45.95,
+                    "title": "New York Steak and Shrimp"
+                }
+            ]
+        },
+        {
+            "category": "Customize your Entree",
+            "items": [
+                {
+                    "description": "Perfect addition to any steak",
+                    "ingredients": [],
+                    "price": 8.95,
+                    "title": "Sauteed Mushrooms and Onions"
+                }
+            ]
+        },
+        {
+            "category": "Smoke House Famous BBQ",
+            "items": [
+                {
+                    "description": "Char-grilled, half-chicken glazed with our house-made barbecue sauce",
+                    "ingredients": [],
+                    "price": 19.95,
+                    "title": "Barbecued Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches and More",
+            "items": [
+                {
+                    "description": "Served open-faced on sourdough bread, topped with crispy onions and a side of creamy horseradish",
+                    "ingredients": [],
+                    "price": 22.95,
+                    "title": "Prime Rib Sandwich"
+                },
+                {
+                    "description": "Charbroiled ground filet topped with American cheese and served on a brioche bun. Lettuce, tomato, onion and pickle served on the side",
+                    "ingredients": [],
+                    "price": 15.95,
+                    "title": "Smoke House Cheeseburger"
+                }
+            ]
+        },
+        {
+            "category": "Pasta",
+            "items": [
+                {
+                    "description": "Tender cuts of filet saut\u00e9ed in red wine, mushrooms, onions, and cream. Served over buttery egg noodles. (no side dish)",
+                    "ingredients": [],
+                    "price": 23.95,
+                    "title": "Beef Stroganoff"
+                },
+                {
+                    "description": "Cajun-spiced chicken, roasted garlic, sundried tomatoes, pine nuts, and scallions tossed with fettuccini and cream sauce",
+                    "ingredients": [],
+                    "price": 21.95,
+                    "title": "Cajun Chicken Fettuccine"
+                }
+            ]
+        },
+        {
+            "category": "Poultry",
+            "items": [
+                {
+                    "description": "Grilled skinless chicken breast seasoned with lemon and pepper, topped with avocado",
+                    "ingredients": [],
+                    "price": 21.95,
+                    "title": "Lemon-Pepper Chicken"
+                },
+                {
+                    "description": "Boneless chicken breast saut\u00e9ed with madeira wine and mushrooms, topped with mozzarella cheese and asparagus",
+                    "ingredients": [],
+                    "price": 21.95,
+                    "title": "Chicken Madeira"
+                }
+            ]
+        },
+        {
+            "category": "Fresh Seafood",
+            "items": [
+                {
+                    "description": "Northern halibut filets battered and deep fried. Served with fries and creamy coleslaw",
+                    "ingredients": [],
+                    "price": 21.95,
+                    "title": "Alaskan Halibut Fish and Chips"
+                },
+                {
+                    "description": "Fresh Atlantic salmon stuffed with crab meat and spinach. Served over saut\u00e9ed vegetables on a plank and topped with b\u00e9arnaise sauce. (no side dish)",
+                    "ingredients": [],
+                    "price": 26.95,
+                    "title": "Stuffed Salmon en-plank"
+                }
+            ]
+        },
+        {
+            "category": "Classic Side Dishes",
+            "items": []
+        },
+        {
+            "category": "Champagne & Sparkling",
+            "items": []
+        },
+        {
+            "category": "Sauvignon Blanc",
+            "items": []
+        },
+        {
+            "category": "Chardonnay",
+            "items": []
+        },
+        {
+            "category": "Additional White Selections",
+            "items": []
+        },
+        {
+            "category": "Pinot Noir",
+            "items": []
+        },
+        {
+            "category": "Merlot",
+            "items": []
+        },
+        {
+            "category": "Cabernet Sauvignon",
+            "items": []
+        },
+        {
+            "category": "Additional Red Selections",
+            "items": []
+        },
+        {
+            "category": "Cocktails",
+            "items": [
+                {
+                    "description": "Vodka - Rum - Gin - Tequila - Scotch - Bourbon (deep dish martinis - add $3.)",
+                    "ingredients": [],
+                    "price": 6.0,
+                    "title": "Well Drinks"
+                },
+                {
+                    "description": "Blue Moon (Belgian White) - 805 Firestone (Blonde Ale) - Sam Adams (Seasonal) - Modelo Especial - Dos Equis (Amber) - Coors Light - Stella Artois - Shock Top (Belgian White) - Goose Island (Goose IPA) - Golden Road (Hefeweizen) - Two Seasonal Beers (Ask your server for our current selections)",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "All Beers on Tap"
+                }
+            ]
+        },
+        {
+            "category": "Bar Bites",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.95,
+                    "title": "Garlic Cheese Bread - Half Order"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.0,
+                    "title": "Garlic Cheese Fries"
+                }
+            ]
+        },
+        {
+            "category": "Choose Two Entrees From the Following",
+            "items": []
+        },
+        {
+            "category": "Buffet Includes: (Choice of Two)",
+            "items": []
+        },
+        {
+            "category": "Plus",
+            "items": []
+        },
+        {
+            "category": "Lunch (Mon-Sat) Adult 32.95 Child 16.95",
+            "items": []
+        },
+        {
+            "category": "Dinner (Mon-Sun) Adult 36.95 Child 16.95",
+            "items": []
+        },
+        {
+            "category": "LUNCH SELECTIONS",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 34.0,
+                    "title": "Prime Rib of Beef - 8oz"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 29.0,
+                    "title": "Chicken Picatta"
+                }
+            ]
+        },
+        {
+            "category": "DINNER SELECTIONS",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 31.0,
+                    "title": "Chicken Buena Vista"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 35.0,
+                    "title": "BBQ Ribs"
+                }
+            ]
+        },
+        {
+            "category": "Carving Station Available",
+            "items": []
+        },
+        {
+            "category": ".",
+            "items": []
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 8.95,
+                    "title": "Chocolate Mousse"
+                },
+                {
+                    "description": "Served with vanilla ice cream",
+                    "ingredients": [],
+                    "price": 8.95,
+                    "title": "Chocolate Bundt Cake"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/burbank/276720-smoke-house/menu/",
+    "name": "Smoke House",
+    "state": "California",
+    "type": "Steak",
+    "website": "http://smokehouse1946.com/",
+    "zip": "91505"
+}

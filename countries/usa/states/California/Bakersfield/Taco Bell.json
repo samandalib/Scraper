@@ -1,0 +1,54 @@
+{
+    "address": "2433 N. Chester Ave.",
+    "city": "Bakersfield",
+    "currency": "USD",
+    "id": "21226",
+    "menu": [
+        {
+            "category": "What's New",
+            "items": []
+        },
+        {
+            "category": "Taco",
+            "items": []
+        },
+        {
+            "category": "Burritos",
+            "items": []
+        },
+        {
+            "category": "Specialties",
+            "items": []
+        },
+        {
+            "category": "Combos",
+            "items": []
+        },
+        {
+            "category": "BreakFast",
+            "items": []
+        },
+        {
+            "category": "Drinks and Sweets",
+            "items": []
+        },
+        {
+            "category": "Sides",
+            "items": []
+        },
+        {
+            "category": "Dollar Cravings",
+            "items": []
+        },
+        {
+            "category": "Vegetarian",
+            "items": []
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/bakersfield/21226-taco-bell/menu/",
+    "name": "Taco Bell",
+    "state": "California",
+    "type": "Steak, American",
+    "website": "https://locations.tacobell.com/ca/bakersfield/2433-n--chester-ave-.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=021226&utm_content=website",
+    "zip": "93308"
+}

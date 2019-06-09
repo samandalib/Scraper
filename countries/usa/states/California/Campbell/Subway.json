@@ -1,0 +1,103 @@
+{
+    "address": "3481 S Bascom Ave",
+    "city": "Campbell",
+    "currency": "USD",
+    "id": "59836",
+    "menu": [
+        {
+            "category": "Sandwiches",
+            "items": []
+        },
+        {
+            "category": "Signature Wraps",
+            "items": [
+                {
+                    "description": "The New Sesame-Ginger Glazed Chicken Signature Wrap is loaded with a double portion of savory rotisserie-style chicken mixed with a sweet ginger-sesame glaze. We then add Monterey cheddar, spinach, cucumber, red onions and roll it all up in a delicious spinach wrap. Limited time only. Double Meat based on average 6\" sub.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "New Sesame-Ginger Glazed Chicken Signature Wrap"
+                },
+                {
+                    "description": "Who can resist the classic combination of a delicious Spinach wrap filled with a double portion of tender Rotisserie-Style chicken with seasoning and marinade topped with Monterey Cheddar, Parmesan cheese, lettuce, tomatoes and Savory Caesar sauce? It?s fit for an emperor.",
+                    "ingredients": [],
+                    "price": 9.59,
+                    "title": "Savory Rotisserie-Style Chicken Caesar Signature Wrap"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "The Black Forest Ham has never been better. Load it up with all the crunchy veggies you like.",
+                    "ingredients": [],
+                    "price": 8.19,
+                    "title": "Black Forest Ham Chopped Salad"
+                },
+                {
+                    "description": "Go ahead, spice up your life. The Spicy Italian features spicy pepperoni and sensational salami. Try one today with everything else your taste buds desire.",
+                    "ingredients": [],
+                    "price": 8.39,
+                    "title": "Spicy Italian Chopped Salad"
+                }
+            ]
+        },
+        {
+            "category": "Sides",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "Applesauce"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.69,
+                    "title": "Nacho Cheese Doritos"
+                }
+            ]
+        },
+        {
+            "category": "Bottled Drinks",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.29,
+                    "title": "1% Low Fat White Milk"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.79,
+                    "title": "Gatorade Fruit Punch"
+                }
+            ]
+        },
+        {
+            "category": "Dessert",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 0.99,
+                    "title": "Chocolate Chip Cookie"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 0.99,
+                    "title": "White Chocolate Macadamia Cookie"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/campbell/59836-subway/menu/",
+    "name": "Subway",
+    "state": "California",
+    "type": "Sandwiches, American, Salads, Healthy, Subs",
+    "website": "http://www.subway.com",
+    "zip": "95008"
+}

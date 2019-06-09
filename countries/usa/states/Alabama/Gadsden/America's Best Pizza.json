@@ -1,0 +1,184 @@
+{
+    "address": "3014 E Meighan Blvd",
+    "city": "Gadsden",
+    "currency": "USD",
+    "id": "293686",
+    "menu": [
+        {
+            "category": "Meal Deals",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "LG Pepperoni Pizza & Small Cheese Breadsticks"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Calzone Two Toppings"
+                }
+            ]
+        },
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "Gallon Tea"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "2 oz. Fresh crisp lettuce, sliced tomatoes, cheddar cheese and a cup of your choice of dressing.",
+                    "ingredients": [],
+                    "price": 4.0,
+                    "title": "Small Salad"
+                },
+                {
+                    "description": "BBQ Meat with mozzarella and tomato",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "BBQ Pork Salad"
+                }
+            ]
+        },
+        {
+            "category": "Breadsticks",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 0.5,
+                    "title": "Roll"
+                }
+            ]
+        },
+        {
+            "category": "Pizza",
+            "items": []
+        },
+        {
+            "category": "Salute Pizzas",
+            "items": []
+        },
+        {
+            "category": "Specialty Pizzas",
+            "items": []
+        },
+        {
+            "category": "Subs",
+            "items": [
+                {
+                    "description": "Pepperoni, chicken, mozzarella cheese and pizza sauce. Served on a fresh sub roll with the freshest deli-sliced meat and a kosher pickle.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Marinara Chicken"
+                },
+                {
+                    "description": "Tender roast beef, Swiss cheese, and au jus gravy. Served on a fresh sub roll with the freshest deli-sliced meat and a kosher pickle.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "French Dip"
+                }
+            ]
+        },
+        {
+            "category": "Pasta",
+            "items": [
+                {
+                    "description": "Oven-baked fresh pasta topped with mozzarella cheese. Served with garlic bread.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Spaghetti"
+                },
+                {
+                    "description": "Spaghetti covered in our meat sauce",
+                    "ingredients": [],
+                    "price": 19.99,
+                    "title": "Tray with Marinara"
+                }
+            ]
+        },
+        {
+            "category": "Wings",
+            "items": [
+                {
+                    "description": "With your choice of fried or oven baked, type of sauce, and two dressings.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "6 Wings and Fries"
+                },
+                {
+                    "description": "With your choice of fried or oven baked, type of sauce, and type of dressing.",
+                    "ingredients": [],
+                    "price": 20.99,
+                    "title": "24 Wings"
+                }
+            ]
+        },
+        {
+            "category": "Plate Lunch",
+            "items": [
+                {
+                    "description": "Chicken fingers (4) with a roll and your choice of sides. Add a side salad as well for an additional charge",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Chicken Finger Plate"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "5 pc Chicken Fingers"
+                }
+            ]
+        },
+        {
+            "category": "Calzones",
+            "items": [
+                {
+                    "description": "Your choice of five ingredients. Served with your choice of sauce. Made with our fresh pizza dough and only freshest toppings.",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Create Your Own Calzone"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.24,
+                    "title": "Calzone-Build Your Own"
+                }
+            ]
+        },
+        {
+            "category": "Dessert",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 0.75,
+                    "title": "Cup of Jalapenos"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 0.05,
+                    "title": "Packet of Parmesan cheese"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/gadsden/293686-america's-best-pizza/menu/",
+    "name": "America's Best Pizza",
+    "state": "Alabama",
+    "type": "Pizza",
+    "website": "http://americasbestpizza.net",
+    "zip": "35903"
+}

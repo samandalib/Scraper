@@ -1,0 +1,136 @@
+{
+    "address": "14557 W Grand Ave",
+    "city": "Surprise",
+    "currency": "USD",
+    "id": "110844",
+    "menu": [
+        {
+            "category": "Drinks",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "Bottled Soda"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "Sobe"
+                }
+            ]
+        },
+        {
+            "category": "Savory Soups",
+            "items": []
+        },
+        {
+            "category": "Salads and Wraps",
+            "items": []
+        },
+        {
+            "category": "Deli Style Subs",
+            "items": []
+        },
+        {
+            "category": "Savory Steak Subs",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.29,
+                    "title": "Peppercorn Steak Sub Combo"
+                }
+            ]
+        },
+        {
+            "category": "All Natural Chicken Subs",
+            "items": [
+                {
+                    "description": "All natural chicken, smoky bacon, all natural cheddar, onions, Baja sauce and chipotle mayo. Served with a regular fountain drink and your choice of side.",
+                    "ingredients": [],
+                    "price": 2.29,
+                    "title": "Baja Chicken Sub Combo"
+                }
+            ]
+        },
+        {
+            "category": "Create Your Own Sub",
+            "items": []
+        },
+        {
+            "category": "Grilled Flatbreads",
+            "items": [
+                {
+                    "description": "Pepperoni, capicola, ham, Genoa salami, all natural mozzarella, seasonal lettuce blend and red wine vinaigrette.",
+                    "ingredients": [],
+                    "price": 3.49,
+                    "title": "Little Italy Flatbread"
+                },
+                {
+                    "description": "All natural chicken, all natural mozzarella, cucumbers, black olives, tomatoes, banana pepper rings, seasonal lettuce blend and tzatziki. Served with a regular fountain drink and your choice of side.",
+                    "ingredients": [],
+                    "price": 5.78,
+                    "title": "Greek Chicken Flatbread Combo"
+                }
+            ]
+        },
+        {
+            "category": "Choose 2",
+            "items": [
+                {
+                    "description": "Your choice of two items.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Choose 2"
+                }
+            ]
+        },
+        {
+            "category": "Sides",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.19,
+                    "title": "Chips"
+                }
+            ]
+        },
+        {
+            "category": "Q Kids",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "Kid's Flatbread Foldables"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.49,
+                    "title": "Chocolate Chunk"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.49,
+                    "title": "Fudge Brownie"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/az/surprise/110844-quiznos-sub/menu/",
+    "name": "Quiznos Sub",
+    "state": "Arizona",
+    "type": "Sandwiches, American, Wraps",
+    "website": "http://www.quiznos.com/",
+    "zip": "85374"
+}

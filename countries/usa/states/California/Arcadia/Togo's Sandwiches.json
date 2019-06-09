@@ -1,0 +1,62 @@
+{
+    "address": "312 E Huntington Dr",
+    "city": "Arcadia",
+    "currency": "USD",
+    "id": "163940",
+    "menu": [
+        {
+            "category": "Salads & Wraps",
+            "items": []
+        },
+        {
+            "category": "Classic Sandwiches - Cold",
+            "items": []
+        },
+        {
+            "category": "Classic Sandwiches - Hot",
+            "items": []
+        },
+        {
+            "category": "Classic Sandwiches - Veg",
+            "items": []
+        },
+        {
+            "category": "Signature Sandwiches",
+            "items": []
+        },
+        {
+            "category": "Toasted Sandwiches",
+            "items": []
+        },
+        {
+            "category": "Soup",
+            "items": []
+        },
+        {
+            "category": "Pick any Two",
+            "items": []
+        },
+        {
+            "category": "Mini Claassic",
+            "items": []
+        },
+        {
+            "category": "Side & Sweet",
+            "items": []
+        },
+        {
+            "category": "Kids Meals",
+            "items": []
+        },
+        {
+            "category": "Beverages",
+            "items": []
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/arcadia/163940-togo's-sandwiches/menu/",
+    "name": "Togo's Sandwiches",
+    "state": "California",
+    "type": "Sandwiches, American",
+    "website": "http://order.togos.com/Menu.aspx?StoreNum=337396",
+    "zip": "91006"
+}

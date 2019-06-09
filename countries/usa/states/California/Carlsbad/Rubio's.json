@@ -1,0 +1,109 @@
+{
+    "address": "2604 El Camino Real",
+    "city": "Carlsbad",
+    "currency": "USD",
+    "id": "6689",
+    "menu": [
+        {
+            "category": "Salads & Bowls",
+            "items": [
+                {
+                    "description": "(380 Cal).",
+                    "ingredients": [],
+                    "price": 7.79,
+                    "title": "Chipotle Orange Shrimp Salad"
+                },
+                {
+                    "description": "(450 Cal) w/chicken.",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Chipotle Ranch Salad"
+                }
+            ]
+        },
+        {
+            "category": "The Original Fish Taco",
+            "items": []
+        },
+        {
+            "category": "Grilled Seafood Tacos - Fish",
+            "items": []
+        },
+        {
+            "category": "Grilled Seafood Tacos - Pan-Seared Shrimp",
+            "items": []
+        },
+        {
+            "category": "Chicken & Steak",
+            "items": []
+        },
+        {
+            "category": "Create Your Plate",
+            "items": [
+                {
+                    "description": "Includes a medium portion of any salad. for grilled seafood tacos or seafood salads add .50 each. (320-620 cal).",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Any Taco & Salad "
+                }
+            ]
+        },
+        {
+            "category": "Seafood Burritos",
+            "items": [
+                {
+                    "description": "(730 Cal) grilled or house blackened (plus 20 cal).",
+                    "ingredients": [],
+                    "price": 8.29,
+                    "title": "Atlantic Salmon  "
+                },
+                {
+                    "description": "Less than 30% of calories from fat. (510 cal).",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Health Mex Grilled Mah Mahi "
+                }
+            ]
+        },
+        {
+            "category": "Veggies & More",
+            "items": [
+                {
+                    "description": "(770 Cal).",
+                    "ingredients": [],
+                    "price": 6.49,
+                    "title": "Grilled Veggie Burrito "
+                },
+                {
+                    "description": "W/ 2 flour tortillas (480 cal).",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "Chicken Tortilla Soup "
+                }
+            ]
+        },
+        {
+            "category": "Kids",
+            "items": [
+                {
+                    "description": "(720-900 Cal).",
+                    "ingredients": [],
+                    "price": 4.49,
+                    "title": "Cheese Quesadilla "
+                },
+                {
+                    "description": "(400-580 Cal).",
+                    "ingredients": [],
+                    "price": 4.49,
+                    "title": "Chicken Bites"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/carlsbad/6689-rubio's/menu/",
+    "name": "Rubio's",
+    "state": "California",
+    "type": "Mexican, Seafood, American",
+    "website": "http://www.rubios.com",
+    "zip": "92008"
+}

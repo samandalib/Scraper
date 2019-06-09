@@ -1,0 +1,86 @@
+{
+    "address": "7296 Atlantic Blvd",
+    "city": "Bell Gardens",
+    "currency": "USD",
+    "id": "83162",
+    "menu": [
+        {
+            "category": "Menu Coupons",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Gigante Cheese Pizza Special"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Gigante Pepperoni Pizza Special"
+                }
+            ]
+        },
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 0.99,
+                    "title": "20 oz. Beverages"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "2 Liter Soda"
+                }
+            ]
+        },
+        {
+            "category": "Pizza",
+            "items": [
+                {
+                    "description": "With your choice of one free optional topping.",
+                    "ingredients": [],
+                    "price": 4.0,
+                    "title": "Medium Pizza"
+                },
+                {
+                    "description": "With your choice of one free optional topping.",
+                    "ingredients": [],
+                    "price": 6.0,
+                    "title": "Extra Large Pizza"
+                }
+            ]
+        },
+        {
+            "category": "Specialty Pizzas",
+            "items": []
+        },
+        {
+            "category": "Side Orders",
+            "items": [
+                {
+                    "description": "Six chicken wings in your choice of sauce.",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "Chicken Wings"
+                },
+                {
+                    "description": "Tender and savory pork rib tips, marinated in a sweet, tangy BBQ sauce.",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "Riblets"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/bell-gardens/83162-la-pizza-loca/menu/",
+    "name": "La Pizza Loca",
+    "state": "California",
+    "type": "Pizza, Wings",
+    "website": "http://www.lapizzaloca.com",
+    "zip": "90201"
+}

@@ -1,0 +1,131 @@
+{
+    "address": "180 Main St",
+    "city": "Birmingham",
+    "currency": "USD",
+    "id": "235020",
+    "menu": [
+        {
+            "category": "Drink",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.85,
+                    "title": "Medium Fountain Drink"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.75,
+                    "title": "Bottled Water"
+                }
+            ]
+        },
+        {
+            "category": "Salad",
+            "items": [
+                {
+                    "description": "Mixed greens, turkey breast, black forest ham,cheddar and Swiss cheese, plum tomatoes, green pepper, cucumber, carrots, croutons, side of ranch dressing.",
+                    "ingredients": [],
+                    "price": 7.5,
+                    "title": "Alpine Chef Salad"
+                },
+                {
+                    "description": "Mixed greens, sliced chicken breast, jalapeno jack cheese, avocado, sundried tomatoes, croutons, sides of creamy Caesar dressing and chipotle ranch dressing.",
+                    "ingredients": [],
+                    "price": 7.5,
+                    "title": "Chipotle Caesar Salad"
+                }
+            ]
+        },
+        {
+            "category": "Cold Rolled Chicken",
+            "items": []
+        },
+        {
+            "category": "Cold Rolled Turkey",
+            "items": []
+        },
+        {
+            "category": "Cold Rolled Veggie and Tuna",
+            "items": []
+        },
+        {
+            "category": "Roly Yo",
+            "items": []
+        },
+        {
+            "category": "Hot Pressed Veggie and Tuna",
+            "items": []
+        },
+        {
+            "category": "Hot Pressed Turkey and Roast Beef",
+            "items": []
+        },
+        {
+            "category": "Roll Your Own",
+            "items": []
+        },
+        {
+            "category": "Hot Pressed Chicken",
+            "items": []
+        },
+        {
+            "category": "Sides",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.5,
+                    "title": "Lay's Classic"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.5,
+                    "title": "Doritos Baked Nacho Cheese"
+                }
+            ]
+        },
+        {
+            "category": "Kid's Sandwich",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.95,
+                    "title": "Kid's Mini Roll Meat and Cheese Sandwich"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.95,
+                    "title": "Kid's Mini Roll Chicken and Cheese Melt Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.5,
+                    "title": "3 oz. Chocolate Chip Cookie"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.5,
+                    "title": "3 oz. Double Chunky Chocolate Dream Cookie"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/birmingham/235020-roly-poly-sandwiches/menu/",
+    "name": "Roly Poly Sandwiches",
+    "state": "Alabama",
+    "type": "Sandwiches, American, Wraps",
+    "website": "http://www.rolypoly.com/",
+    "zip": "35244"
+}

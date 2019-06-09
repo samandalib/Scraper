@@ -1,0 +1,294 @@
+{
+    "address": "7025 E Florentine Rd",
+    "city": "Prescott Valley",
+    "currency": "USD",
+    "id": "253140",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.2,
+                    "title": "Soft Drink"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.5,
+                    "title": "Milk"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "Four Peaks Kilt Lifter, cheddar, Swiss, garlic, Texas Pete's hot sauce, pepper and paprika served with a bottomless basket of passion bread.",
+                    "ingredients": [],
+                    "price": 8.5,
+                    "title": "Four Peaks Beer Cheese"
+                },
+                {
+                    "description": "Served with garlic buttered pizza bread.",
+                    "ingredients": [],
+                    "price": 9.9,
+                    "title": "Artichoke Spinach Dip"
+                }
+            ]
+        },
+        {
+            "category": "Soups",
+            "items": []
+        },
+        {
+            "category": "Dinner Salads",
+            "items": [
+                {
+                    "description": "Capicola ham, Genoa salami, Roma tomatoes, cucumbers, mixed bell peppers, pepperoncinis, black olives, green olives and Swiss and mozzarella cheeses tossed with Street's Italian dressing.",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "Chopped Antipasto Salad Dinner"
+                },
+                {
+                    "description": "Mushrooms, red onions, bacon, candied walnuts and feta tossed with balsamic vinaigrette.",
+                    "ingredients": [],
+                    "price": 11.9,
+                    "title": "Spinach Salad Dinner"
+                }
+            ]
+        },
+        {
+            "category": "Sub Sandwiches",
+            "items": [
+                {
+                    "description": "Black Forest ham, cotto salami, provolone cheese, lettuce, tomatoes, onions and Street's Italian dressing. Served with your choice of side.",
+                    "ingredients": [],
+                    "price": 10.7,
+                    "title": "1. Still \"The #1\" Sub Sandwich"
+                },
+                {
+                    "description": "Cold turkey breast, lettuce, tomatoes and mayo. Served with your choice of side.",
+                    "ingredients": [],
+                    "price": 11.5,
+                    "title": "8. Oven Roasted Sliced Turkey Sub Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Pasta Specialties",
+            "items": [
+                {
+                    "description": "Ricotta, Italian sausage, ground beef, marinara sauce, mozzarella and Pecorino.",
+                    "ingredients": [],
+                    "price": 13.5,
+                    "title": "Lorrie's Lasagna"
+                },
+                {
+                    "description": "Link sausage, bell peppers, onions, roasted garlic, Pecorino, fresh basil and Vodka cream sauce. With choice of pasta.",
+                    "ingredients": [],
+                    "price": 12.9,
+                    "title": "Sausage N' Peppas"
+                }
+            ]
+        },
+        {
+            "category": "New York Pizza *Thin Crust Not Available In 18\"",
+            "items": []
+        },
+        {
+            "category": "Gourmet Pizza *Thin Crust Not Available in 18\"",
+            "items": []
+        },
+        {
+            "category": "Gluten-Free Thin Crust Pizza",
+            "items": []
+        },
+        {
+            "category": "Cauliflower Crust Pizza",
+            "items": [
+                {
+                    "description": "Comprised of simple ingredients consisting of cauliflower, rice flour, parmesan cheese, olive oil, egg, yeast, salt, sunflower oil, tapioca flower and vinegar, the combination of these ingredients gives the pizza crust an amazing crunch that will have you coming back for more!",
+                    "ingredients": [],
+                    "price": 13.9,
+                    "title": "10\" Cauliflower Crust Pizza"
+                }
+            ]
+        },
+        {
+            "category": "Calzones",
+            "items": [
+                {
+                    "description": "Ricotta, mozzarella, tomato sauce and spices.",
+                    "ingredients": [],
+                    "price": 11.9,
+                    "title": "Cheese Calzone"
+                },
+                {
+                    "description": "Spaghetti, marinara sauce, ricotta cheese, mozzarella cheese and spices.",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "Spaghetti Calzone"
+                }
+            ]
+        },
+        {
+            "category": "Pizza by the Slice",
+            "items": [
+                {
+                    "description": "A slice of our New York Pizza, with mozzarella cheese and red sauce.",
+                    "ingredients": [],
+                    "price": 3.75,
+                    "title": "Extra Large Pizza Slice"
+                },
+                {
+                    "description": "A slice of our New York Combo Pizza, with Italian sausage, pepperoni, meatballs, mixed bell peppers, mushrooms, onions, black olives and mozzarella cheese.",
+                    "ingredients": [],
+                    "price": 5.95,
+                    "title": "Extra Large New York Combo Pizza Slice"
+                }
+            ]
+        },
+        {
+            "category": "Broaster Chicken",
+            "items": [
+                {
+                    "description": "1 leg, 1 thigh, 4oz side, 2 potato wedges.",
+                    "ingredients": [],
+                    "price": 5.75,
+                    "title": "2 Piece Dark Chicken Basket"
+                },
+                {
+                    "description": "6 breasts, 6 wings.",
+                    "ingredients": [],
+                    "price": 27.9,
+                    "title": "12 Piece White Chicken Only"
+                }
+            ]
+        },
+        {
+            "category": "Kid's Meals",
+            "items": [
+                {
+                    "description": "Served with your choice of drink.",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Kid's Spaghetti and Tomato Sauce"
+                },
+                {
+                    "description": "Served with your choice of drink.",
+                    "ingredients": [],
+                    "price": 2.95,
+                    "title": "Kid's Large Cheese Slice"
+                }
+            ]
+        },
+        {
+            "category": "Side Items",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.75,
+                    "title": "Side Fries"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 0.95,
+                    "title": "Side Pickle"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Soups",
+            "items": []
+        },
+        {
+            "category": "Lunch Salads",
+            "items": [
+                {
+                    "description": "Capicola ham, Genoa salami, Roma tomatoes, cucumbers, mixed bell peppers, pepperoncinis, black olives, green olives and Swiss and mozzarella cheeses tossed with Street's Italian dressing.",
+                    "ingredients": [],
+                    "price": 8.9,
+                    "title": "Chopped Antipasto Salad Lunch"
+                },
+                {
+                    "description": "Mushrooms, red onions, bacon, candied walnuts and feta tossed with balsamic vinaigrette.",
+                    "ingredients": [],
+                    "price": 8.9,
+                    "title": "Spinach Salad Lunch"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Pizza by the Slice",
+            "items": [
+                {
+                    "description": "A slice of our New York Pizza, with mozzarella cheese and red sauce.",
+                    "ingredients": [],
+                    "price": 3.5,
+                    "title": "Extra Large Pizza Slice Lunch"
+                },
+                {
+                    "description": "A slice of our New York Combo Pizza, with Italian sausage, pepperoni, meatballs, mixed bell peppers, mushrooms, onions, black olives and mozzarella cheese.",
+                    "ingredients": [],
+                    "price": 5.75,
+                    "title": "Extra Large New York Combo Pizza Slice Lunch"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Pasta",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 8.9,
+                    "title": "Create Your Own Pasta Entree Lunch"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Specials",
+            "items": [
+                {
+                    "description": "3 of our famous baked chicken wings and a large slice of cheese pizza.",
+                    "ingredients": [],
+                    "price": 8.9,
+                    "title": "A. 6 Wings with a Slice Lunch Special"
+                },
+                {
+                    "description": "One half sandwich and a garden salad.",
+                    "ingredients": [],
+                    "price": 8.9,
+                    "title": "D. 1/2 Sandwich and Salad Lunch Special"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Chocolate chip cookie served with vanilla ice cream.",
+                    "ingredients": [],
+                    "price": 7.0,
+                    "title": "Passion Cookie"
+                },
+                {
+                    "description": "Rich creamy ricotta cheese filling in a crispy crust.",
+                    "ingredients": [],
+                    "price": 14.0,
+                    "title": "4 Cannoli"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/az/prescott-valley/253140-streets-of-new-york/menu/",
+    "name": "Streets Of New York",
+    "state": "Arizona",
+    "type": "Italian, Pizza, Sandwiches, Soups, Pasta, Salads, Healthy, Kids Menu, Lunch Specials",
+    "website": "http://www.streetsofnewyork.com",
+    "zip": "86314"
+}

@@ -1,0 +1,154 @@
+{
+    "address": "17244 Downey Ave",
+    "city": "Bellflower",
+    "currency": "USD",
+    "id": "303359",
+    "menu": [
+        {
+            "category": "Soups",
+            "items": [
+                {
+                    "description": "Hominy soup with chicken and pork. Topped with cabbage and radishes.",
+                    "ingredients": [],
+                    "price": 5.25,
+                    "title": "Pozole Rojo Con Pollo Y Puerco"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.75,
+                    "title": "Sopa del Dia"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Crispy romaine, tomatoes, cucumber, jicama, and peppers with creamy cilantro dressing.",
+                    "ingredients": [],
+                    "price": 4.75,
+                    "title": "Ensalada Reveuelta"
+                },
+                {
+                    "description": "Crispy romaine, creamy anchovy dressing, croutons, and cheese.",
+                    "ingredients": [],
+                    "price": 5.75,
+                    "title": "Ensalada Cesar"
+                }
+            ]
+        },
+        {
+            "category": "Combinations",
+            "items": [
+                {
+                    "description": "Includes rice, refried or black beans, chips and salsa.",
+                    "ingredients": [],
+                    "price": 10.25,
+                    "title": "Combo #1: 2 Cheese Enchiladas"
+                },
+                {
+                    "description": "Includes rice, refried or black beans, chips and salsa.",
+                    "ingredients": [],
+                    "price": 10.95,
+                    "title": "Combo #14: Mushroom Quesadilla 2 Cheese Enchilada"
+                }
+            ]
+        },
+        {
+            "category": "Burritos",
+            "items": [
+                {
+                    "description": "Stuffed with rice and beans and topped with sauce.",
+                    "ingredients": [],
+                    "price": 9.75,
+                    "title": "Ground Beef Burrito"
+                },
+                {
+                    "description": "Citrus-marinated charbroiled chicken breast topped with enchilada sauce.Stuffed with rice and beans and topped with sauce.",
+                    "ingredients": [],
+                    "price": 11.5,
+                    "title": "Burrito De Pollo"
+                }
+            ]
+        },
+        {
+            "category": "Main Entrees",
+            "items": [
+                {
+                    "description": "Sauteed chicken, onion, and peppers with rice in a light cream sauce; topped with cheese. No beans.",
+                    "ingredients": [],
+                    "price": 14.75,
+                    "title": "Paella De Pollo Con Crema Y Queso"
+                },
+                {
+                    "description": "Sauteed breaded steak served with black beans and white rice; garnished with pico de gallo and fresh lime.",
+                    "ingredients": [],
+                    "price": 14.75,
+                    "title": "Milanesa"
+                }
+            ]
+        },
+        {
+            "category": "A La Carte",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.5,
+                    "title": "Taco A la Carte"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.75,
+                    "title": "Beans"
+                }
+            ]
+        },
+        {
+            "category": "Misc.",
+            "items": []
+        },
+        {
+            "category": "Bebidas",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.75,
+                    "title": "Coke"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.75,
+                    "title": "Shirley Temple"
+                }
+            ]
+        },
+        {
+            "category": "Catering",
+            "items": [
+                {
+                    "description": "Serves at least 6. Includes chips, salsa, revuelta salad (romaine lettuce, tomatoes, cucumbers, red bell peppers, jicama, cilantro dressing), rice, Black or Refried beans, and choice of one item from the following: Enchilada, Hard Shell Taco, Taquitos, Tamale, or Chile Relleno. Priced per person. 10 person minimum order. 10 order minimum.",
+                    "ingredients": [],
+                    "price": 8.75,
+                    "title": "Catering Menu #1 with One-Item Combo"
+                },
+                {
+                    "description": "Serves at least 6. Includes Caesar salad (romaine hearts, croutons, parmesan cheese, creamy anchovy dressing), chips, salsa, rice, Black or Refried beans, mixed tortillas, choice of half order of an entree protein (Carne Asada, Chicken Diabla, Chicken Veracruz, or Chile Colorado), and choice of one item from the following: Enchilada, Hard Shell Taco, Tamale, or Chile Relleno. Priced per person. 10 person minimum order.  10 order minimum.",
+                    "ingredients": [],
+                    "price": 13.95,
+                    "title": "Catering Menu #2 with Caesar Salad"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/bellflower/303359-enriques-mexican-restaurant/menu/",
+    "name": "Enriques Mexican Restaurant",
+    "state": "California",
+    "type": "Mexican",
+    "website": "http://www.EnriquesBellflower.com",
+    "zip": "90706"
+}

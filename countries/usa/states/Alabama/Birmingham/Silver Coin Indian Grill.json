@@ -1,0 +1,263 @@
+{
+    "address": "3321 Lorna Rd Ste 13",
+    "city": "Birmingham",
+    "currency": "USD",
+    "id": "285935",
+    "menu": [
+        {
+            "category": "Beverage",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.79,
+                    "title": "110. Soda"
+                },
+                {
+                    "description": "A blend of salty yogurt and mild spices.",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "115. Salt Lassi"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "Peas and potatoes mixed with mild spices and fried until golden brown in this classic appetizer or side dish.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "1. Vegetable Samosa"
+                },
+                {
+                    "description": "Finger-hot pepper crispy fritters.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "6. Mirchi Pakoras"
+                }
+            ]
+        },
+        {
+            "category": "Soups and Salads",
+            "items": [
+                {
+                    "description": "Fresh tomato mild soup garnished with croutons.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "11. Tomato Soup"
+                },
+                {
+                    "description": "Lentil soup garnished with rice.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "13. Mulligatwany Soup"
+                }
+            ]
+        },
+        {
+            "category": "Tandoori Entrees",
+            "items": [
+                {
+                    "description": "A selection of tandoori specialties: tandoori chicken, mint chicken tikka, chicken rashmi kebab, chicken seekh kebab and lamb chops. Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 19.99,
+                    "title": "15. Mixed Tandoori Platter"
+                },
+                {
+                    "description": "Tender king size prawn marinated in yogurt and cooked in clay oven. Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 15.99,
+                    "title": "20. Shrimp Tandoori Combo"
+                }
+            ]
+        },
+        {
+            "category": "Chicken Entrees",
+            "items": [
+                {
+                    "description": "Boneless chicken marinated in spices roasted in tandoor and blended with our delicious mild cashew nut sauce. Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "25. Chicken Tikka Masala"
+                },
+                {
+                    "description": "Tender pieces of tandoori chicken cooked in creamy tomato sauce. Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "30. Chicken Makhani"
+                }
+            ]
+        },
+        {
+            "category": "Lamb Entrees",
+            "items": [
+                {
+                    "description": "Choicest lamb meat marinated and cooked with herbs and spices. Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "34. Ragan Gosh"
+                },
+                {
+                    "description": "Diced lamb cooked in tomato based gravy with onion, bell pepper and ginger. Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "38. Karahai Gosht"
+                }
+            ]
+        },
+        {
+            "category": "Seafood Entrees",
+            "items": [
+                {
+                    "description": "Mahi-mahi fish marinated with special spices and delicately pan-fried. Served on a bed of sauteed onion, garlic, spinach, potatoes and peas. Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 15.99,
+                    "title": "41. Masala Grilled Fish"
+                },
+                {
+                    "description": "Tender king size prawn cooked with potatoes and tangy vinegar. Served with a side order of basmati rice. Includes rice, plain naan, a small serving of dal makhani and raita. Spicy.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "44. Shrimp Vindaloo"
+                }
+            ]
+        },
+        {
+            "category": "Vegetarian Entrees",
+            "items": [
+                {
+                    "description": "Lentils cooked with onion, ginger, garlic and spices into a thick gravy. Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "46. Tarka Daal"
+                },
+                {
+                    "description": "Chunks of cottage cheese cooked with green peas in a tomato based gravy. Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "52. Mutter Paneer"
+                }
+            ]
+        },
+        {
+            "category": "Silver Coin Chef's Speciality Entrees",
+            "items": [
+                {
+                    "description": "Tandoori chicken, mint chicken tikka, lamb chop, tandoori prawns and fish tikka (mahi-mahi). Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 22.99,
+                    "title": "58. Silver Coin Mixed Special Platter"
+                },
+                {
+                    "description": "Creamy mix veg and cheese puffs served in a mild gravy sauce. No onion, no garlic. Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "63. Jain Malai Kofta"
+                }
+            ]
+        },
+        {
+            "category": "South Indian Entrees",
+            "items": [
+                {
+                    "description": "Crepe made of rice and lentil dough, stuffed with spiced cooked potatoes. Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "68. Masala Dosa"
+                },
+                {
+                    "description": "Thick pancake made of rice and lentil dough topped with chopped onion, jalapenos, and tomatoes. Served with a side order of basmati rice.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "72. Onion, Chilli and Tomato Uttappam"
+                }
+            ]
+        },
+        {
+            "category": "Tandoori Breads",
+            "items": [
+                {
+                    "description": "Flat clay oven baked and leavened bread.",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "76. Naan"
+                },
+                {
+                    "description": "Multi layered whole wheat bread.",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "83. Tawa Paratha"
+                }
+            ]
+        },
+        {
+            "category": "Rice",
+            "items": [
+                {
+                    "description": "Saffron flavored basmati rice cooked with carrots, French beans, green peas and an aromatic blend of herbs and spices.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "89. Vegetable Biryani Rice"
+                },
+                {
+                    "description": "Cumin rice.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "92. Jeera Rice"
+                }
+            ]
+        },
+        {
+            "category": "Specials",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 39.99,
+                    "title": "Dinner for 2"
+                }
+            ]
+        },
+        {
+            "category": "Sides",
+            "items": [
+                {
+                    "description": "A cooling combination of yogurt, tomatoes and cucumber.",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "94. Raita"
+                },
+                {
+                    "description": "Oven roasted crispy lentil wafers (2 pieces), topped with onion, tomatoes and spices.",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "99. Masala Papad"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Carrot pudding prepared by slow cooking grated carrot with milk, sugar, and cream.",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "104. Gajar ka Halwa"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "107. Pista Kulfi"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/birmingham/285935-silver-coin-indian-grill/menu/",
+    "name": "Silver Coin Indian Grill",
+    "state": "Alabama",
+    "type": "Indian",
+    "website": "http://www.silvercoinusa.com/",
+    "zip": "35216"
+}

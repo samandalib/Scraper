@@ -1,0 +1,440 @@
+{
+    "address": "1980 Ventura Blvd",
+    "city": "Camarillo",
+    "currency": "USD",
+    "id": "15244",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.49,
+                    "title": "Soda"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.49,
+                    "title": "Brewed Iced Tea"
+                }
+            ]
+        },
+        {
+            "category": "Starters and More",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Colossal Onion Rings"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "3 Cheeseburger Sliders"
+                }
+            ]
+        },
+        {
+            "category": "Homemade Soup and Chili",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Tri-Tip Chili"
+                },
+                {
+                    "description": "Available Fridays only.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "New England Clam Chowder"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Jamaican spiced, spinach, quinoa, mango, scallions, avocado, red onions, and peppers with a chili lime vinaigrette.",
+                    "ingredients": [],
+                    "price": 17.99,
+                    "title": "Salmon Salad"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "Tri-tip, onions, bell peppers, Jack cheese, BBQ or Jerk sauce on garlic bread.",
+                    "ingredients": [],
+                    "price": 15.49,
+                    "title": "Unbeatable Sandwich"
+                },
+                {
+                    "description": "Tangy slaw, tomatoes, Jack cheese, mayonnaise on a seeded brioche bun.",
+                    "ingredients": [],
+                    "price": 13.49,
+                    "title": "Southern Crispy Chicken Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Burgers",
+            "items": [
+                {
+                    "description": "Cheddar, lettuce, tomatoes, onions, pickles, homemade Thousand Island.",
+                    "ingredients": [],
+                    "price": 13.49,
+                    "title": "Wood Fired Bandit Burger"
+                },
+                {
+                    "description": "Lettuce, tomato, avocado, red onions, garlic aioli with Gouda cheese.",
+                    "ingredients": [],
+                    "price": 13.49,
+                    "title": "Veggie Burger"
+                }
+            ]
+        },
+        {
+            "category": "Wood-Fired BBQ",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 24.99,
+                    "title": "Beef Ribs Plate with Yams"
+                }
+            ]
+        },
+        {
+            "category": "Steak, Prime Rib and Seafood",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 28.99,
+                    "title": "16 oz. Slow-Roasted Prime Rib"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 28.99,
+                    "title": "16 oz. Rib-Eye Steak with Yams"
+                }
+            ]
+        },
+        {
+            "category": "Ribs",
+            "items": [
+                {
+                    "description": "Full rack.",
+                    "ingredients": [],
+                    "price": 21.99,
+                    "title": "Baby Back Ribs a la Carte"
+                },
+                {
+                    "description": "Full rack.",
+                    "ingredients": [],
+                    "price": 27.99,
+                    "title": "Beef Ribs a la Carte"
+                }
+            ]
+        },
+        {
+            "category": "Chicken",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Whole Chicken a la Carte"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 11.0,
+                    "title": "12 oz. Boneless Chicken Breast a la Carte"
+                }
+            ]
+        },
+        {
+            "category": "Tri-Tip and More",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 29.99,
+                    "title": "2 lb. Whole Tri-Tip a la Carte"
+                },
+                {
+                    "description": "Served with slaw.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "1 lb. BBQ Pulled Pork"
+                }
+            ]
+        },
+        {
+            "category": "Family Style Packages",
+            "items": [
+                {
+                    "description": "1/2 lb. of tri-tip steak,  1/2 chicken,  1/2 rack baby back ribs and choose two 1/2 pints of any side. Includes 2 garlic rolls. Please call in advance.",
+                    "ingredients": [],
+                    "price": 39.99,
+                    "title": "The Picnic Package for 2"
+                },
+                {
+                    "description": "1 whole tri-tip steak (approximately 2 lbs.),  2 whole chickens or 6 chicken breasts,  2 racks baby back ribs and 2 quarts of any sides. Includes 10 garlic rolls. Feeds approximately 6-8. Please call in advance.",
+                    "ingredients": [],
+                    "price": 115.99,
+                    "title": "The Rustler Package"
+                }
+            ]
+        },
+        {
+            "category": "Sides",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "Shoestring Fries"
+                }
+            ]
+        },
+        {
+            "category": "Young'un Menu",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Kids Cheeseburger"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Kids BBQ Chicken Breast"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Macadamia nut ice cream, laced with a touch of coffee liqueur, layered with chocolate fudge over an Oreo cookie crust topped with whipped cream.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Leilani's Mud Pie"
+                },
+                {
+                    "description": "Includes whipped cream.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Chocolate Cake & Vanilla Ice Cream"
+                }
+            ]
+        },
+        {
+            "category": "Appetizer Salads Archived",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Small Bandits' House Salad"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Small Original Caesar Salad"
+                }
+            ]
+        },
+        {
+            "category": "Catering Round-Up Party Specials Archived",
+            "items": [
+                {
+                    "description": "Half pound of tri-tip, half chicken, half rack of baby back ribs, two 8 oz. sides, and two garlic rolls.",
+                    "ingredients": [],
+                    "price": 39.0,
+                    "title": "Catering Picnic For Two"
+                },
+                {
+                    "description": "Serves at least 6. One whole tri-tip, Two Whole Chickens or Six Chicken Breasts, two racks of ribs, two quart-size sides, and ten garlic rolls. Serves 6-8 people.",
+                    "ingredients": [],
+                    "price": 110.0,
+                    "title": "Catering Rustler Package"
+                }
+            ]
+        },
+        {
+            "category": "Catering Appetizers Archived",
+            "items": [
+                {
+                    "description": "Serves at least 20. Includes homemade chips and salsa.",
+                    "ingredients": [],
+                    "price": 55.0,
+                    "title": "Catering Small Spinach & Artichoke Dip"
+                },
+                {
+                    "description": "Serves at least 15. A 48 hour notice is required.",
+                    "ingredients": [],
+                    "price": 55.0,
+                    "title": "Catering Small Seasonal Fresh Fruit"
+                }
+            ]
+        },
+        {
+            "category": "Entr\u00e9e Salads Archived",
+            "items": [
+                {
+                    "description": "Mixed greens, bacon, corn, black beans, jicama, tomatoes, tortilla strips, cilantro jalape?o ranch dressing, crispy onions.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "BBQ Tri-Tip Chopped Salad"
+                }
+            ]
+        },
+        {
+            "category": "Catering Salads Archived",
+            "items": []
+        },
+        {
+            "category": "Catering Sandwich & Wrap Platters Archived",
+            "items": []
+        },
+        {
+            "category": "A La Carte Archived",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 19.99,
+                    "title": "Full Rack of Baby Back Ribs A La Carte"
+                },
+                {
+                    "description": "Approximately 12 oz. size.",
+                    "ingredients": [],
+                    "price": 11.0,
+                    "title": "Boneless Chicken Breast A La Carte"
+                }
+            ]
+        },
+        {
+            "category": "Catering Sides Archived",
+            "items": []
+        },
+        {
+            "category": "Wraps Archived",
+            "items": [
+                {
+                    "description": "Greens, tomato, cheese, corn, black beans, tortilla strips, cilantro, jalape?o ranch dressing, barbeque sauce.",
+                    "ingredients": [],
+                    "price": 12.59,
+                    "title": "BBQ Tri-Tip Wrap"
+                },
+                {
+                    "description": "Greens, tomato, cheese, corn, black beans, tortilla strips, cilantro, jalape?o ranch dressing, barbeque sauce.",
+                    "ingredients": [],
+                    "price": 12.59,
+                    "title": "BBQ Chicken Wrap"
+                }
+            ]
+        },
+        {
+            "category": "Tacos Archived",
+            "items": [
+                {
+                    "description": "Lightly spiced fish of the day, tangy slaw and crispy onions.  With dirty rice and beans.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Fish Tacos"
+                }
+            ]
+        },
+        {
+            "category": "Catering Platters Archived",
+            "items": []
+        },
+        {
+            "category": "Misc. Archived",
+            "items": []
+        },
+        {
+            "category": "Seafood Archived",
+            "items": [
+                {
+                    "description": "Lightly dusted with Jamaican spices; topped with mango salsa.  Served with dirty rice and vegetables.",
+                    "ingredients": [],
+                    "price": 19.99,
+                    "title": "Fresh Salmon"
+                },
+                {
+                    "description": "Grilled and topped with lemon garlic sauce.  Served with dirty rice and vegetables.",
+                    "ingredients": [],
+                    "price": 19.99,
+                    "title": "Skewered Shrimp"
+                }
+            ]
+        },
+        {
+            "category": "Catering Packages Archived",
+            "items": [
+                {
+                    "description": "Includes Barbeque Half Chicken or Chicken Breast.  30 order minimum.",
+                    "ingredients": [],
+                    "price": 12.0,
+                    "title": "Catering Package A"
+                },
+                {
+                    "description": "Includes Barbeque Half Chicken or Chicken Breast, tri-tip, and Beef Ribs, St. Louis, or Baby Back Ribs. 30 order minimum.",
+                    "ingredients": [],
+                    "price": 17.0,
+                    "title": "Catering Package C"
+                }
+            ]
+        },
+        {
+            "category": "Catering Desserts Archived",
+            "items": [
+                {
+                    "description": "Priced per slice. Minimum 14 slices. 14 order minimum.",
+                    "ingredients": [],
+                    "price": 4.0,
+                    "title": "Catering Original-Style Cheesecake Slice"
+                }
+            ]
+        },
+        {
+            "category": "Kids Menu Archived",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Kids Cheeseburger"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Kids BBQ Chicken Breast"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/camarillo/15244-bandits'-grill-&-bar/menu/",
+    "name": "Bandits' Grill & Bar",
+    "state": "California",
+    "type": "Barbecue, American",
+    "website": "http://www.banditsbbq.com",
+    "zip": "93010"
+}

@@ -1,0 +1,409 @@
+{
+    "address": "2051 W Warner Rd",
+    "city": "Chandler",
+    "currency": "USD",
+    "id": "4915",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.75,
+                    "title": "Soft Drink"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.5,
+                    "title": "BoBa Drink"
+                }
+            ]
+        },
+        {
+            "category": "Appetizer",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.0,
+                    "title": "BBQ Pork"
+                }
+            ]
+        },
+        {
+            "category": "Soup",
+            "items": []
+        },
+        {
+            "category": "Wonton Soup",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.0,
+                    "title": "War Wonton Soup"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.5,
+                    "title": "BBQ Pork Wonton Soup"
+                }
+            ]
+        },
+        {
+            "category": "Fish",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.0,
+                    "title": "Crispy Fish Fillet and Green Vegetables"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.0,
+                    "title": "Crispy Lemon Fish Fillet"
+                }
+            ]
+        },
+        {
+            "category": "Squid",
+            "items": [
+                {
+                    "description": "Hot and spicy.",
+                    "ingredients": [],
+                    "price": 10.0,
+                    "title": "Spicy Salt and Pepper Squid"
+                },
+                {
+                    "description": "Hot and spicy.",
+                    "ingredients": [],
+                    "price": 10.0,
+                    "title": "Sauteed XO Squid"
+                }
+            ]
+        },
+        {
+            "category": "Vegetables and Bean Curd",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.5,
+                    "title": "Crispy Fried Bean Curd"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 8.0,
+                    "title": "Spicy Garlic Eggplant"
+                }
+            ]
+        },
+        {
+            "category": "Bird Nest",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 15.0,
+                    "title": "Seafood Treasure Delight Bird Nest"
+                },
+                {
+                    "description": "Chicken and shrimp.",
+                    "ingredients": [],
+                    "price": 13.0,
+                    "title": "Phoenix and Dragon Bird Nest"
+                }
+            ]
+        },
+        {
+            "category": "Hot Pot",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 11.0,
+                    "title": "Stuffed Shirmp Eggplant Hot Pot"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.0,
+                    "title": "Salted Fish Chicken Tofu Hot Pot"
+                }
+            ]
+        },
+        {
+            "category": "Sizzling Dishes",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 15.0,
+                    "title": "Sizzling Seafood Garlic Sauce"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.0,
+                    "title": "Sizzling Black Pepper Beef"
+                }
+            ]
+        },
+        {
+            "category": "Egg Foo Young",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 10.0,
+                    "title": "Vegetable Egg Foo Young"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 11.0,
+                    "title": "Beef Egg Foo Young"
+                }
+            ]
+        },
+        {
+            "category": "Moo Shu",
+            "items": [
+                {
+                    "description": "With four pancakes.",
+                    "ingredients": [],
+                    "price": 10.0,
+                    "title": "Moo Shu Duck"
+                },
+                {
+                    "description": "With four pancakes.",
+                    "ingredients": [],
+                    "price": 10.0,
+                    "title": "Moo Shu Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Noodles",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.0,
+                    "title": "Seafood Delight"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.0,
+                    "title": "BBQ Pork"
+                }
+            ]
+        },
+        {
+            "category": "Fried Rice",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 8.5,
+                    "title": "Hawaiian Chicken and Shrimp Fired Rice"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 8.0,
+                    "title": "Shrimp Fried Rice"
+                }
+            ]
+        },
+        {
+            "category": "Poultry",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.5,
+                    "title": "Chicken Snow Peas"
+                }
+            ]
+        },
+        {
+            "category": "Beef and Pork",
+            "items": [
+                {
+                    "description": "Hot and spicy.",
+                    "ingredients": [],
+                    "price": 9.0,
+                    "title": "Szechwan Shredded Pork"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 10.0,
+                    "title": "Beef String Beans"
+                }
+            ]
+        },
+        {
+            "category": "Shrimp and Scallops",
+            "items": [
+                {
+                    "description": "Hot and spicy.",
+                    "ingredients": [],
+                    "price": 14.0,
+                    "title": "XO Scallops Garden Vegetables"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 13.0,
+                    "title": "Shrimp Snow Peas"
+                }
+            ]
+        },
+        {
+            "category": "Regional Specialty Sauces",
+            "items": []
+        },
+        {
+            "category": "Lunch Traditional Favorites",
+            "items": [
+                {
+                    "description": "Served with choice of side and rice.",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Lunch Vegetable Delight"
+                },
+                {
+                    "description": "Served with choice of side and rice.",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Lunch Sweet and Sour Pork"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Fried Rice",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "Lunch Vegetables Fried Rice"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Lunch BBQ Pork Fried Rice"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Chow Mein",
+            "items": [
+                {
+                    "description": "Crispy noodles served on top of vegetables.",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "Lunch Vegetables Chow Mein"
+                },
+                {
+                    "description": "Crispy noodles served on top of vegetables.",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Lunch BBQ Pork Chow Mein"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Lo Mein",
+            "items": [
+                {
+                    "description": "Soft noodles stir-fried with vegetables.",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "Lunch Vegetables Lo Mein"
+                },
+                {
+                    "description": "Soft noodles stir-fried with vegetables.",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Lunch BBQ Pork Lo Mein"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Regional Specialties",
+            "items": []
+        },
+        {
+            "category": "Weekday Luncheon Menu",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.0,
+                    "title": "Weekday Lunch Vegetable Delight"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.5,
+                    "title": "Weekday Lunch Sweet and Sour Pork"
+                }
+            ]
+        },
+        {
+            "category": "Weekday Fried Rice, Lo Mein and Chow Mein",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.8,
+                    "title": "Weekday Luncheon Vegetable"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.0,
+                    "title": "Weekday Luncheon BBQ Pork"
+                }
+            ]
+        },
+        {
+            "category": "Weekday Regional Sauces",
+            "items": []
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.5,
+                    "title": "Longan"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.5,
+                    "title": "Coconut Pudding"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/az/chandler/4915-c-fu-gourmet/menu/",
+    "name": "C-Fu Gourmet",
+    "state": "Arizona",
+    "type": "Chinese, Seafood",
+    "website": "http://www.cfugourmet.com",
+    "zip": "85224"
+}

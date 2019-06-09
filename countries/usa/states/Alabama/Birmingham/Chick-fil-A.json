@@ -1,0 +1,105 @@
+{
+    "address": "1609 Montgomery Hwy",
+    "city": "Birmingham",
+    "currency": "USD",
+    "id": "179555",
+    "menu": [
+        {
+            "category": "Entrees",
+            "items": [
+                {
+                    "description": "A boneless breast of chicken seasoned to perfection, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips.",
+                    "ingredients": [],
+                    "price": 4.45,
+                    "title": "Chick-fil-A Chicken Sandwich"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.55,
+                    "title": "12 Count Nuggets"
+                }
+            ]
+        },
+        {
+            "category": "Sides",
+            "items": []
+        },
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.7,
+                    "title": "1% Milk"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Sliced grilled chicken, lettuce, red cabbage, carrots and cheese blend in a flaxseed flour flatbread.",
+                    "ingredients": [],
+                    "price": 5.29,
+                    "title": "Grilled Chicken Cool Wrap"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.65,
+                    "title": "Cobb Salad"
+                }
+            ]
+        },
+        {
+            "category": "Kids Meals",
+            "items": []
+        },
+        {
+            "category": "Desserts",
+            "items": []
+        },
+        {
+            "category": "Breakfast",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.25,
+                    "title": "Chick-fil-A Biscuit Entree"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.9,
+                    "title": "Bacon Egg and Cheese Muffin"
+                }
+            ]
+        },
+        {
+            "category": "Packaged Meals",
+            "items": [
+                {
+                    "description": "Grilled chicken cool wrap, a bag of waffle potato chips and a chocolate chunk cookie. Served with a choice of side. The meal items come packaged together in a paper box, with a set of utensils and salt and pepper.",
+                    "ingredients": [],
+                    "price": 10.58,
+                    "title": "Premium Grilled Chicken Cool Wrap Packaged Meal"
+                },
+                {
+                    "description": "Chicken salad sandwich, a bag of waffle potato chips and a chocolate chunk cookie. The meal items come packaged together in a paper box, with a set of utensils and salt and pepper.",
+                    "ingredients": [],
+                    "price": 6.83,
+                    "title": "Regular Chicken Salad Sandwich Packaged Meal"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/birmingham/179555-chick-fil-a/menu/",
+    "name": "Chick-fil-A",
+    "state": "Alabama",
+    "type": "Sandwiches, American, Chicken, Salads",
+    "website": "http://www.chick-fil-a.com",
+    "zip": "35216"
+}

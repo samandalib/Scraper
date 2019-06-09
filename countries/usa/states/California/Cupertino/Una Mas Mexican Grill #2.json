@@ -1,0 +1,201 @@
+{
+    "address": "21250 Stevens Creek Blvd",
+    "city": "Cupertino",
+    "currency": "USD",
+    "id": "52784",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.29,
+                    "title": "Pepsi"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.59,
+                    "title": "Bottled Water"
+                }
+            ]
+        },
+        {
+            "category": "Soups",
+            "items": [
+                {
+                    "description": "Marinated grilled chicken, fresh avocado, cheese and tortilla strips.",
+                    "ingredients": [],
+                    "price": 5.89,
+                    "title": "Tortilla Soup"
+                },
+                {
+                    "description": "Includes small soup, taco, and a regular drink.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Soup Combo"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Fresh romaine lettuce, shredded cheese, tortilla strips, salsa fresca and Caesar dressing. Served in a tostada shell.",
+                    "ingredients": [],
+                    "price": 7.49,
+                    "title": "Caesar Salad"
+                },
+                {
+                    "description": "Fresh romaine lettuce topped with black beans, shredded cheese, salsa fresca and crisp tortilla strips with jalapeno vinaigrette.",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Verde Salad"
+                }
+            ]
+        },
+        {
+            "category": "Tacos",
+            "items": [
+                {
+                    "description": "Beans, salsa fresca, and choice of cheese or sour cream.",
+                    "ingredients": [],
+                    "price": 3.79,
+                    "title": "Una Mas Chicken Taco"
+                },
+                {
+                    "description": "Garden fresh veggies, cheese, salsa fresca, black beans, and corn salsa. Vegetarian.",
+                    "ingredients": [],
+                    "price": 4.29,
+                    "title": "Roasted Veggie Taco"
+                }
+            ]
+        },
+        {
+            "category": "Specialties",
+            "items": [
+                {
+                    "description": "2 rolled corn tortillas stuffed with seasoned chicken and topped with guacamole, sour cream and salsa fresca.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Taquitos"
+                },
+                {
+                    "description": "Grilled chicken or steak in soft corn tortillas with special sauces, cheese and sour cream.",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Enchiladas Rojas"
+                }
+            ]
+        },
+        {
+            "category": "Combo Plates",
+            "items": [
+                {
+                    "description": "Served with 2 sides and a regular soda.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Enchiladas Combo"
+                },
+                {
+                    "description": "Salsa fresca, cheese, and sour cream. Served with 2 sides and a regular soda.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "3 Una Mas Tacos Combo"
+                }
+            ]
+        },
+        {
+            "category": "Burritos",
+            "items": [
+                {
+                    "description": "Spanish rice, beans, salsa fresca, and cheese or sour cream.",
+                    "ingredients": [],
+                    "price": 7.79,
+                    "title": "Una Mas Burrito"
+                },
+                {
+                    "description": "Una Mas seasoning with shredded cabbage, rice, and chipotle.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "San Lucas Fish Burrito"
+                }
+            ]
+        },
+        {
+            "category": "Quesadillas",
+            "items": [
+                {
+                    "description": "A flour tortilla, Monterey Jack cheese and salsa fresca with fresh guacamole and sour cream on the side.",
+                    "ingredients": [],
+                    "price": 7.49,
+                    "title": "The Monterey Quesadilla"
+                },
+                {
+                    "description": "A flour tortilla, Monterrey jack Cheese, steak and salsa fresca.",
+                    "ingredients": [],
+                    "price": 8.29,
+                    "title": "Steak Quesadilla"
+                }
+            ]
+        },
+        {
+            "category": "Mas Chips and Extras",
+            "items": [
+                {
+                    "description": "Lots of cheese, sour cream, guacamole, beans, and salsa fresca.",
+                    "ingredients": [],
+                    "price": 7.29,
+                    "title": "Mas Nachos"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.29,
+                    "title": "Side of Sour Cream"
+                }
+            ]
+        },
+        {
+            "category": "Kid's Menu (For Children Under 12)",
+            "items": [
+                {
+                    "description": "Served with beans and rice or french fries. Includes a kid's beverage.",
+                    "ingredients": [],
+                    "price": 4.19,
+                    "title": "Kid's Bean 'N Cheese Burrito"
+                },
+                {
+                    "description": "Lots of melted cheese. Served with beans and rice or french fries. Includes a kid's beverage.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Kid's Nachos"
+                }
+            ]
+        },
+        {
+            "category": "Dessert",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.5,
+                    "title": "Cookie"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.5,
+                    "title": "Flan"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/cupertino/52784-una-mas-mexican-grill-#2/menu/",
+    "name": "Una Mas Mexican Grill #2",
+    "state": "California",
+    "type": "Mexican",
+    "website": "http://www.unamas.com",
+    "zip": "95014"
+}

@@ -1,0 +1,233 @@
+{
+    "address": "1278 Oak Grove Rd",
+    "city": "Birmingham",
+    "currency": "USD",
+    "id": "8506",
+    "menu": [
+        {
+            "category": "Refreshers",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Lemonade"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "Bottled Water"
+                }
+            ]
+        },
+        {
+            "category": "Teasers",
+            "items": [
+                {
+                    "description": "Our legendary wing sauce is generously slathered onto 6 original Hooters Buffalo shrimp, 6 boneless wings and 6 original Hooters style wings.",
+                    "ingredients": [],
+                    "price": 18.99,
+                    "title": "Hooters Original Buffalo Platter"
+                },
+                {
+                    "description": "Plump strips of juicy chicken fried up to crispy perfection. Feeling spicy? Have them tossed in one of our world-famous wing sauces.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Chicken Breast Strips"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Spring mix greens stacked with breaded chicken tossed in your favorite wing sauce. Topped with diced tomatoes, bleu cheese crumbles, onions and cilantro and your choice of bleu cheese or ranch dressing.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Hooters Original Buffalo Chicken Salad"
+                },
+                {
+                    "description": "An iceberg lettuce and cabbage mix, topped with pico de gallo, shredded cheese, cilantro, sour cream, fresh guacamole and chili. Served on a bed of tortilla chips with a tangy lime vinaigrette.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Taco Salad"
+                }
+            ]
+        },
+        {
+            "category": "1/2 lb. Mile High Burgers",
+            "items": [
+                {
+                    "description": "Like a cowboy on spring break. Decked out with Hooters original Daytona beach sauce, caramelized onions, bacon and cheddar cheese and served on Texas toast.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Twisted Texas Melt"
+                },
+                {
+                    "description": "BBQ sauce, melted cheddar cheese, bacon and onion rings pilled high on a toasted brioche bun.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Western BBQ Burger"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches and Tacos",
+            "items": [
+                {
+                    "description": "Grilled or battered and fried to crispy perfection, either way you'll feel like you're on a beach in Mexico. Served on warm tortillas with pico de gallo, fresh cabbage and a special sauce.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Baja Fish Tacos"
+                },
+                {
+                    "description": "Everything you love about our wings, but in a sandwich. Hand-breaded chicken breast tossed in your favorite wing sauce, topped with lettuce and tomato and served on a toasted brioche bun. Choice of fries.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Hooters Original Buffalo Chicken Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Wings",
+            "items": []
+        },
+        {
+            "category": "Seafood",
+            "items": [
+                {
+                    "description": "We don't skimp on the shrimp. It's seasoned and grilled then loaded with cabbage, pico de gallo and a special sauce and wrapped in flour tortillas.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Baja Shrimp Tacos"
+                }
+            ]
+        },
+        {
+            "category": "Wise Choice Appetizers",
+            "items": [
+                {
+                    "description": "1/2 lb. served with cocktail sauce.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "1/2 lb. Wise Choice Steamed Shrimp"
+                },
+                {
+                    "description": "Served with seasoned tortilla chips, fresh-made guacamole and pico de gallo.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Wise Choice Grilled Blackened Shrimp"
+                }
+            ]
+        },
+        {
+            "category": "Wise Choice Soup and Salads",
+            "items": [
+                {
+                    "description": "Spring mix greens piled with diced tomatoes, crisp cucumbers and cheese.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Wise Choice Salad"
+                },
+                {
+                    "description": "Traditional chili served the wise choice way.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Wise Chili"
+                }
+            ]
+        },
+        {
+            "category": "Wise Choice Tacos",
+            "items": [
+                {
+                    "description": "3 grilled fish tacos served the wise choice way.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Wise Choice Fish Tacos"
+                },
+                {
+                    "description": "3 grilled shrimp tacos served the wise choice way.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Wise Choice Shrimp Tacos"
+                }
+            ]
+        },
+        {
+            "category": "Wise Choice Sandwiches",
+            "items": [
+                {
+                    "description": "Grilled, blackened mahi-mahi with lettuce, tomato and sliced onion served on a toasted brioche bun.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Grilled Blackened Mahi-Mahi Sandwich and Wise Choice Salad"
+                },
+                {
+                    "description": "Grilled chicken breast topped with lettuce and tomato and served on a toasted brioche bun.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Grilled Chicken Sandwich and Wise Choice Salad"
+                }
+            ]
+        },
+        {
+            "category": "On the Side",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Curly Fries"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Roasted Mixed Vegetables"
+                }
+            ]
+        },
+        {
+            "category": "Kids Menu",
+            "items": [
+                {
+                    "description": "4 piece.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Kids Wings"
+                },
+                {
+                    "description": "5 piece.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Kid's Buffalo Shrimp"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Chocolate Mousse Cake"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "Strawberry Cheesecake Dessert Shooter"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/birmingham/8506-hooters/menu/",
+    "name": "Hooters",
+    "state": "Alabama",
+    "type": "American, Wings",
+    "website": "http://www.hooters.com",
+    "zip": "35209"
+}

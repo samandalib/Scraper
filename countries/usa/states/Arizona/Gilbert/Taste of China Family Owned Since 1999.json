@@ -1,0 +1,142 @@
+{
+    "address": "110 S Val Vista Dr B4",
+    "city": "Gilbert",
+    "currency": "USD",
+    "id": "30756",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": []
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "4 pieces. Chopped chicken with shiitake mushroom, water chestnuts and in iceberg lettuce.",
+                    "ingredients": [],
+                    "price": 6.97,
+                    "title": "1. Chicken Lettuce Wraps"
+                },
+                {
+                    "description": "Egg roll, crab puffs, beef on a stick fried shrimp and spare rib.",
+                    "ingredients": [],
+                    "price": 6.52,
+                    "title": "5. Pu Pu Platter"
+                }
+            ]
+        },
+        {
+            "category": "Soup",
+            "items": []
+        },
+        {
+            "category": "Rice Bowls",
+            "items": [
+                {
+                    "description": "White chicken in the famous Japanese style sauce. Kid's favorite.",
+                    "ingredients": [],
+                    "price": 5.84,
+                    "title": "1. Teriyaki Chicken Over Steamed Rice Bowl"
+                },
+                {
+                    "description": "Sliced chicken in our sweet brown sauce.",
+                    "ingredients": [],
+                    "price": 5.84,
+                    "title": "3. Stir-Fried Chicken Over Steamed Rice Bowl"
+                }
+            ]
+        },
+        {
+            "category": "Chicken",
+            "items": []
+        },
+        {
+            "category": "Beef",
+            "items": []
+        },
+        {
+            "category": "Egg Foo Yung",
+            "items": [
+                {
+                    "description": "Fresh egg patty with cabbage and onions. Your choice of pork, chicken, beef, Chinese vegetables or seafood.",
+                    "ingredients": [],
+                    "price": 9.24,
+                    "title": "Large Egg Foo Yung"
+                }
+            ]
+        },
+        {
+            "category": "Pork",
+            "items": []
+        },
+        {
+            "category": "Seafood",
+            "items": []
+        },
+        {
+            "category": "Soft Noodle Chow Mein",
+            "items": []
+        },
+        {
+            "category": "Vegetables",
+            "items": []
+        },
+        {
+            "category": "Fried Rice",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.36,
+                    "title": "1. Large Chicken Fried Rice"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.36,
+                    "title": "1. Large BBQ Pork Fried Rice"
+                }
+            ]
+        },
+        {
+            "category": "Dinner Specials",
+            "items": [
+                {
+                    "description": "For 2. Includes egg drop soup and egg rolls, crab puffs and pork fried rice.",
+                    "ingredients": [],
+                    "price": 32.32,
+                    "title": "Family Dinner Special"
+                },
+                {
+                    "description": "For 2. Includes hot and sour soup. Pupu platter and chicken fried rice.",
+                    "ingredients": [],
+                    "price": 37.98,
+                    "title": "Mandarin Dinner Special"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Specials",
+            "items": [
+                {
+                    "description": "Served with egg roll, fried wonton, fried rice and a fortune cookie. Deep fried boneless chicken served with brown sauce.",
+                    "ingredients": [],
+                    "price": 7.36,
+                    "title": "1. House Chicken Lunch"
+                },
+                {
+                    "description": "Served with egg roll, fried wonton, fried rice and a fortune cookie.",
+                    "ingredients": [],
+                    "price": 7.36,
+                    "title": "13. Shrimp Vegetables"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/az/gilbert/30756-taste-of-china-family-owned-since-1999/menu/",
+    "name": "Taste of China Family Owned Since 1999",
+    "state": "Arizona",
+    "type": "Chinese",
+    "website": "http://www.aztasteofchina.com",
+    "zip": "85296"
+}

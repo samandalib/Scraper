@@ -1,0 +1,99 @@
+{
+    "address": "121 N. College Street",
+    "city": "Auburn",
+    "currency": "USD",
+    "id": "307031",
+    "menu": [
+        {
+            "category": "Burgers",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.89,
+                    "title": "Hamburger"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.89,
+                    "title": "Bacon Burger"
+                }
+            ]
+        },
+        {
+            "category": "Hot Dogs",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.89,
+                    "title": "Hot Dog"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.59,
+                    "title": "Cheese Dog"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.79,
+                    "title": "Grilled Cheese Sandwich"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.39,
+                    "title": "BLT Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Fries",
+            "items": [
+                {
+                    "description": "Five Guys fries are cooked in 100% peanut oil. -   To ensure quality and freshness, your fries will not be cooked until you arrive",
+                    "ingredients": [],
+                    "price": 2.59,
+                    "title": "Little Fries"
+                },
+                {
+                    "description": "Five Guys fries are cooked in 100% peanut oil. -   To ensure quality and freshness, your fries will not be cooked until you arrive",
+                    "ingredients": [],
+                    "price": 3.59,
+                    "title": "Cajun Fries"
+                }
+            ]
+        },
+        {
+            "category": "Drinks",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.19,
+                    "title": "Regular Drink"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.09,
+                    "title": "Bottled Water"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/auburn/307031-five-guys-burgers-&-fries/menu/",
+    "name": "Five Guys Burgers & Fries",
+    "state": "Alabama",
+    "type": "Burgers, Sandwiches, American, Grill, Lunch Specials",
+    "website": "http://www.fiveguys.com",
+    "zip": "36830"
+}

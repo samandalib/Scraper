@@ -1,0 +1,56 @@
+{
+    "address": "610 N Main St",
+    "city": "Corona",
+    "currency": "USD",
+    "id": "168758",
+    "menu": [
+        {
+            "category": "Catering - Chicken Menu",
+            "items": [
+                {
+                    "description": "* Serves 10-12 *  Citrus-marinated, flame-grilled chicken (2 pieces per person). 2 X-large side dishes (see choices below), warm flour or corn tortillas, tortilla chips, and fresh salsa. Plus, serving utensils, plates, napkins and cutlery.",
+                    "ingredients": [],
+                    "price": 92.89,
+                    "title": "24 Piece Chicken Meal"
+                },
+                {
+                    "description": "24 pieces of citrus-marinated, flame-grilled chicken, warm flour or corn tortillas, and fresh salsa.",
+                    "ingredients": [],
+                    "price": 49.99,
+                    "title": "Additional Chicken - 24 Pieces"
+                }
+            ]
+        },
+        {
+            "category": "Complimentary Items",
+            "items": []
+        },
+        {
+            "category": "Catering - Mexican Menu",
+            "items": [
+                {
+                    "description": "* Serves 6-8 *  4 burritos cut in half plus fresh salsa. Your choice of Chicken & Avocado (stuffed with our citrus-marinated flame-grilled chicken, fresh avocado, cabbage and creamy cilantro dressing), The Poblano (chicken, avocado, rice, pinto beans, flame-grilled corn, cilantro, diced onions, melted Jack cheese and a mild salsa prepared with Poblano chilies, or The Spicy Chipotle (chicken, rice, pinto beans, pico de gallo, sour cream, cilantro, melted Jack cheese and a spicy, smoky fire-roasted Chipotle salsa.",
+                    "ingredients": [],
+                    "price": 29.99,
+                    "title": "Burrito Platter"
+                },
+                {
+                    "description": "* Serves 10-12 *",
+                    "ingredients": [],
+                    "price": 11.49,
+                    "title": "Chips & Salsa"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Sides",
+            "items": []
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/corona/168758-el-pollo-loco/menu/",
+    "name": "El Pollo Loco",
+    "state": "California",
+    "type": "Mexican, Chicken",
+    "website": "http://www.elpolloloco.com",
+    "zip": "92880"
+}

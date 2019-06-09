@@ -1,0 +1,134 @@
+{
+    "address": "314 F St",
+    "city": "Davis",
+    "currency": "USD",
+    "id": "17553",
+    "menu": [
+        {
+            "category": "Starters",
+            "items": []
+        },
+        {
+            "category": "Wings",
+            "items": [
+                {
+                    "description": "Comes with 1 dipping sauce.",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "6 Count Wings"
+                },
+                {
+                    "description": "Comes with 2 dipping sauces.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "12 Count Wings"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "Hearty Italian meatballs, sauteed red onions and green and red bell peppers smothered in marinara sauce and Asiago cheese.",
+                    "ingredients": [],
+                    "price": 8.49,
+                    "title": "Meatball Sandwich"
+                },
+                {
+                    "description": "Tender beef grilled with onions, mushrooms, green and red bell peppers, mayonnaise and topped with melted provolone.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Philly Cheesesteak Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Burgers",
+            "items": [
+                {
+                    "description": "Topped with melted cheddar cheese, mayonnaise, green leaf lettuce, Roma tomatoes and red onions.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Classic Cheese Burger"
+                },
+                {
+                    "description": "Topped with grilled red onions, crisp bacon crumbles, creamy Brie cheese, green leaf lettuce and Roma tomatoes.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Bistro Burger"
+                }
+            ]
+        },
+        {
+            "category": "Pizza Creations",
+            "items": []
+        },
+        {
+            "category": "Pizza Favorites",
+            "items": []
+        },
+        {
+            "category": "Pasta Favorites",
+            "items": []
+        },
+        {
+            "category": "Pasta Creations",
+            "items": []
+        },
+        {
+            "category": "Sliders",
+            "items": [
+                {
+                    "description": "Angus beef patty, sharp cheddar, grilled red onions and mayo. Made on house-baked mini buns, grilled with garlic butter to a golden brown crust.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "2 Traditional Sliders"
+                },
+                {
+                    "description": "Angus beef patty with BBQ sauce, grilled red onions, bacon and smoked Gouda. Made on house-baked mini buns, grilled with garlic butter to a golden brown crust.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "2 BBQ Bacon Sliders"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Baked with sugar and spices. Served with a side of cream cheese icing.",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Sweet Twists"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Specials",
+            "items": [
+                {
+                    "description": "8\" cheesy breadsticks and small single-trip salad bar.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Salad, Breadsticks and Drink Lunch Special"
+                },
+                {
+                    "description": "1-topping 8\" pizza and small single-trip salad bar.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Pizza, Salad and Drink Lunch Special"
+                }
+            ]
+        },
+        {
+            "category": "Calzones",
+            "items": []
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/davis/17553-steve's-pizza/menu/",
+    "name": "Steve's Pizza",
+    "state": "California",
+    "type": "Pizza, Sandwiches, American",
+    "website": "http://www.stevespizza.com",
+    "zip": "95616"
+}

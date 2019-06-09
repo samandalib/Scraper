@@ -1,0 +1,110 @@
+{
+    "address": "1207 University Blvd",
+    "city": "Tuscaloosa",
+    "currency": "USD",
+    "id": "102766",
+    "menu": [
+        {
+            "category": "Pitas",
+            "items": [
+                {
+                    "description": "Chicken grilled in Caribbean rub with onions, bell peppers, and pineapples, spinach, tomatoes, cheddar, and BBQ.",
+                    "ingredients": [],
+                    "price": 8.75,
+                    "title": "Caribbean Jerk Chicken"
+                },
+                {
+                    "description": "Thick cut bacon, romaine, tomatoes, onions, cheddar, and mayo.",
+                    "ingredients": [],
+                    "price": 8.75,
+                    "title": "Hickory Smoked Bacon"
+                }
+            ]
+        },
+        {
+            "category": "Kid's Pitas",
+            "items": [
+                {
+                    "description": "Served with romaine, cheddar and mayo.",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "Lil Turkey Pita"
+                },
+                {
+                    "description": "Hummus with spinach and feta.",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "Lil Hummus Pita"
+                }
+            ]
+        },
+        {
+            "category": "Extras",
+            "items": [
+                {
+                    "description": "Sliced pita bread with sides of classic and red pepper hummus.",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "Pita and Dip"
+                },
+                {
+                    "description": "Original tart frozen yogurt with granola.",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "Frozen Yogurt"
+                }
+            ]
+        },
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.5,
+                    "title": "Drinks"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.5,
+                    "title": "Dasani Bottled Water"
+                }
+            ]
+        },
+        {
+            "category": "Dessert",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.75,
+                    "title": "Chocolate Chip Cookies (2 pack)"
+                }
+            ]
+        },
+        {
+            "category": "Breakfast Pitas (Served All Day)",
+            "items": [
+                {
+                    "description": "Avocado.  Build your pita with the exact toppings you want on it!",
+                    "ingredients": [],
+                    "price": 7.59,
+                    "title": "Morning Glory Pita"
+                },
+                {
+                    "description": "Build your pita with the exact toppings you want on it!",
+                    "ingredients": [],
+                    "price": 7.59,
+                    "title": "Chicken Classic Pita"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/tuscaloosa/102766-pita-pit/menu/",
+    "name": "Pita Pit",
+    "state": "Alabama",
+    "type": "Soups, American, Pitas, Salads",
+    "website": "http://pitapittuscaloosa.com/",
+    "zip": "35401"
+}

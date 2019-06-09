@@ -1,0 +1,168 @@
+{
+    "address": "358 E H St",
+    "city": "Chula Vista",
+    "currency": "USD",
+    "id": "6207",
+    "menu": [
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Flame Broiled Gyros"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.49,
+                    "title": "Falafel"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers-Fire Feta Zestas",
+            "items": []
+        },
+        {
+            "category": "Appetizers-Avgolemono Soup",
+            "items": []
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "our classic Greek salad topped with marinated chicken breast and daphne's fire feta",
+                    "ingredients": [],
+                    "price": 7.79,
+                    "title": "Spicy Greek Chicken Salad"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Shrimp"
+                }
+            ]
+        },
+        {
+            "category": "Pita Sandwiches",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.29,
+                    "title": "Daphne's Gyros Pita"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.39,
+                    "title": "Greek Veggie Pita"
+                }
+            ]
+        },
+        {
+            "category": "Plates-Daphne's Combo Plate",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.69,
+                    "title": "Spanakopita"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 8.49,
+                    "title": "Steak Ka-bob"
+                }
+            ]
+        },
+        {
+            "category": "Plates.",
+            "items": [
+                {
+                    "description": "oven roasted greek lemon chicken",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Half Chicken Plate"
+                }
+            ]
+        },
+        {
+            "category": "Plates-Vegetarian Plates",
+            "items": [
+                {
+                    "description": "spanakopita&comma; falafel&comma; dolmas and hummus",
+                    "ingredients": [],
+                    "price": 8.29,
+                    "title": "Veggie Combo Plate"
+                },
+                {
+                    "description": "filo dough filled with Spinach and feta&comma; flash fried to perfection",
+                    "ingredients": [],
+                    "price": 8.29,
+                    "title": "Spanakopita Plate"
+                }
+            ]
+        },
+        {
+            "category": "Plates  - Calamari Plate",
+            "items": [
+                {
+                    "description": " a generous portion of lightly seasoned calamari strips    ",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Calamari Plate "
+                }
+            ]
+        },
+        {
+            "category": "Plates",
+            "items": [
+                {
+                    "description": "super plate $2.50",
+                    "ingredients": [],
+                    "price": 7.69,
+                    "title": "Flame Broiled Gyros Plate Super Plate"
+                }
+            ]
+        },
+        {
+            "category": "Dessert",
+            "items": [
+                {
+                    "description": "cinnamon and crushed walnuts in fine filo (pastry) layers topped with honey",
+                    "ingredients": [],
+                    "price": 1.59,
+                    "title": "Daphne's Baklava"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Specials",
+            "items": [
+                {
+                    "description": "your choice of gyros&comma; marinated chicken breast or falafel with greek salad and rice pilaf",
+                    "ingredients": [],
+                    "price": 5.49,
+                    "title": "Daphne's Fire Feta Zesta Lunch"
+                },
+                {
+                    "description": "with greek salad&comma; rice pilaf and warm pita bread (add. 50 for white meat)",
+                    "ingredients": [],
+                    "price": 6.79,
+                    "title": "1/4 Lemon Chicken"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/chula-vista/6207-daphne's---chula-vista/menu/",
+    "name": "Daphne's - Chula Vista",
+    "state": "California",
+    "type": "Greek",
+    "website": "http://www.daphnesgreekcafe.com/",
+    "zip": "91910"
+}

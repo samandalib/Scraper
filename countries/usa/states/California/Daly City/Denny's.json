@@ -1,0 +1,201 @@
+{
+    "address": "2 Serra Monte",
+    "city": "Daly City",
+    "currency": "USD",
+    "id": "8235",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "Our 100% Arabica beans are sustainably harvested.",
+                    "ingredients": [],
+                    "price": 2.59,
+                    "title": "Coffee"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.69,
+                    "title": "Minute Maid\u00ae Strawberry Lemonade"
+                }
+            ]
+        },
+        {
+            "category": "Breakfast",
+            "items": [
+                {
+                    "description": "Buttermilk pancakes, grilled ham, bacon strips, sausage links, eggs, hash browns and bread.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Lumberjack Slam\u00ae"
+                },
+                {
+                    "description": "Three-egg omelette with grilled prime rib, fire-roasted bell peppers and onions, saut?ed mushrooms and Swiss cheese. Served with  hash browns and bread.",
+                    "ingredients": [],
+                    "price": 11.79,
+                    "title": "Philly Cheesesteak Omelette"
+                }
+            ]
+        },
+        {
+            "category": "Breakfast Skillets",
+            "items": [
+                {
+                    "description": "Sausage, fresh spinach, fire-roasted bell peppers and onions, mushrooms, grape tomatoes and seasoned red-skinned potatoes. Topped with Cheddar cheese and eggs.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Supreme Sizzlin' Skillet"
+                },
+                {
+                    "description": "Seasoned red-skinned potatoes, fire-roasted bell peppers and onions, mushrooms and broccoli. Topped with egg whites scrambled with fresh spinach and grape tomatoes. Served with a side of salsa.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Fit Fare\u00ae Veggie Skillet"
+                }
+            ]
+        },
+        {
+            "category": "Breakfast Sides",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.79,
+                    "title": "4 Pieces Bacon Strips"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.19,
+                    "title": "Gluten-Free English Muffin"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "Tortilla chips cooked fresh to order. Topped with Pepper Jack queso, Cheddar cheese, seasoned nacho meat, fresh pico de gallo and sour cream.",
+                    "ingredients": [],
+                    "price": 9.59,
+                    "title": "Zesty Nachos"
+                },
+                {
+                    "description": "Golden fried with a side of dipping sauce.",
+                    "ingredients": [],
+                    "price": 6.79,
+                    "title": "Mozzarella Cheese Sticks"
+                }
+            ]
+        },
+        {
+            "category": "Salads & Sandwiches",
+            "items": [
+                {
+                    "description": "Cucumbers, grape tomatoes, Cheddar cheese and croutons atop a bed of iceberg mix. Served with choice of dressing.",
+                    "ingredients": [],
+                    "price": 6.59,
+                    "title": "New! House Salad"
+                },
+                {
+                    "description": "Juicy prime rib, sauteed mushrooms, fire-roasted bell peppers and onions, shredded Italian cheeses and Pepper Jack queso. Served on a hoagie roll grilled with garlic and herbs.",
+                    "ingredients": [],
+                    "price": 11.49,
+                    "title": "New! Prime Rib Mega Philly Melt"
+                }
+            ]
+        },
+        {
+            "category": "Dinner Skillets",
+            "items": [
+                {
+                    "description": "Grilled seasoned chicken breasts covered with a bourbon glaze, topped with fire-roasted bell peppers & onions and mushrooms, all atop broccoli and seasoned red-skinned potatoes.",
+                    "ingredients": [],
+                    "price": 10.79,
+                    "title": "Bourbon Chicken Sizzlin' Skillet"
+                },
+                {
+                    "description": "Chorizo sausage, fire-roasted bell peppers & onions, mushrooms, jalape?os and seasoned red-skinned potatoes. Topped with grilled seasoned chicken breast, Cheddar cheese, a spicy five pepper sauce and Pepper Jack queso.",
+                    "ingredients": [],
+                    "price": 10.49,
+                    "title": "Crazy Spicy Sizzlin' Skillet"
+                }
+            ]
+        },
+        {
+            "category": "100% Beef Burgers",
+            "items": [
+                {
+                    "description": "Choice of American, Swiss or Cheddar cheese with lettuce, tomato, red onions and pickles on a brioche bun.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Double Cheeseburger"
+                },
+                {
+                    "description": "Bacon, fresh avocado, Cheddar cheese, mayo, lettuce, tomato, red onions and pickles on a brioche bun.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Bacon Avocado Cheeseburger"
+                }
+            ]
+        },
+        {
+            "category": "Steaks & Classics",
+            "items": [
+                {
+                    "description": "A USDA choice cut, 8 oz. seasoned sirloin steak topped with garlic peppercorn butter.",
+                    "ingredients": [],
+                    "price": 12.79,
+                    "title": "New! Garlic Peppercorn Sirloin Steak"
+                },
+                {
+                    "description": "Seasoned meatloaf topped with tomato sauce.",
+                    "ingredients": [],
+                    "price": 11.49,
+                    "title": "New! Homestyle Meatloaf"
+                }
+            ]
+        },
+        {
+            "category": "Dinner Sides",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "Seasoned Fries"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "Garden Salad"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Hand dipped milk shakes are made with premium ice cream and topped with whipped cream.",
+                    "ingredients": [],
+                    "price": 4.79,
+                    "title": "Milk Shakes"
+                },
+                {
+                    "description": "Warm apple pie crisp topped with premium vanilla ice cream and salted caramel, then sprinkled with powdered sugar.",
+                    "ingredients": [],
+                    "price": 3.59,
+                    "title": "Caramel Apple Pie Crisp"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/daly-city/8235-denny's/menu/",
+    "name": "Denny's",
+    "state": "California",
+    "type": "Diner, American",
+    "website": "http://locations.dennys.com/CA/DALY-CITY/200321?utm_source=yext&utm_medium=local-listing&utm_campaign=yext-listing",
+    "zip": "94015"
+}

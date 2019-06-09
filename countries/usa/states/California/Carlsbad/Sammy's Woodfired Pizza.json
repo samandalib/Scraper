@@ -1,0 +1,175 @@
+{
+    "address": "5970 Avenida Encinas",
+    "city": "Carlsbad",
+    "currency": "USD",
+    "id": "5565",
+    "menu": [
+        {
+            "category": "Soups",
+            "items": [
+                {
+                    "description": "Fresh herbs, cream, sherry in a rich stock",
+                    "ingredients": [],
+                    "price": 7.75,
+                    "title": "Lobster Bisque"
+                },
+                {
+                    "description": "Mozzarella, scallions",
+                    "ingredients": [],
+                    "price": 7.5,
+                    "title": "Kobe Beef Chili"
+                }
+            ]
+        },
+        {
+            "category": "Tapas * Tapas",
+            "items": [
+                {
+                    "description": "(6 tacos) Feta, tomato, napa cabbage, tomato-cilantro cream.",
+                    "ingredients": [],
+                    "price": 11.5,
+                    "title": "Mini Duck Tacos"
+                },
+                {
+                    "description": "Served with spicy peanut ginger sauce",
+                    "ingredients": [],
+                    "price": 9.25,
+                    "title": "Thai Chicken Satays"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Golden beets, tomatoes, avocado, red onion, wild arugula, parsley, toasted almonds, mint, scallions, Citrus Chili Vinaigrette.",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "Red Quinoa Salad"
+                },
+                {
+                    "description": "Mixed greens, scallions, bell peppers, tomatoes, feta cheese, cilantro, organic spinach, sunower seeds, Balsamic Vinaigrette.",
+                    "ingredients": [],
+                    "price": 15.0,
+                    "title": "Grilled Shrimp Salad"
+                }
+            ]
+        },
+        {
+            "category": "Tacos * Mini Burgers * Sandwiches",
+            "items": [
+                {
+                    "description": "Caramelized onion, cheddar, sesame roll",
+                    "ingredients": [],
+                    "price": 13.75,
+                    "title": "Wagyu Cheeseburger"
+                },
+                {
+                    "description": "Chipotle aioli  Add gorgonzola or aged cheddar +$1.00",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "Mini Kobe Beef Hamburgers"
+                }
+            ]
+        },
+        {
+            "category": "Pasta",
+            "items": [
+                {
+                    "description": "Beef-tomato sauce, shaved romano",
+                    "ingredients": [],
+                    "price": 17.75,
+                    "title": "Brown Rice Penne Bolongese"
+                },
+                {
+                    "description": "Roasted mushrooms, artichoke, carrots, zucchini, lobster cream sauce.",
+                    "ingredients": [],
+                    "price": 19.75,
+                    "title": "Shrimp Angel Hair"
+                }
+            ]
+        },
+        {
+            "category": "From the Grill & Oven",
+            "items": [
+                {
+                    "description": "On Asian salad, edamame, cucumber & ponzu sauce",
+                    "ingredients": [],
+                    "price": 19.5,
+                    "title": "Oak Roasted Salmon Filet"
+                },
+                {
+                    "description": "Herb roasted ngerling potatoes, asparagus, tomatoes, herb oil.",
+                    "ingredients": [],
+                    "price": 20.0,
+                    "title": "Flat Iron Steak"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Vanilla ice cream, chocolate &caramel sauce, walnuts, whipped cream",
+                    "ingredients": [],
+                    "price": 10.0,
+                    "title": "Messy Sundae"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 8.0,
+                    "title": "Salted Caramel Pudding"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Salads",
+            "items": []
+        },
+        {
+            "category": "Catering - Pastas",
+            "items": []
+        },
+        {
+            "category": "Woodfired Pizzas",
+            "items": [
+                {
+                    "description": "(Individual size, 6 slices) Fresh golden pineapple, Canadian bacon, tomato sauce.",
+                    "ingredients": [],
+                    "price": 13.25,
+                    "title": "Royal Hawaiian Pizza"
+                },
+                {
+                    "description": "(Individual size, 6 slices) Smoked gouda, bbq sauce, red onion, cilantro.",
+                    "ingredients": [],
+                    "price": 13.5,
+                    "title": "LaDous Barbecue Chicken Pizza"
+                }
+            ]
+        },
+        {
+            "category": "Artisan Thin Crust Pizza",
+            "items": [
+                {
+                    "description": "(Individual size, 6 slices) Sauted mushrooms",
+                    "ingredients": [],
+                    "price": 13.25,
+                    "title": "Brie Cheese & Truffle Oil Thin Crust Pizza"
+                },
+                {
+                    "description": "(Individual size, 6 slices) Smoked bacon",
+                    "ingredients": [],
+                    "price": 13.25,
+                    "title": "Bacon,Raclette,Fingerling Potato Thin Crust Pizza"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/carlsbad/5565-sammy's-woodfired-pizza/menu/",
+    "name": "Sammy's Woodfired Pizza",
+    "state": "California",
+    "type": "Pizza, American",
+    "website": "http://www.sammyspizza.com",
+    "zip": "92008"
+}

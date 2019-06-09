@@ -1,0 +1,246 @@
+{
+    "address": "110 W Main St",
+    "city": "Alhambra",
+    "currency": "USD",
+    "id": "313360",
+    "menu": [
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "Deep-fried crisped turnovers stuffed with spiced potatoes and peas.",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "2 Piece Vegetable Samosas"
+                },
+                {
+                    "description": "A traditional festive food consisting of deep fried marinated onions.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "6 Onion Bhaji"
+                }
+            ]
+        },
+        {
+            "category": "Savory Appetizers",
+            "items": [
+                {
+                    "description": "A North Indian snack consisting of spiced potato patties and served with chickpeas curry.",
+                    "ingredients": [],
+                    "price": 7.49,
+                    "title": "Aloo Tikki Chaat"
+                },
+                {
+                    "description": "Boiled chickpeas, potatoes, tomatoes, onions and cilantro tossed with lime and spices for a refreshing snack.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Chana Chaat"
+                }
+            ]
+        },
+        {
+            "category": "Salads and Soups",
+            "items": [
+                {
+                    "description": "A blend of cucumbers, tomatoes, cilantro and lemon.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Cucumber Salad"
+                },
+                {
+                    "description": "Delicately spiced lentil soup with chicken and herbs.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Chicken Lentil Soup"
+                }
+            ]
+        },
+        {
+            "category": "Tandoori Sizzlers",
+            "items": [
+                {
+                    "description": "An arrangement of chicken tikka, tandoori chicken and lamb sheekh kabab cooked in tandoor. Served on hot plate of onions with mint and tamarind chutneys.",
+                    "ingredients": [],
+                    "price": 18.99,
+                    "title": "Mahan Mixed Grill"
+                }
+            ]
+        },
+        {
+            "category": "Vegetarian Delicacies",
+            "items": [
+                {
+                    "description": "Soft, cubed Indian cottage cheese and peas mildly spiced gravy.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Matar Paneer"
+                },
+                {
+                    "description": "Assorted vegetables cooked with cheese in a mild cream sauce and sprinkled with nuts.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Vegetable Korma"
+                }
+            ]
+        },
+        {
+            "category": "Chicken Curry Specialties",
+            "items": [
+                {
+                    "description": "Classic chicken curry.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Chicken Curry"
+                },
+                {
+                    "description": "Boneless chicken cooked in a mild creamy sauce with almonds and cashews.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "Chicken Korma"
+                }
+            ]
+        },
+        {
+            "category": "Lamb Curry Specialties",
+            "items": [
+                {
+                    "description": "The classic lamb curry.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Lamb (Rogan Josh) Curry"
+                },
+                {
+                    "description": "Lamb cooked in cream sauce, delicately seasoned with spices, ginger, garlic and sprinkled with nuts.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Lamb Shahi Korma"
+                }
+            ]
+        },
+        {
+            "category": "Seafood Curry Specialties",
+            "items": [
+                {
+                    "description": "Shrimp marinated and cooked with tomato yogurt sauce.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Shrimp Tikka Masala"
+                },
+                {
+                    "description": "Shrimp or fish and potatoes cooked in tangy spicy sauce.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Vindaloo"
+                }
+            ]
+        },
+        {
+            "category": "Basmati Rice Platters",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Plain Basmati Rice"
+                },
+                {
+                    "description": "Basmati rice with assorted vegetables, nuts, herbs and spices.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Vegetable Biryani"
+                }
+            ]
+        },
+        {
+            "category": "Breads",
+            "items": [
+                {
+                    "description": "Leavened bread of refined flour cooked in tandoor.",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "Plain Naan"
+                },
+                {
+                    "description": "Paratha stuffed with spiced and mashed potatoes.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Aloo Paratha"
+                }
+            ]
+        },
+        {
+            "category": "Dinner Specials",
+            "items": [
+                {
+                    "description": "Chana masala, palak paneer, bhartha, basmati rice, one plain naan and raita.",
+                    "ingredients": [],
+                    "price": 17.99,
+                    "title": "Vegetarian Dinner (Thali)"
+                },
+                {
+                    "description": "Chicken curry or chicken masala, two pieces tandoori chicken, palak paneer, chana masala, basmati rice, one plain naan and raita.",
+                    "ingredients": [],
+                    "price": 19.99,
+                    "title": "Non-Vegetarian Dinner (Thali)"
+                }
+            ]
+        },
+        {
+            "category": "On the Side",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "Mango Chutney"
+                },
+                {
+                    "description": "Indian style yogurt blended with onions and cucumbers papadum.  Two pieces.",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Raita"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Box",
+            "items": [
+                {
+                    "description": "A complete Vegan lunch including Dal Tadka, Chana Masala, Vegetable of the Day, Vegetable Pakora, Brown Rice, Roti and Mango Coconut Creme.",
+                    "ingredients": [],
+                    "price": 12.0,
+                    "title": "Vegan Lunch Box"
+                },
+                {
+                    "description": "A complete Vegetarian platter with Vegetable of the day, Palak, Lentils, Vegetable Pakora, Naan Bread, Rice, Kheer (Rice Pudding).",
+                    "ingredients": [],
+                    "price": 12.0,
+                    "title": "Vegetarian Lunch Box"
+                }
+            ]
+        },
+        {
+            "category": "Desserts and Sweets",
+            "items": [
+                {
+                    "description": "Juicy balls of milk, deep fried and soaked in sweet syrup.",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "2 Piece Gulab Jamun"
+                },
+                {
+                    "description": "Pistachio Indian style ice cream.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Pistachio Kulfi"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/alhambra/313360-mahan-indian-restaurant/menu/",
+    "name": "Mahan Indian Restaurant",
+    "state": "California",
+    "type": "Indian",
+    "website": "http://www.mahanrestaurant.com/6543/index.html",
+    "zip": "91801"
+}

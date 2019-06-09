@@ -1,0 +1,103 @@
+{
+    "address": "2105 Richard Arrington Jr Blvd N",
+    "city": "Birmingham",
+    "currency": "USD",
+    "id": "55604",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.89,
+                    "title": "Bottled Water"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.59,
+                    "title": "12 oz. Hot Chocolate"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": []
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Go ahead, spice up your life. The Spicy Italian features spicy pepperoni and sensational salami. Try one today with everything else your taste buds desire.",
+                    "ingredients": [],
+                    "price": 5.54,
+                    "title": "Spicy Italian Chopped Salad"
+                },
+                {
+                    "description": "Crispy, crunchy and classically delicious. Try a delicious combination of lettuce, tomatoes, green peppers, black olives, spinach and onions with your choice of dressings.",
+                    "ingredients": [],
+                    "price": 5.44,
+                    "title": "Veggie Delite\u00ae Chopped Salad"
+                }
+            ]
+        },
+        {
+            "category": "Sides",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.19,
+                    "title": "Chips"
+                },
+                {
+                    "description": "Please call restaurant for daily selection.",
+                    "ingredients": [],
+                    "price": 2.49,
+                    "title": "8 oz. Soup"
+                }
+            ]
+        },
+        {
+            "category": "Kids Meal",
+            "items": [
+                {
+                    "description": "Every kid likes to ham it up once in a while. That's why they'll love the taste of our Black Forest ham and their favorite veggies on freshly baked bread. Fresh apple slices and an ice cold bottle of low fat milk make this better for you meal a star.",
+                    "ingredients": [],
+                    "price": 4.79,
+                    "title": "Kid's Black Forest Ham"
+                },
+                {
+                    "description": "Kids love the taste of tender turkey breast, freshly baked bread and their favorite veggies. Pair it with fresh apple slices and an icecold bottle of low fat milk and you've got a better for you meal that's a big hit with parents and kids alike",
+                    "ingredients": [],
+                    "price": 4.79,
+                    "title": "Kid's Turkey"
+                }
+            ]
+        },
+        {
+            "category": "Dessert",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 0.69,
+                    "title": "1 Cookie"
+                },
+                {
+                    "description": "Choose the types of cookies you would like. If you want multiples of a certain type, please specify the quantity of each in the Special Instructions.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "12 Cookies"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/birmingham/55604-subway/menu/",
+    "name": "Subway",
+    "state": "Alabama",
+    "type": "Sandwiches",
+    "website": "http://www.subway.com",
+    "zip": "35203"
+}

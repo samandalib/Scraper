@@ -1,0 +1,223 @@
+{
+    "address": "4935 University Dr NW",
+    "city": "Huntsville",
+    "currency": "USD",
+    "id": "75204",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.59,
+                    "title": "2-Liter Soda"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.49,
+                    "title": "24 oz. Sport Bottled Water"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "Tender, panko-coated chicken breast strips tossed in a Jack Daniel's glaze, then topped with toasted sesame seeds.",
+                    "ingredients": [],
+                    "price": 12.59,
+                    "title": "Sesame Jack Chicken Strips"
+                },
+                {
+                    "description": "Pick one boneless or traditional wings served with your choice of sauce. Pick any two sides.",
+                    "ingredients": [],
+                    "price": 15.39,
+                    "title": "Fridays Pick Three-For-All"
+                }
+            ]
+        },
+        {
+            "category": "Soups and Salads",
+            "items": [
+                {
+                    "description": "Warm, crispy pecan-crusted chicken breast served over chopped romaine and mixed greens tossed in balsamic vinaigrette with dried cranberries, Mandarin oranges, sweetened pecans, celery and bleu cheese.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Pecan-Crusted Chicken Salad"
+                },
+                {
+                    "description": "Bleu cheese dressing, Applewood-smoked bacon, tomato and crumbled bleu cheese atop a crisp iceberg wedge.",
+                    "ingredients": [],
+                    "price": 5.89,
+                    "title": "Classic Wedge Salad"
+                }
+            ]
+        },
+        {
+            "category": "Taste and Share Menu",
+            "items": [
+                {
+                    "description": "Three soft corn tortillas with Thai marinated pulled pork, Sriracha aioli, ginger-lime slaw and hoisin sauce.",
+                    "ingredients": [],
+                    "price": 7.79,
+                    "title": "Thai Pork Tacos"
+                },
+                {
+                    "description": "Two deli sliders on a pretzel roll with caramelized onions, Dijon mustard and mayonnaise.",
+                    "ingredients": [],
+                    "price": 9.09,
+                    "title": "Corned Beef and Swiss Sliders"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "Grilled chicken breast basted in Jack Daniel's glaze and topped with Applewood-smoked bacon, mixed cheese, Cajun-spiced fried onion strings, lettuce, vine-ripened tomato, pickles and Jack Daniel's mayo. Served on a freshly baked bun. Includes a choice of side.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Jack Daniel's Chicken Sandwich"
+                },
+                {
+                    "description": "Corned beef brisket and melted Swiss with caramelized onions, sauerkraut, Thousand Island dressing and horseradish spread sandwiched between three slices of toasted light rye. Includes a choice of side.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Triple Stack Reuben"
+                }
+            ]
+        },
+        {
+            "category": "Handcrafted Burgers",
+            "items": [
+                {
+                    "description": "Melted sharp cheddar cheese, onion bacon jam and Asiago and Parmesan spread between two fresh burgers with Thousand Island dressing and peppered bacon. Served with crisp iceberg lettuce, vine ripened tomato, pickles and onion. Includes seasoned fries.",
+                    "ingredients": [],
+                    "price": 14.59,
+                    "title": "All-American Stacked Burger"
+                },
+                {
+                    "description": "A seasoned ground turkey patty topped with classic garnishes. Served with crisp iceberg lettuce, vine ripened tomato, pickles and onion. Includes seasoned fries.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Turkey Burger"
+                }
+            ]
+        },
+        {
+            "category": "Seafood and Sizzling Dishes",
+            "items": [
+                {
+                    "description": "Norwegian salmon fillet fire-grilled and topped with a saute of langostino lobster and cremini mushrooms in a zesty roasted Alfredo sauce. Served with your choice of two sides.",
+                    "ingredients": [],
+                    "price": 23.79,
+                    "title": "Grilled Salmon with Langostino Lobster"
+                },
+                {
+                    "description": "Sauteed garlic-marinated chicken and shrimp tossed in a bruschetta marinara. Served over melted cheese with onions, peppers and creamy mashed potatoes.",
+                    "ingredients": [],
+                    "price": 17.59,
+                    "title": "Sizzling Chicken and Shrimp"
+                }
+            ]
+        },
+        {
+            "category": "Chicken and Pasta Dishes",
+            "items": [
+                {
+                    "description": "Tender chicken and shrimp sauteed with red bell peppers, then tossed with al dente fettuccine ribbons in a spicy Cajun Alfredo sauce. Finished with Parmesan shavings.",
+                    "ingredients": [],
+                    "price": 15.89,
+                    "title": "Cajun Shrimp and Chicken Pasta"
+                },
+                {
+                    "description": "Crispy and golden brown on the outside, tender and juicy inside. Served with honey mustard dressing and seasoned fries.",
+                    "ingredients": [],
+                    "price": 13.59,
+                    "title": "Crispy Chicken Fingers"
+                }
+            ]
+        },
+        {
+            "category": "Jack's Daniel's Grill",
+            "items": [
+                {
+                    "description": "Norwegian salmon fillet fire-grilled to order and glazed with Jack Daniel's sauce, then paired with jumbo butterflied shrimp, charbroiled shell-on with a garlic-tomato scampi sauce. Marinated in whiskey brine, with citrus, soy and ginger, fire-grilled and basted in our signature glaze with notes of toasted garlic, cayenne, Tabasco sauce and Jack Daniel's whiskey with jalapeno cornbread and your choice of two sides.",
+                    "ingredients": [],
+                    "price": 22.49,
+                    "title": "Jack Daniel's Salmon and Grilled Shrimp Scampi"
+                },
+                {
+                    "description": "Full rack of slow-cooked, fall-off-the-bone tender baby back pork ribs basted in Jack Daniel's sauce, paired with Cajun-spiced shrimp. Served with seasoned fries and ginger-lime slaw. Marinated in whiskey brine, with citrus, soy and ginger, fire-grilled and basted in our signature glaze with notes of toasted garlic, cayenne, Tabasco sauce and Jack Daniel's whiskey with jalapeno cornbread and your choice of two sides.",
+                    "ingredients": [],
+                    "price": 26.69,
+                    "title": "Jack Daniel's Ribs and Shrimp"
+                }
+            ]
+        },
+        {
+            "category": "Ribs",
+            "items": [
+                {
+                    "description": "Full rack of slow-cooked, fall-off-the-bone tender baby back pork ribs fire-grilled and basted with Jack Daniel's sauce. Served with seasoned fries and ginger-lime slaw.",
+                    "ingredients": [],
+                    "price": 24.99,
+                    "title": "Jack Daniel's Ribs"
+                }
+            ]
+        },
+        {
+            "category": "Premium Black Angus Steaks",
+            "items": [
+                {
+                    "description": "10 oz. black Angus whiskey-brined rib-eye fire-grilled to order, then topped with maison butter. Served with your choice of two sides. 100% USDA black Angus choice beef, hand cut, aged for full flavor, perfectly seasoned and fire-grilled.",
+                    "ingredients": [],
+                    "price": 31.09,
+                    "title": "Rib Eye with 1/2 Rack of Ribs"
+                }
+            ]
+        },
+        {
+            "category": "Friday's Lunch",
+            "items": [
+                {
+                    "description": "Grilled chicken breast basted in Jack Daniel's glaze and topped with Applewood-smoked bacon, mixed cheese, Cajun-spiced fried onion strings, lettuce, vine-ripened tomato, pickles and Jack Daniel's mayo. Served on a freshly baked bun.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Lunch Jack Daniel's Chicken Sandwich"
+                },
+                {
+                    "description": "Warm, crispy pecan-crusted chicken breast served over chopped romaine and mixed greens tossed in balsamic vinaigrette with dried cranberries, mandarin oranges, sweetened pecans, celery and bleu cheese.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Lunch Regular Pecan-Crusted Chicken Salad"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "A warm toffee cake topped with glazed pecans and vanilla ice cream. Served with butterscotch Jack Daniel's whiskey sauce.",
+                    "ingredients": [],
+                    "price": 9.39,
+                    "title": "Tennessee Whiskey Cake"
+                },
+                {
+                    "description": "Vanilla cake layered with vanilla bean pudding and caramel crunch, then drizzled with a salted caramel glaze. Served with vanilla ice cream.",
+                    "ingredients": [],
+                    "price": 7.59,
+                    "title": "Salted Caramel Cake"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/al/huntsville/75204-t.g.i.-friday's/menu/",
+    "name": "T.G.I. Friday's",
+    "state": "Alabama",
+    "type": "American",
+    "website": "http://www.tgifridays.com",
+    "zip": "35816"
+}

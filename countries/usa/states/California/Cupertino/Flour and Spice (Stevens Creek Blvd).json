@@ -1,0 +1,171 @@
+{
+    "address": "21678 Stevens Creek Blvd",
+    "city": "Cupertino",
+    "currency": "USD",
+    "id": "52785",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.09,
+                    "title": "Fountain Drink"
+                },
+                {
+                    "description": "Please contact restaurant for selection.",
+                    "ingredients": [],
+                    "price": 2.5,
+                    "title": "Bottled Juices"
+                }
+            ]
+        },
+        {
+            "category": "Small Plates",
+            "items": [
+                {
+                    "description": "Spiced potatoes in a crispy shell. Served with mint chutney. Vegetarian.",
+                    "ingredients": [],
+                    "price": 4.29,
+                    "title": "Samosas"
+                },
+                {
+                    "description": "Crispy, straight-cut french fries. Vegetarian.",
+                    "ingredients": [],
+                    "price": 4.29,
+                    "title": "French Fries"
+                }
+            ]
+        },
+        {
+            "category": "Wraps and Curries",
+            "items": [
+                {
+                    "description": "Tandoori chicken, grilled onions, bell peppers, jalapeno and fresh cilantro and mint chutney in a hand-rolled, tava-cooked wrap.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Spicy Chicken Wrap"
+                },
+                {
+                    "description": "Indian farmer's cheese cubes cooked in our own tikka sauce. Served with naan.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Paneer Tikka Curry"
+                }
+            ]
+        },
+        {
+            "category": "Curry Combo Plates",
+            "items": [
+                {
+                    "description": "Seasonal vegetables cooked in curry spices. Chef's choice. Vegetarian. Served with rice, naan, salad, daal and yogurt.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Mixed Vegetable Curry Combo Plate"
+                },
+                {
+                    "description": "Juicy tandoori chicken cooked in a silky mild tikka sauce. Served with rice, naan, salad, daal and yogurt.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Chicken Tikka Masala Combo Plate"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "Meatballs, marinara sauce and mozzarella cheese. Served with your choice of french fries or house salad.",
+                    "ingredients": [],
+                    "price": 8.49,
+                    "title": "Meatball Sandwich"
+                },
+                {
+                    "description": "Grilled chicken breast, crisp lettuce, tomatoes, mozzarella cheese and light mayonnaise. Served with your choice of french fries or house salad.",
+                    "ingredients": [],
+                    "price": 8.49,
+                    "title": "Grilled Chicken Classic Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Panini",
+            "items": [
+                {
+                    "description": "Grilled chicken, artichoke hearts, pesto and mozzarella cheese. Served with your choice of french fries or house salad.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Chicken Artichoke Panini"
+                },
+                {
+                    "description": "Mushrooms, artichoke hearts, olives, spinach and jalapenos with mozzarella cheese and pesto spread. Vegetarian. Served with your choice of french fries or house salad.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Spicy Vegetarian Panini"
+                }
+            ]
+        },
+        {
+            "category": "Pizza",
+            "items": []
+        },
+        {
+            "category": "Calzones and Stromboli",
+            "items": [
+                {
+                    "description": "Folded pizza dough filled with mozzarella cheese, pepperoni, Italian sausage, mushrooms, bell peppers and olives. Baked and served pizza sauce on the side.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Combo Calzone"
+                },
+                {
+                    "description": "Folded pizza dough filled with mozzarella cheese, juicy tandoori chicken, grilled onions, bell peppers and jalapenos. Baked and served pizza sauce on the side.",
+                    "ingredients": [],
+                    "price": 10.49,
+                    "title": "Tandoori Chicken Calzone"
+                }
+            ]
+        },
+        {
+            "category": "Pasta",
+            "items": [
+                {
+                    "description": "Meatballs mixed into our house-made marinara sauce. Served with garlic bread.",
+                    "ingredients": [],
+                    "price": 10.99,
+                    "title": "Spaghetti with Meatballs"
+                },
+                {
+                    "description": "Grilled chicken, spinach and fresh tomatoes in a light, creamy pesto sauce. Served with garlic bread.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Chicken Pesto Fettuccine"
+                }
+            ]
+        },
+        {
+            "category": "Dessert",
+            "items": [
+                {
+                    "description": "Slice.",
+                    "ingredients": [],
+                    "price": 4.5,
+                    "title": "Tiramisu"
+                },
+                {
+                    "description": "Slice.",
+                    "ingredients": [],
+                    "price": 4.5,
+                    "title": "Cheesecake"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/cupertino/52785-flour-and-spice-(stevens-creek-blvd)/menu/",
+    "name": "Flour and Spice (Stevens Creek Blvd)",
+    "state": "California",
+    "type": "Italian",
+    "website": "http://www.mygumbas.com",
+    "zip": "95014"
+}

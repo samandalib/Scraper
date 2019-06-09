@@ -1,0 +1,206 @@
+{
+    "address": "7971 Beach Blvd",
+    "city": "Buena Park",
+    "currency": "USD",
+    "id": "38999",
+    "menu": [
+        {
+            "category": "Appetizers",
+            "items": []
+        },
+        {
+            "category": "Homemade Soup & Fresh Salads",
+            "items": [
+                {
+                    "description": "Grilled chicken, corn, jicama, black beans, carrots, tomato, green onions, cilantro, crisp tortilla strips, homemade ranch dressing and sweet BBQ sauce.",
+                    "ingredients": [],
+                    "price": 16.79,
+                    "title": "BBQ Chicken Salad"
+                }
+            ]
+        },
+        {
+            "category": "Burgers & Sandwiches",
+            "items": [
+                {
+                    "description": "Slow roasted tri-tip caramelized onions, roasted pasilla peppers, smoked Gouda and choice of au jus or sweet BBQ sauce. Served with choice of side.",
+                    "ingredients": [],
+                    "price": 16.27,
+                    "title": "Original Tri-Tip Dip"
+                },
+                {
+                    "description": "Boneless pork ribs, bacon, BBQ sauce, Sriracha sauce, chipotle aioli, smoked Gouda cheese, fire stick onions, lettuce, tomato and pickles. Served with choice of side.",
+                    "ingredients": [],
+                    "price": 16.79,
+                    "title": "Wagon Master Burger"
+                }
+            ]
+        },
+        {
+            "category": "Hearth Baked Pizzas & Calzones",
+            "items": []
+        },
+        {
+            "category": "Classics",
+            "items": [
+                {
+                    "description": "Parmesan-crusted shrimp, tomatoes, spinach and light lemon butter sauce. Served with choice of salad or cup of soup.",
+                    "ingredients": [],
+                    "price": 20.99,
+                    "title": "Shrimp Fresca Pasta"
+                },
+                {
+                    "description": "Certified Angus beef, homemade country gravy and mashed potatoes. Served with choice of salad or cup of soup.",
+                    "ingredients": [],
+                    "price": 18.89,
+                    "title": "Country Fried Steak"
+                }
+            ]
+        },
+        {
+            "category": "Steak & Signature Entrees",
+            "items": [
+                {
+                    "description": "Sweet & spicy sauce, sriracha honey. Served with choice of small salad or cup of soup and choice of 2 sides. Gluten Sensitive.",
+                    "ingredients": [],
+                    "price": 20.99,
+                    "title": "Coconut Shrimp"
+                }
+            ]
+        },
+        {
+            "category": "Combos",
+            "items": [
+                {
+                    "description": "Pick 2: Rotisserie Chicken, Grilled Chicken, BBQ Baby Back Pork Ribs, Roasted Tri-Tip, Andouille sausage, Grilled Shrimp, or Coconut Shrimp. Served with choice of salad or cup of soup and choice of 1 side.",
+                    "ingredients": [],
+                    "price": 28.34,
+                    "title": "Miners Combo"
+                }
+            ]
+        },
+        {
+            "category": "Sides",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.29,
+                    "title": "Side Stuffed Baked Potato"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.34,
+                    "title": "Side Grilled Herb Asparagus"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Menu",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.44,
+                    "title": "Small Green Salad and Cup of Soup Lunch Combo"
+                },
+                {
+                    "description": "Garden fresh greens, grilled chicken, crunchy noodles, almonds, sesame seeds, green onions, carrots and cilantro. Served with sweet & spicy sesame dressing.",
+                    "ingredients": [],
+                    "price": 14.69,
+                    "title": "Lunch Asian Chicken Salad"
+                }
+            ]
+        },
+        {
+            "category": "Homemade Desserts",
+            "items": [
+                {
+                    "description": "6 decadent layers of chocolate cake and rich chocolate fudge icing, topped with walnuts. Featured on the Food network as one of America?s ?Top 5 Most Decadent Desserts?.",
+                    "ingredients": [],
+                    "price": 13.11,
+                    "title": "Chocolate Motherlode Cake"
+                },
+                {
+                    "description": "Double chocolate brownie, fudge frosting, and vanilla ice cream.",
+                    "ingredients": [],
+                    "price": 8.39,
+                    "title": "Brownie Finale"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Popular Items",
+            "items": []
+        },
+        {
+            "category": "Catering - Breakfast Platters",
+            "items": []
+        },
+        {
+            "category": "Catering - Appetizer Platters",
+            "items": []
+        },
+        {
+            "category": "Catering - Soup",
+            "items": []
+        },
+        {
+            "category": "Catering - Salad Platters",
+            "items": []
+        },
+        {
+            "category": "Catering - Sandwich Platters",
+            "items": [
+                {
+                    "description": "Select any 3 sandwiches to create your own combination.",
+                    "ingredients": [],
+                    "price": 38.5,
+                    "title": "Cater. Create Your Own Sandwich Platter (Serves 4-6)"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Platter Favorites",
+            "items": []
+        },
+        {
+            "category": "Catering - Pasta Platters",
+            "items": []
+        },
+        {
+            "category": "Catering - Family Style Platters",
+            "items": []
+        },
+        {
+            "category": "Catering - Party Favorites",
+            "items": []
+        },
+        {
+            "category": "Catering - Sides A La Carte",
+            "items": []
+        },
+        {
+            "category": "Catering - Dessert Platters",
+            "items": []
+        },
+        {
+            "category": "Catering - Whole Cakes and Pies",
+            "items": [
+                {
+                    "description": "3 layers of subtly spiced carrot cake, generously covered with cream cheese frosting. Serves 25.",
+                    "ingredients": [],
+                    "price": 44.0,
+                    "title": "Cater. Whole Original Scratch Carrot Cake"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/buena-park/38999-claim-jumper-restaurant/menu/",
+    "name": "Claim Jumper Restaurant",
+    "state": "California",
+    "type": "American",
+    "website": "http://www.claimjumper.com",
+    "zip": "90620"
+}

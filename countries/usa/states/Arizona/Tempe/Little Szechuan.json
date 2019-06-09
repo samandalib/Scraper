@@ -1,0 +1,333 @@
+{
+    "address": "524 W University Dr",
+    "city": "Tempe",
+    "currency": "USD",
+    "id": "4879",
+    "menu": [
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "One roll.",
+                    "ingredients": [],
+                    "price": 1.5,
+                    "title": "Chicken Egg Roll"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.5,
+                    "title": "Spicy Chicken Wings"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Crispy lettuce, onions, carrots, sugar snap peas, and bean sprouts tossed in our secret sesame dressing. Vegan.",
+                    "ingredients": [],
+                    "price": 9.0,
+                    "title": "Ted's Salad"
+                },
+                {
+                    "description": "Shredded cabbage and onion topped with our homemade spicy ginger garlic dressing. Spicy. Vegan.",
+                    "ingredients": [],
+                    "price": 8.5,
+                    "title": "Grandma's Special Salad"
+                }
+            ]
+        },
+        {
+            "category": "Soups",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Sizzling Rice Soup"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.0,
+                    "title": "Small Bowl of Wonton Soup"
+                }
+            ]
+        },
+        {
+            "category": "Sharing Dishes",
+            "items": []
+        },
+        {
+            "category": "Signature Dishes",
+            "items": []
+        },
+        {
+            "category": "Cross-Over Dishes",
+            "items": [
+                {
+                    "description": "Served with a side of rice.",
+                    "ingredients": [],
+                    "price": 9.0,
+                    "title": "Cashew Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Traditional Dishes",
+            "items": [
+                {
+                    "description": "Served with a side of rice.",
+                    "ingredients": [],
+                    "price": 11.25,
+                    "title": "Shrimp with Lobster Sauce"
+                },
+                {
+                    "description": "Served with a side of rice. Veggie and vegan.",
+                    "ingredients": [],
+                    "price": 9.5,
+                    "title": "Tofu Eggplant and Assorted Nuts"
+                }
+            ]
+        },
+        {
+            "category": "Dinner Combinations",
+            "items": [
+                {
+                    "description": "Served with choice of rice, vegetable chow mein, crab puffs, egg roll, and a fortune cookie.",
+                    "ingredients": [],
+                    "price": 10.95,
+                    "title": "D1. Sweet and Sour Pork Dinner"
+                },
+                {
+                    "description": "Served with choice of rice, vegetable chow mein, crab puffs, egg roll, and a fortune cookie.",
+                    "ingredients": [],
+                    "price": 12.25,
+                    "title": "D13. Pepper Steak Dinner"
+                }
+            ]
+        },
+        {
+            "category": "Family Dinners",
+            "items": [
+                {
+                    "description": "Wonton soup, egg rolls, Peking beef, sweet and sour pork, and brown fried rice.",
+                    "ingredients": [],
+                    "price": 24.0,
+                    "title": "Peking Dinner for 2"
+                },
+                {
+                    "description": "Sizzling rice soup, honey dipped chicken, Mongolian beef, sweet and sour shrimp, brown fried rice, almond chicken, moo shu pork, and house special chicken.",
+                    "ingredients": [],
+                    "price": 65.0,
+                    "title": "Mandarin Dinner for 5"
+                }
+            ]
+        },
+        {
+            "category": "Extras",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.0,
+                    "title": "Peanuts"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.25,
+                    "title": "3 Piece Shrimp"
+                }
+            ]
+        },
+        {
+            "category": "Kid's Menu",
+            "items": [
+                {
+                    "description": "White meat poppers, 2 fried wontons, and brown fried rice.",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "Children's Meal #1"
+                },
+                {
+                    "description": "Egg roll, 2 fried wontons, and brown fried rice.",
+                    "ingredients": [],
+                    "price": 5.0,
+                    "title": "Children's Meal #2"
+                }
+            ]
+        },
+        {
+            "category": "Luncheon Specials",
+            "items": [
+                {
+                    "description": "Served with choice of rice, fried wontons, and a fortune cookie.",
+                    "ingredients": [],
+                    "price": 7.25,
+                    "title": "L1. Sweet and Sour Pork Lunch"
+                },
+                {
+                    "description": "Served with choice of rice, fried wontons, and a fortune cookie.",
+                    "ingredients": [],
+                    "price": 8.25,
+                    "title": "L13. Pepper Steak Lunch"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Please call restaurant for flavors.",
+                    "ingredients": [],
+                    "price": 2.5,
+                    "title": "Mochi"
+                }
+            ]
+        },
+        {
+            "category": "Shrimp",
+            "items": [
+                {
+                    "description": "Hot and spicy shrimp sauteed with red chili peppers, peanuts and spicy sauce.",
+                    "ingredients": [],
+                    "price": 11.25,
+                    "title": "Kung Pao Shrimp"
+                },
+                {
+                    "description": "Shrimp sauteed with roasted cashews, water chestnuts, peas and carrots in a delicate white sauce.",
+                    "ingredients": [],
+                    "price": 10.25,
+                    "title": "Cashew Nut Shrimp"
+                }
+            ]
+        },
+        {
+            "category": "Beef",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 10.25,
+                    "title": "Crispy Orange Beef"
+                },
+                {
+                    "description": "Beef cooked with eggs and onions in a special sauce, skillfully rolled in four wafer thin Chinese crepes.",
+                    "ingredients": [],
+                    "price": 9.5,
+                    "title": "Moo Shu Beef"
+                }
+            ]
+        },
+        {
+            "category": "Chicken",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 8.25,
+                    "title": "General So Chicken"
+                },
+                {
+                    "description": "Tender white meat chicken diced with snow peas, baby corn, water chestnuts and Chinese cabbage sauteed in a delicate wine sauce.",
+                    "ingredients": [],
+                    "price": 8.25,
+                    "title": "Wine Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Pork",
+            "items": [
+                {
+                    "description": "Shredded pork cooked with eggs and onions in a special sauce, skillfully tolled in four thin Chinese crepes.",
+                    "ingredients": [],
+                    "price": 8.25,
+                    "title": "Moo Shu Pork"
+                },
+                {
+                    "description": "Deep fried pork blended with out own sweet and sour sauce.",
+                    "ingredients": [],
+                    "price": 7.95,
+                    "title": "Sweet and Sour Pork"
+                }
+            ]
+        },
+        {
+            "category": "Vegetarian Delights",
+            "items": [
+                {
+                    "description": "Garlic seasonal vegetables.",
+                    "ingredients": [],
+                    "price": 7.95,
+                    "title": "Buddha Delight"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.25,
+                    "title": "Assorted Vegetables with Fried Tofu"
+                }
+            ]
+        },
+        {
+            "category": "Tofu",
+            "items": [
+                {
+                    "description": "Hot and spicy.",
+                    "ingredients": [],
+                    "price": 6.25,
+                    "title": "Sriracha Tofu"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 7.95,
+                    "title": "Curry Tofu"
+                }
+            ]
+        },
+        {
+            "category": "Chow Mein",
+            "items": [
+                {
+                    "description": "Combination of pork, shrimp and chicken with pan fried soft noodles.",
+                    "ingredients": [],
+                    "price": 9.0,
+                    "title": "Little Szechuan Chow Mein"
+                },
+                {
+                    "description": "Pan fried rice noodles.",
+                    "ingredients": [],
+                    "price": 9.0,
+                    "title": "Shrimp Chow Mein"
+                }
+            ]
+        },
+        {
+            "category": "Brown Fried Rice",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 9.0,
+                    "title": "Little Szechuan Brown Fried Rice"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 8.5,
+                    "title": "Beef Brown Fried Rice"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/az/tempe/4879-little-szechuan/menu/",
+    "name": "Little Szechuan",
+    "state": "Arizona",
+    "type": "Chinese, Soups, Vegetarian, Asian, Healthy, Lunch Specials",
+    "website": "http://littleszechuanaz.com",
+    "zip": "85281"
+}

@@ -1,0 +1,161 @@
+{
+    "address": "1904 E Camelback Rd",
+    "city": "Phoenix",
+    "currency": "USD",
+    "id": "4255",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Soda"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.99,
+                    "title": "Blackberry Jasmine Green Tea"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "Please contact restaurant for weekly selection.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Soup of the Week"
+                },
+                {
+                    "description": "Served with our homemade marinara sauce.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Cracked Black Pepper Calamari"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Ahi tuna seared rare, served on a bed of soba noodles and greens with cucumbers, tomatoes, bell peppers and carrots. Tossed in soy balsamic vinaigrette and drizzled with sweet soy.",
+                    "ingredients": [],
+                    "price": 13.99,
+                    "title": "Seared Tuna Salad"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "Cheddar and mozzarella cheeses on sourdough bread with your choice of rustic tomato soup or the soup of the day. Vegetarian.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Grilled Cheese Sandwich and Cup of Soup"
+                },
+                {
+                    "description": "A breaded deep fried chicken breast tossed in buffalo sauce and topped with cheddar cheese on a brioche bun. Served with choice of side.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Buffalo Chicken Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Entrees",
+            "items": [
+                {
+                    "description": "Three corn tortillas topped with breaded and fried or blackened basa, cabbage and pico de gallo. Served with refried beans, wild rice and lime aioli.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Del Mar Tacos"
+                },
+                {
+                    "description": "A 10 oz. beef flank steak with our house made Armadillo Ale steak sauce topped with stout braised onions served with cheddar mashed potatoes and seasonal veggies.",
+                    "ingredients": [],
+                    "price": 16.99,
+                    "title": "Black and Tan Steak"
+                }
+            ]
+        },
+        {
+            "category": "Pastas",
+            "items": [
+                {
+                    "description": "Fresh vegetables including tomatoes, broccoli, carrots, mushrooms and seasonal vegetables in a light white wine cream sauce over linguine. Vegetarian.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Pasta Primavera"
+                },
+                {
+                    "description": "Penne pasta with marinated tomatoes and grilled chicken in a pesto cream sauce topped with roasted red bell peppers, crushed red pepper and Parmesan cheese. Contains nuts.",
+                    "ingredients": [],
+                    "price": 12.99,
+                    "title": "Penne Pesto Cream"
+                }
+            ]
+        },
+        {
+            "category": "Gluten Free Menu",
+            "items": [
+                {
+                    "description": "Gluten free fusilli pasta tossed with broccoli and shrimp in a garlic white wine sauce",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Gluten Free Lemon Shrimp Fusilli Pasta"
+                },
+                {
+                    "description": "A grilled chicken breast topped with spinach, herb marinated tomatoes and mozzarella cheese on gluten free multi grain bread. Includes choice of side dish.",
+                    "ingredients": [],
+                    "price": 11.99,
+                    "title": "Gluten Free Chicken Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Side Dishes",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.99,
+                    "title": "Mashed Potatoes"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Steak Fries"
+                }
+            ]
+        },
+        {
+            "category": "Dessert",
+            "items": [
+                {
+                    "description": "Please contact restaurant for weekly selection.",
+                    "ingredients": [],
+                    "price": 5.99,
+                    "title": "Cheesecake of the Week"
+                },
+                {
+                    "description": "A homemade bread pudding with bourbon cream sauce, ice cream and a caramel drizzle",
+                    "ingredients": [],
+                    "price": 6.49,
+                    "title": "Bread Pudding"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/az/phoenix/4255-armadillo-grill/menu/",
+    "name": "Armadillo Grill",
+    "state": "Arizona",
+    "type": "American",
+    "website": "http://www.myarmadillogrill.com",
+    "zip": "85016"
+}

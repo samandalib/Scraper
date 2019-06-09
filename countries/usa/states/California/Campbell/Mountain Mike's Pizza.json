@@ -1,0 +1,134 @@
+{
+    "address": "301 E Hamilton Ave",
+    "city": "Campbell",
+    "currency": "USD",
+    "id": "50723",
+    "menu": [
+        {
+            "category": "Specials",
+            "items": [
+                {
+                    "description": "Large 1-topping pizza.",
+                    "ingredients": [],
+                    "price": 14.95,
+                    "title": "Sunday Special"
+                },
+                {
+                    "description": "Large combo pizza.",
+                    "ingredients": [],
+                    "price": 19.95,
+                    "title": "Thursday Special"
+                }
+            ]
+        },
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.0,
+                    "title": "Bottled Water"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.95,
+                    "title": "Chicken Tenders with Fries"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": []
+        },
+        {
+            "category": "Mountain Burgers",
+            "items": [
+                {
+                    "description": "Served with fries, and topped with lettuce, tomatoes, onion, pickle, cheese, mustard, and Mike's special sauce.",
+                    "ingredients": [],
+                    "price": 10.95,
+                    "title": "Quarter Pounder Burger"
+                },
+                {
+                    "description": "Served with fries, and topped with lettuce, tomatoes, onions, pickles, cheese, mustard, special sauce.",
+                    "ingredients": [],
+                    "price": 15.95,
+                    "title": "Double Burger"
+                }
+            ]
+        },
+        {
+            "category": "Cliffhanger Sandwiches",
+            "items": [
+                {
+                    "description": "Served on a french roll with lettuce tomato, mustard and mayonnaise with choice of cheese and a side of potato chips.",
+                    "ingredients": [],
+                    "price": 12.95,
+                    "title": "Ham Sandwich"
+                },
+                {
+                    "description": "Served on a french roll with lettuce tomato, mustard and mayonnaise with choice of cheese and a side of potato chips.",
+                    "ingredients": [],
+                    "price": 12.95,
+                    "title": "Louisiana Hot Sausage Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Pastas",
+            "items": [
+                {
+                    "description": "Served with garlic bread.",
+                    "ingredients": [],
+                    "price": 5.95,
+                    "title": "Butter Pasta"
+                },
+                {
+                    "description": "Served with garlic bread.",
+                    "ingredients": [],
+                    "price": 11.95,
+                    "title": "Marinara with Meatballs"
+                }
+            ]
+        },
+        {
+            "category": "Create Your Own Pizza",
+            "items": [
+                {
+                    "description": "Choose your sauce and toppings - Gluten-Free Crust",
+                    "ingredients": [],
+                    "price": 22.95,
+                    "title": "Gluten-Free Crust Pizza"
+                }
+            ]
+        },
+        {
+            "category": "Specialty Pizzas",
+            "items": []
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 12.95,
+                    "title": "Cookie Dessert Pizza"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/campbell/50723-mountain-mike's-pizza/menu/",
+    "name": "Mountain Mike's Pizza",
+    "state": "California",
+    "type": "Italian, Pizza, Sandwiches, American, Pasta",
+    "website": "http://www.mountainmikes.com/",
+    "zip": "95008"
+}

@@ -1,0 +1,283 @@
+{
+    "address": "7750 Rancho Santa Fe Rd Ste A1",
+    "city": "Carlsbad",
+    "currency": "USD",
+    "id": "5870",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.99,
+                    "title": "Regular Drink"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.29,
+                    "title": "Large Drink"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "2 pieces. Crisp lettuce with minced chicken, mushrooms, water chestnuts, and green onions, garnished with shredded carrots and bean sprouts.",
+                    "ingredients": [],
+                    "price": 7.29,
+                    "title": "Asian Lettuce Wraps"
+                }
+            ]
+        },
+        {
+            "category": "Salads & Soups",
+            "items": []
+        },
+        {
+            "category": "Chicken Entrees - Steamed",
+            "items": [
+                {
+                    "description": "White chicken with red peppers, carrots, white onions and broccoli in our creamy Thai coconut curry. Gluten free. Spicy.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Thai Coconut Curry Chicken"
+                },
+                {
+                    "description": "White chicken with red peppers, carrots, white onions and broccoli in our sweet red chili sauce. Spicy.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Thai Sweet Chili Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Chicken Entrees - Grilled",
+            "items": [
+                {
+                    "description": "Tender grilled chicken tossed in our sweet and savory bourbon sauce. Gluten free.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Grilled Bourbon Chicken"
+                },
+                {
+                    "description": "Grilled chicken, broccoli and carrots in a sweet soy teriyaki sauce.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Grilled Teriyaki Chicken & Vegetables"
+                }
+            ]
+        },
+        {
+            "category": "Chicken Entrees - Classic Favorites",
+            "items": [
+                {
+                    "description": "A sweet, tangy citrus delight.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "General's Orange Chicken"
+                },
+                {
+                    "description": "A caramelized sauce of white wine, garlic and soy with green onions.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "House Special Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Beef Entrees",
+            "items": [
+                {
+                    "description": "Garlic soy sauce with carrots and broccoli.",
+                    "ingredients": [],
+                    "price": 9.19,
+                    "title": "Beef & Broccoli"
+                },
+                {
+                    "description": "Rich mild soy and garlic with white and green onions over crispy rice noodles.",
+                    "ingredients": [],
+                    "price": 9.19,
+                    "title": "Mongolian Beef"
+                }
+            ]
+        },
+        {
+            "category": "Shrimp & Salmon Entrees",
+            "items": [
+                {
+                    "description": "Freshly wok'd garlic, zucchini, carrots, broccoli, mushrooms, water chestnuts and snap peas in a sweet black sauce.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Garlic Shrimp"
+                },
+                {
+                    "description": "Succulent shrimp with zucchini, carrots, broccoli, mushrooms, water chestnuts and snap peas in a white wine sauce.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Shrimp & Vegetables"
+                }
+            ]
+        },
+        {
+            "category": "Tofu Entrees",
+            "items": [
+                {
+                    "description": "Crispy tofu in a sweet honey sauce, garnished with green onions.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Crispy Honey Tofu"
+                },
+                {
+                    "description": "Garlic soy sauce with carrots and broccoli.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Tofu & Broccoli"
+                }
+            ]
+        },
+        {
+            "category": "Family Value Pack",
+            "items": [
+                {
+                    "description": "Serves 3-4. 2 chicken entrees, 1 order of chow mein or fried rice, 4 cream cheese wontons, 4 crispy dumplings, and steamed white or brown rice.",
+                    "ingredients": [],
+                    "price": 25.99,
+                    "title": "Family Value Pack"
+                }
+            ]
+        },
+        {
+            "category": "Rice & Noodles",
+            "items": [
+                {
+                    "description": "Fried rice with egg, bean sprouts, carrots, onions, and peas.",
+                    "ingredients": [],
+                    "price": 5.09,
+                    "title": "Fried Rice"
+                },
+                {
+                    "description": "Rice noodles in tangy pad Thai sauce with green and white onions, carrots, cilantro, egg, peanuts, and bean sprouts. Gluten free.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Chicken Pad Thai"
+                }
+            ]
+        },
+        {
+            "category": "Kid's Wok",
+            "items": [
+                {
+                    "description": "Served with rice, mandarin oranges, and drink.",
+                    "ingredients": [],
+                    "price": 5.29,
+                    "title": "Kid's House Special Chicken"
+                },
+                {
+                    "description": "Served with rice, mandarin oranges, and drink.",
+                    "ingredients": [],
+                    "price": 5.29,
+                    "title": "Kid's General's Orange Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Lunch Combos",
+            "items": [
+                {
+                    "description": "Served with choice of rice or noodles and 2 cream cheese wontons.",
+                    "ingredients": [],
+                    "price": 7.69,
+                    "title": "Chicken Lunch Combo"
+                },
+                {
+                    "description": "Served with choice of rice or noodles and 2 cream cheese wontons.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Shrimp Lunch Combo"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "Chocolate Indulgence.",
+                    "ingredients": [],
+                    "price": 1.56,
+                    "title": "Gourmet Fudge Brownies"
+                },
+                {
+                    "description": "A definite crowd pleaser. Our Chocolate Covered Fortune Cookies are hand dipped in rich chocolate.",
+                    "ingredients": [],
+                    "price": 2.09,
+                    "title": "Chocolate Dipped Fortune Cookies (4)"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Creative Meal Packages",
+            "items": [
+                {
+                    "description": "Requires 24-HR Advance Notice  Package Includes Includes a Small Salad, a Medium Chicken Entre, a Small Beef Entre, a Small Vegetable Chow Mein, a Medium White/Brown Rice, 15 Cream Cheese Wontons and 15 Vegetable Spring Rolls & Fortune Cookies.",
+                    "ingredients": [],
+                    "price": 151.2,
+                    "title": "Cater. Meal Package Serves 13-15 24HR"
+                },
+                {
+                    "description": "Requires 24-HR Advance Notice Package Includes 1 Large Mandarin Garden Salad, 2 Medium Chicken Entre Trays, 1 Medium Beef Entre Tray, 1 Medium Vegetable Chow Mein, 1 Medium White or Brown Rice, 30 Cream Cheese Wontons, and 30 Vegetable Spring Rolls",
+                    "ingredients": [],
+                    "price": 283.5,
+                    "title": "Cater. Meal Package Serves 28-30 24HR"
+                }
+            ]
+        },
+        {
+            "category": "Catering - Chicken Entrees",
+            "items": []
+        },
+        {
+            "category": "Catering - Beef Entrees",
+            "items": []
+        },
+        {
+            "category": "Catering - Shrimp Entrees",
+            "items": []
+        },
+        {
+            "category": "Catering - Tofu Entrees",
+            "items": []
+        },
+        {
+            "category": "Catering - Vegetables & Salads",
+            "items": []
+        },
+        {
+            "category": "Catering - Rice & Noodles",
+            "items": []
+        },
+        {
+            "category": "Catering - Desserts",
+            "items": [
+                {
+                    "description": "Requires 24-HR Advance Notice.",
+                    "ingredients": [],
+                    "price": 1.56,
+                    "title": "Brownie (ea) 24HR"
+                }
+            ]
+        },
+        {
+            "category": "Complimentary Items",
+            "items": []
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/carlsbad/5870-pick-up-stix---carlsbad/menu/",
+    "name": "Pick Up Stix - Carlsbad",
+    "state": "California",
+    "type": "Chinese, Japanese, Asian",
+    "website": "http://www.pickupstix.com",
+    "zip": "92009"
+}

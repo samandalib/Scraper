@@ -1,0 +1,99 @@
+{
+    "address": "1979 E. 16th Street",
+    "city": "Yuma",
+    "currency": "USD",
+    "id": "307048",
+    "menu": [
+        {
+            "category": "Burgers",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 5.59,
+                    "title": "Hamburger"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 6.39,
+                    "title": "Bacon Burger"
+                }
+            ]
+        },
+        {
+            "category": "Hot Dogs",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.59,
+                    "title": "Hot Dog"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.09,
+                    "title": "Cheese Dog"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.59,
+                    "title": "Grilled Cheese Sandwich"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "BLT Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Fries",
+            "items": [
+                {
+                    "description": "Five Guys fries are cooked in 100% peanut oil. -   To ensure quality and freshness, your fries will not be cooked until you arrive",
+                    "ingredients": [],
+                    "price": 2.39,
+                    "title": "Little Fries"
+                },
+                {
+                    "description": "Five Guys fries are cooked in 100% peanut oil. -   To ensure quality and freshness, your fries will not be cooked until you arrive",
+                    "ingredients": [],
+                    "price": 3.39,
+                    "title": "Cajun Fries"
+                }
+            ]
+        },
+        {
+            "category": "Drinks",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.19,
+                    "title": "Regular Drink"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.09,
+                    "title": "Bottled Water"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/az/yuma/307048-five-guys-burgers-&-fries/menu/",
+    "name": "Five Guys Burgers & Fries",
+    "state": "Arizona",
+    "type": "Burgers, Sandwiches, American, Grill, Lunch Specials",
+    "website": "http://www.fiveguys.com",
+    "zip": "85365"
+}

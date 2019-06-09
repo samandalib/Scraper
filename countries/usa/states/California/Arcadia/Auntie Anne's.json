@@ -1,0 +1,87 @@
+{
+    "address": "400 S Baldwin Ave",
+    "city": "Arcadia",
+    "currency": "USD",
+    "id": "219736",
+    "menu": [
+        {
+            "category": "Pretzel Buckets",
+            "items": [
+                {
+                    "description": "Bite-size versions of our Original Pretzel served in a fun, shareable bucket. 5 svgs/bucket.",
+                    "ingredients": [],
+                    "price": 24.99,
+                    "title": "Original Bucket"
+                },
+                {
+                    "description": "Bite-size versions of our Pepperoni Pretzel flavors served in a fun, shareable bucket. 5 svgs/bucket.",
+                    "ingredients": [],
+                    "price": 32.84,
+                    "title": "Pepperoni Pretzel  Nuggets"
+                }
+            ]
+        },
+        {
+            "category": "Specialty Pretzels",
+            "items": [
+                {
+                    "description": "Our Original Pretzel, topped with 9 slices of pepperoni and a savory three-cheese blend.  Add a Marinara dip and make it a Pizza Pretzel!",
+                    "ingredients": [],
+                    "price": 6.56,
+                    "title": "Pepperoni Pretzel"
+                }
+            ]
+        },
+        {
+            "category": "Classic Pretzels",
+            "items": [
+                {
+                    "description": "The pretzel that started it all - made from five, simple, fresh ingredients. Available with no salt as well...just ask!",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Original Pretzel"
+                },
+                {
+                    "description": "Our Original Pretzel topped with a garlic and fresh Parmesan powder.",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Roasted Garlic and Parmesan Pretzel"
+                }
+            ]
+        },
+        {
+            "category": "Drinks",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.19,
+                    "title": "Bottled Water"
+                }
+            ]
+        },
+        {
+            "category": "Dips",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.49,
+                    "title": "Cheese"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.49,
+                    "title": "Marinara"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/arcadia/219736-auntie-anne's/menu/",
+    "name": "Auntie Anne's",
+    "state": "California",
+    "type": "Bakery & Pastries, American",
+    "website": "http://www.auntieannes.com",
+    "zip": "91007"
+}

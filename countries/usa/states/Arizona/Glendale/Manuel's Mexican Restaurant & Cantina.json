@@ -1,0 +1,193 @@
+{
+    "address": "5670 W Peoria Ave",
+    "city": "Glendale",
+    "currency": "USD",
+    "id": "3971",
+    "menu": [
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.5,
+                    "title": "Fountain Soda"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.5,
+                    "title": "Fountain Iced Tea"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "A choice of ground beef, shredded beef or chicken on a thin golden fried 10\" flour tortilla topped with your choice of sauce and cheese. Oven baked and garnished with green onions and tomatoes.",
+                    "ingredients": [],
+                    "price": 10.5,
+                    "title": "Mexican Pizza"
+                },
+                {
+                    "description": "Four rolled beef or chicken taquitos filled with finely chopped jalapenos and cheese in a golden fried corn tortilla. Topped with guacamole.",
+                    "ingredients": [],
+                    "price": 8.1,
+                    "title": "Taquitos"
+                }
+            ]
+        },
+        {
+            "category": "Soup",
+            "items": [
+                {
+                    "description": "A delicious mild flavor of chilies, spices and tortillas blended to perfection. Served over grilled chicken, avocado wedges, shredded Jack cheese and cilantro. Topped with corn tortilla strips.",
+                    "ingredients": [],
+                    "price": 8.0,
+                    "title": "Tortilla Soup"
+                },
+                {
+                    "description": "Voted \"Best of Phoenix\" by New Times! Our homemade Mexican style soup, made with fresh garden vegetables, rice and plump meatballs. Served with your choice of corn or flour tortillas.",
+                    "ingredients": [],
+                    "price": 5.95,
+                    "title": "Albondigas Soup"
+                }
+            ]
+        },
+        {
+            "category": "Salad",
+            "items": [
+                {
+                    "description": "A tossed green salad with your choice of topping, green onions, diced tomatoes, cheese, guacamole and sour cream. Served in a fried tortilla bowl.",
+                    "ingredients": [],
+                    "price": 10.75,
+                    "title": "Taco Salad"
+                },
+                {
+                    "description": "A crisp assortment of mixed greens, tossed with corn tortilla strips, cucumbers, cilantro and tended grilled chicken served with oriental sesame dressing.",
+                    "ingredients": [],
+                    "price": 10.75,
+                    "title": "Grilled Chicken Salad"
+                }
+            ]
+        },
+        {
+            "category": "A La Carte",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.6,
+                    "title": "Bean and Cheese Burro a la Carte"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.95,
+                    "title": "Tacos a la Carte"
+                }
+            ]
+        },
+        {
+            "category": "Specialities",
+            "items": [
+                {
+                    "description": "Grilled cod tacos with crisp cabbage, lime, pico de gallo and a spicy homemade tartar sauce in your choice of tortilla. Served with rice and ranchero beans.",
+                    "ingredients": [],
+                    "price": 12.25,
+                    "title": "Baja Fish Tacos"
+                }
+            ]
+        },
+        {
+            "category": "Combination Dinners",
+            "items": [
+                {
+                    "description": "Choice of red chili con carne or green chili con carne burro.",
+                    "ingredients": [],
+                    "price": 10.95,
+                    "title": "#1 - Burro, Cheese Enchilada and Beans"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 11.5,
+                    "title": "#5 - Taco, Tostada and Enchilada"
+                }
+            ]
+        },
+        {
+            "category": "Mix and Match",
+            "items": [
+                {
+                    "description": "Choice of any item with rice and beans.",
+                    "ingredients": [],
+                    "price": 9.95,
+                    "title": "1 Item with Rice and Beans"
+                },
+                {
+                    "description": "Choice of any two items with rice and beans.",
+                    "ingredients": [],
+                    "price": 12.95,
+                    "title": "2 Items with Rice and Beans"
+                }
+            ]
+        },
+        {
+            "category": "Family Style",
+            "items": [
+                {
+                    "description": "Choice of 6 items served with a quart of rice, a quart of beans, a pint of salsa, and 2 small bags of chips. No substitutions.",
+                    "ingredients": [],
+                    "price": 35.0,
+                    "title": "Family Style 6 Pack to Go"
+                }
+            ]
+        },
+        {
+            "category": "Kid's Menu",
+            "items": [
+                {
+                    "description": "Shredded beef, ground beef or chicken. With choice of drink.",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Kid's 2 Mini Tacos with Rice and Beans"
+                },
+                {
+                    "description": "With choice of drink.",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Kid's Cheese Crisp with Beans"
+                }
+            ]
+        },
+        {
+            "category": "Sides to Go",
+            "items": []
+        },
+        {
+            "category": "Lunch and Senior Menu",
+            "items": [
+                {
+                    "description": "One of our wonderful chimichangas with your choice of regular fillings topped with guacamole and sour cream and served with rice and beans.",
+                    "ingredients": [],
+                    "price": 8.95,
+                    "title": "A. Lunch Chimichanga"
+                },
+                {
+                    "description": "A rolled taco with beef or chicken and topped with guacamole and cheese. Served with rice and beans.",
+                    "ingredients": [],
+                    "price": 8.35,
+                    "title": "G. Lunch Flauta with Guacamole"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/az/glendale/3971-manuel's-mexican-restaurant-&-cantina/menu/",
+    "name": "Manuel's Mexican Restaurant & Cantina",
+    "state": "Arizona",
+    "type": "Mexican",
+    "website": "http://www.manuelsaz.com/",
+    "zip": "85302"
+}

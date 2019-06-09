@@ -1,0 +1,139 @@
+{
+    "address": "415 W Ventura Blvd Ste 300",
+    "city": "Camarillo",
+    "currency": "USD",
+    "id": "150131",
+    "menu": [
+        {
+            "category": "NEW Club Collection",
+            "items": []
+        },
+        {
+            "category": "Breakfast",
+            "items": []
+        },
+        {
+            "category": "Sandwiches",
+            "items": []
+        },
+        {
+            "category": "Signature Wraps",
+            "items": [
+                {
+                    "description": "Who can resist the classic combination of a delicious Spinach wrap filled with a double portion of tender Rotisserie-Style chicken with seasoning and marinade topped with Monterey Cheddar, Parmesan cheese, lettuce, tomatoes and Savory Caesar sauce? It?s fit for an emperor.",
+                    "ingredients": [],
+                    "price": 8.04,
+                    "title": "Savory Rotisserie-Style Chicken Caesar Signature Wrap"
+                },
+                {
+                    "description": "The name says it all. A delicious Tomato Basil wrap filled with a double portion of turkey breast and smoky applewood bacon topped with Provolone cheese, guacamole, lettuce, tomatoes, red onions, and Ranch.",
+                    "ingredients": [],
+                    "price": 8.04,
+                    "title": "Turkey, Bacon and Guacamole Signature Wrap"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Go ahead, spice up your life. The Spicy Italian features spicy pepperoni and sensational salami. Try one today with everything else your taste buds desire.",
+                    "ingredients": [],
+                    "price": 8.04,
+                    "title": "Spicy Italian Chopped Salad"
+                },
+                {
+                    "description": "Crispy, crunchy and classically delicious. Try a delicious combination of lettuce, tomatoes, green peppers and onions with your choice of dressings.",
+                    "ingredients": [],
+                    "price": 8.04,
+                    "title": "Veggie Delite\u00ae Chopped Salad"
+                }
+            ]
+        },
+        {
+            "category": "Soup",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.09,
+                    "title": "Broccoli Cheddar Soup"
+                }
+            ]
+        },
+        {
+            "category": "Kid's Meals",
+            "items": [
+                {
+                    "description": "Got a kid who loves vegetables above all else? Our Veggie Delite? Kids' meal piles all their favorites on freshly baked bread. Applesauce and an ice cold bottle of low-fat milk  or Honest Kids make for a tasty meal that?s also a better-for-them option. Subway Fresh Fit for Kids? meals are prepared in front of you and are not a diet program.",
+                    "ingredients": [],
+                    "price": 5.74,
+                    "title": "Veggie Delite\u00ae Kid's Meal"
+                },
+                {
+                    "description": "Kids love the taste of tender turkey breast, freshly baked bread and their favorite veggies. Pair it with applesauce and an ice cold bottle of low-fat milk or Honest Kids and you?ve got a better-for-you meal that?s a big hit with parents and kids alike. Subway Fresh Fit for Kids? meals are prepared in front of you and are not a diet program.",
+                    "ingredients": [],
+                    "price": 5.74,
+                    "title": "Turkey Breast Kid's Meal"
+                }
+            ]
+        },
+        {
+            "category": "Sides",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.48,
+                    "title": "Chips"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.83,
+                    "title": "Applesauce"
+                }
+            ]
+        },
+        {
+            "category": "Bottled Drinks",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 2.63,
+                    "title": "Bottled Drink"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.94,
+                    "title": "1% Low Fat Milk"
+                }
+            ]
+        },
+        {
+            "category": "Dessert",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.02,
+                    "title": "1 Cookie"
+                },
+                {
+                    "description": "Choose the types of cookies you would like. If you want multiples of a certain type, please specify the quantity of each in the Special Instructions.",
+                    "ingredients": [],
+                    "price": 5.5,
+                    "title": "Dozen Cookies"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/camarillo/150131-subway\u00ae/menu/",
+    "name": "SUBWAY\u00ae",
+    "state": "California",
+    "type": "Sandwiches",
+    "website": "http://www.subway.com",
+    "zip": "93010"
+}

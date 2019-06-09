@@ -1,0 +1,123 @@
+{
+    "address": "888 W Hamilton Ave",
+    "city": "Campbell",
+    "currency": "USD",
+    "id": "50714",
+    "menu": [
+        {
+            "category": "Drinks",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.5,
+                    "title": "Apple Juice"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "description": "10 pieces.",
+                    "ingredients": [],
+                    "price": 8.99,
+                    "title": "Hot Wings"
+                },
+                {
+                    "description": "Pizza bread topped with fresh mozzarella cheese.",
+                    "ingredients": [],
+                    "price": 6.99,
+                    "title": "Cheesy Bread"
+                }
+            ]
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Romaine lettuce, grilled chicken breast, Parmesan cheese, croutons and Caesar dressing.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Caesar Salad"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "With choice of 3 toppings.",
+                    "ingredients": [],
+                    "price": 7.99,
+                    "title": "Pizza Sandwich"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 4.99,
+                    "title": "Gyro Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Create Your Own Pizza",
+            "items": []
+        },
+        {
+            "category": "Supreme Pizza Specials",
+            "items": []
+        },
+        {
+            "category": "Calzone",
+            "items": [
+                {
+                    "description": "With choice of 3 toppings.",
+                    "ingredients": [],
+                    "price": 9.99,
+                    "title": "Calzone"
+                }
+            ]
+        },
+        {
+            "category": "Pasta",
+            "items": [
+                {
+                    "description": "Oven-baked rotini pasta topped with marinara sauce and seasoned meatballs. Serves 3 people.",
+                    "ingredients": [],
+                    "price": 14.99,
+                    "title": "Meatball Marinara"
+                },
+                {
+                    "description": "Oven-baked rotini pasta topped with creamy Alfredo sauce. Serves 3 people.",
+                    "ingredients": [],
+                    "price": 15.99,
+                    "title": "Chicken Alfredo"
+                }
+            ]
+        },
+        {
+            "category": "Sides",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 1.5,
+                    "title": "Jalapeno Peppers"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 0.99,
+                    "title": "White Dipping Sauce"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/campbell/50714-city-pizza/menu/",
+    "name": "City Pizza",
+    "state": "California",
+    "type": "Italian, Pizza, American",
+    "website": "http://www.citypizzaonline.net",
+    "zip": "95008"
+}

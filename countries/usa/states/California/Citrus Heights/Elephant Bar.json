@@ -1,0 +1,261 @@
+{
+    "address": "6063 Sunrise Blvd",
+    "city": "Citrus Heights",
+    "currency": "USD",
+    "id": "5035",
+    "menu": [
+        {
+            "category": "Starters",
+            "items": [
+                {
+                    "description": "Hand-breaded chicken breast with celery and carrot sticks with Buffalo ranch dressing.",
+                    "ingredients": [],
+                    "price": 10.95,
+                    "title": "House-Made Chicken Tenders"
+                },
+                {
+                    "description": "Pepper-jack queso, jalapenos, ranch beans, tomato, sour cream,and green onion.",
+                    "ingredients": [],
+                    "price": 12.95,
+                    "title": "Shareable Size Nachos"
+                }
+            ]
+        },
+        {
+            "category": "Soups",
+            "items": []
+        },
+        {
+            "category": "Salads",
+            "items": [
+                {
+                    "description": "Pistachio-crusted salmon fillet, spinach, arugula, red beet, charred green onion, goat cheese, pomegranate vinaigrette dressing, and Mandarin orange slices.",
+                    "ingredients": [],
+                    "price": 16.95,
+                    "title": "Pistachio Crusted Salmon Salad"
+                },
+                {
+                    "description": "Wok-seared chicken, mixed greens, carrot, tomato, wonton strips, marinated cucumber, and ginger-spiced sweet and sour dressing.",
+                    "ingredients": [],
+                    "price": 13.75,
+                    "title": "Thai High Chicken Salad"
+                }
+            ]
+        },
+        {
+            "category": "Sandwiches",
+            "items": [
+                {
+                    "description": "Grilled chicken breast, turkey, bacon, cheddar cheese, lettuce, tomato, BBQ sauce, and onion strings. Served with your choice of side.",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "Smokehouse Chicken Sandwich"
+                },
+                {
+                    "description": "Pistachio crusted cod, Asian slaw, avocado and Asian dipping sauce. Served with your choice of side.",
+                    "ingredients": [],
+                    "price": 14.25,
+                    "title": "Pistachio Crusted Cod Sandwich"
+                }
+            ]
+        },
+        {
+            "category": "Burgers",
+            "items": [
+                {
+                    "description": "1/2 lb. charbroiled beef, balsamic onions, Gorgonzola cheese, caramelized pears, arugula, and mayo. Served with your choice of side.",
+                    "ingredients": [],
+                    "price": 14.25,
+                    "title": "Caramelized Pear and Gorgonzola Burger"
+                },
+                {
+                    "description": "1/2 lb. charbroiled beef, pineapple, BBQ sauce, balsamic onion and shaved mixed vegetables. Served with your choice of side.",
+                    "ingredients": [],
+                    "price": 14.25,
+                    "title": "Tropical BBQ Burger"
+                }
+            ]
+        },
+        {
+            "category": "Steaks and Ribs",
+            "items": [
+                {
+                    "description": "16 oz. ribeye, spiced garlic butter, garlic mashed potatoes, grilled vegetables and onion strings.",
+                    "ingredients": [],
+                    "price": 29.95,
+                    "title": "Ribeye"
+                }
+            ]
+        },
+        {
+            "category": "Tastes of the World",
+            "items": [
+                {
+                    "description": "Teriyaki-glazed fried chicken pieces and wok vegetables sesame seeds with choice of brown or white rice.",
+                    "ingredients": [],
+                    "price": 15.95,
+                    "title": "Teriyaki Chicken"
+                },
+                {
+                    "description": "Wok-seared chicken, broccoli, carrot, red chili peppers, pea pods, zesty orange sauce, brown or white rice.",
+                    "ingredients": [],
+                    "price": 15.95,
+                    "title": "Mandarin Orange Chicken"
+                }
+            ]
+        },
+        {
+            "category": "Light Options",
+            "items": [
+                {
+                    "description": "Grilled chicken, Romaine lettuce, Caesar dressing, Parmesan cheese, flour tortilla.",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "Chicken Caesar Wrap"
+                },
+                {
+                    "description": "7 oz. sirloin, steamed vegetable mix, and choice of brown or white rice.",
+                    "ingredients": [],
+                    "price": 16.95,
+                    "title": "Petite Sirloin"
+                }
+            ]
+        },
+        {
+            "category": "Signature Sides",
+            "items": [
+                {
+                    "description": "Vegetarian.",
+                    "ingredients": [],
+                    "price": 4.95,
+                    "title": "Creamy Macaroni and Cheese"
+                },
+                {
+                    "description": "Vegetarian.",
+                    "ingredients": [],
+                    "price": 3.95,
+                    "title": "Vegetable Fried Rice"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "description": "2 fresh-baked chocolate chunk cookies with ice cream, chocolate sauce, and Oreo cookie crumbs.",
+                    "ingredients": [],
+                    "price": 7.95,
+                    "title": "Giant Cookie Ice Cream Sandwich"
+                },
+                {
+                    "description": "Large slice of mocha ice cream on Oreo cookie crumb crust, chocolate fudge icing and whipped cream.",
+                    "ingredients": [],
+                    "price": 7.95,
+                    "title": "Ice Cream Mud Pie"
+                }
+            ]
+        },
+        {
+            "category": "Shakes",
+            "items": [
+                {
+                    "description": "Vanilla ice cream, raspberries, blackberries, strawberries, blueberries, and whipped cream.",
+                    "ingredients": [],
+                    "price": 5.95,
+                    "title": "Summer Berry Milkshake"
+                },
+                {
+                    "description": "Vanilla ice cream, Oreo crumbs, and whipped cream.",
+                    "ingredients": [],
+                    "price": 5.95,
+                    "title": "Cookies and Cream Milkshake"
+                }
+            ]
+        },
+        {
+            "category": "Brunch (Archived)",
+            "items": [
+                {
+                    "description": "Gooey butter cake sandwiched between homemade French toast with a vanilla ice cream drizzle and whipped cream. Served with honey maple syrup and seasonal fruit.",
+                    "ingredients": [],
+                    "price": 9.75,
+                    "title": "Gooey Butter Cake French Toast Brunch"
+                },
+                {
+                    "description": "Deluxe scrambled eggs, pepper jack queso, refried beans, and bacon, layered on stacked fried tortillas. Served with breakfast potatoes.",
+                    "ingredients": [],
+                    "price": 9.75,
+                    "title": "Sunrise Breakfast Tostadas Brunch"
+                }
+            ]
+        },
+        {
+            "category": "Brunch a la Carte (Archived)",
+            "items": [
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.5,
+                    "title": "2 Eggs Cooked to Order Brunch"
+                },
+                {
+                    "description": "",
+                    "ingredients": [],
+                    "price": 3.5,
+                    "title": "Breakfast Potatoes Brunch"
+                }
+            ]
+        },
+        {
+            "category": "Globally Inspired (Archived)",
+            "items": [
+                {
+                    "description": "Wok-seared chicken, zesty orange sauce, wok vegetables, choice of brown or white rice.",
+                    "ingredients": [],
+                    "price": 15.95,
+                    "title": "Orange Chicken"
+                },
+                {
+                    "description": "Shrimp, rice noodles, bok choy, shiitake mushrooms, sweet onions scallions, red and green peppers. Gluten free.",
+                    "ingredients": [],
+                    "price": 8.25,
+                    "title": "Macau Shrimp and Noodle Soup without Salmon"
+                }
+            ]
+        },
+        {
+            "category": "American Fare (Archived)",
+            "items": [
+                {
+                    "description": "Slow-roasted tender beef pot roast, garlic mashed potatoes, carrots, onions, celery and savory brown gravy.",
+                    "ingredients": [],
+                    "price": 15.95,
+                    "title": "Home-Style Pot Roast"
+                }
+            ]
+        },
+        {
+            "category": "Midday Menu (Archived)",
+            "items": [
+                {
+                    "description": "Our classic lamb shanks topped with home-made pan gravy. Served with garlic mashed potatoes and sauteed spinach.",
+                    "ingredients": [],
+                    "price": 12.5,
+                    "title": "Braised Lamb Shank"
+                },
+                {
+                    "description": "2 chicken breast medallions sauteed with mushrooms, spinach and Marsala wine sauce. Served with garlic mashed potatoes and Parmesan cheese.",
+                    "ingredients": [],
+                    "price": 11.5,
+                    "title": "Chicken Marsala"
+                }
+            ]
+        }
+    ],
+    "menu_url": "https://www.allmenus.com/ca/citrus-heights/5035-elephant-bar/menu/",
+    "name": "Elephant Bar",
+    "state": "California",
+    "type": "American (New), Burgers, Sandwiches, Seafood, American, Salads",
+    "website": "http://www.elephantbar.com/",
+    "zip": "95610"
+}
