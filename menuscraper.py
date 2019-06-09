@@ -26,20 +26,23 @@ def scrape_city(city,state): #enter abbreviation for the state argument, such as
 """***********************************************************"""
 def scrape_site():
     for url in urls:
-        restaurants_list = get_restaurants(url)
-        populate_menus(restaurants_list)
+        try:
+            restaurants_list = get_restaurants(url)
+            populate_menus(restaurants_list)
+        except:
+            print("NO Page for the URL: ", url)
     
 ################################################ END OF SECTION ###############################################################
 
 """
     Openning a file containing state names and their abbreviations
 """
-os.chdir("C:\\Users\\Hesam\\Desktop\\menu_parser\\countries\\usa")
+os.chdir("C:\\Users\\Hesam\\Scraper\\countries\\usa")
 with open("us_states.json") as f:
     g_states = f.read()
     g_states= json.loads(g_states)
 #MAKING A FOLDER FOR EACH STATE
-os.chdir("C:\\Users\\Hesam\\Desktop\\menu_parser\\countries\\usa\\states")#############CHECK DIRECTORIES FOR CHANGE
+os.chdir("C:\\Users\\Hesam\\Scraper\\countries\\usa\\states")#############CHECK DIRECTORIES FOR CHANGE
 state_short = []
 for state in g_states:
     name = state['name'].strip()
@@ -54,13 +57,13 @@ for state in g_states:
 """
     Openning a file containing state names and their cities
 """
-os.chdir("C:\\Users\\Hesam\\Desktop\\menu_parser\\countries\\usa")#############CHECK DIRECTORIES FOR CHANGE
+os.chdir("C:\\Users\\Hesam\\Scraper\\countries\\usa")#############CHECK DIRECTORIES FOR CHANGE
 with open("us_cities.json") as c:
     state_cities = c.read()
     state_cities = json.loads(state_cities)
 ##MAKING A FOLDER FOR EACH CITY IN ITS STATE FOLDER   
 for state in state_cities:
-    os.chdir(f"C:\\Users\\Hesam\\Desktop\\menu_parser\\countries\\usa\\states\\{state}")#############CHECK DIRECTORIES FOR CHANGE
+    os.chdir(f"C:\\Users\\Hesam\\Scraper\\countries\\usa\\states\\{state}")#############CHECK DIRECTORIES FOR CHANGE
     for city in state_cities[state]:
         if not os.path.exists(city):
             os.makedirs(city)
@@ -190,81 +193,83 @@ def get_restaurants(url):
 def populate_menus(restaurants_list):
     import requests
     from bs4 import BeautifulSoup
-    
-    #parsing menu page of each resturant
-    for restaurant in restaurants_list:
-        response=requests.get(restaurant['menu_url'])
-         
-        if response.status_code == 200:
-            print("menu_url page obtained")
-        else:
-            print("No Response from restaurant URL")
-        
-        result_page = BeautifulSoup(response.content,'lxml') 
-        
-        rest_website = result_page.find('a', class_="menu-link").get('href')
-        
-        #making the menu section of the restaurnat document in database
-        #search for categories in each menu
-        menu_category= result_page.find_all('li', class_="menu-category")
-        categories = []
-        
-        for category in menu_category:
-             try:
-                 category_content = {}
-                 
-                 #finding the name of category
-                 categ_name = category.find('div', {'class':'h4 category-name menu-section-title'}).get_text()
-                 category_content['category']=categ_name
-                 
-                 #finding items in each category
-                 categ_items = category.find_all('ul', {'class':'menu-items-list unordered-list'})
-                 
-                 #making a list for each item in the menu consists of title, price, ingredients
-                 items_list = []
-                 
-                 for item in categ_items:
-                     try:
-                         menu_item = {}
-                         
-                         item_title = item.find('span', {'class': 'item-title'}).get_text()
-                         menu_item['title']= item_title
-                     
-                         item_price = item.find('span', {'class': 'item-price'}).get_text().strip()
-                         item_price= item_price.replace("$","")
-                         item_price = float(item_price)
-                         menu_item['price'] = item_price
-                     
-                         item_desc = item.find('p', {'class': 'description'}).get_text()
-                         menu_item['description']= item_desc
-                         
-                         item_ingredients = get_ingredients(item_desc)
-                         menu_item['ingredients'] = item_ingredients
-                         
-
-                         items_list.append(menu_item)
-                         
-                     except:
-                         print("error in getting items")
-                     
-                     
-                     
-                 category_content['items']=items_list
-                 categories.append(category_content)
-                 print("menu items successfully populated")
-                     
-             except:
-                 print('an error in category organizer')
-         
+    try:
+        #parsing menu page of each resturant
+        for restaurant in restaurants_list:
+            response=requests.get(restaurant['menu_url'])
              
-        restaurant['menu'] = categories
-        restaurant['website']=rest_website
-        #saving the result in a JSON File
-        name = restaurant["name"]
-        state = restaurant["state"]
-        city = restaurant["city"]
-        save_as_JSON(restaurant, state, city, name)
-        print("restaurant json file created")
+            if response.status_code == 200:
+                print("menu_url page obtained")
+            else:
+                print("No Response from restaurant URL")
+            
+            result_page = BeautifulSoup(response.content,'lxml') 
+            
+            rest_website = result_page.find('a', class_="menu-link").get('href')
+            
+            #making the menu section of the restaurnat document in database
+            #search for categories in each menu
+            menu_category= result_page.find_all('li', class_="menu-category")
+            categories = []
+            
+            for category in menu_category:
+                 try:
+                     category_content = {}
+                     
+                     #finding the name of category
+                     categ_name = category.find('div', {'class':'h4 category-name menu-section-title'}).get_text()
+                     category_content['category']=categ_name
+                     
+                     #finding items in each category
+                     categ_items = category.find_all('ul', {'class':'menu-items-list unordered-list'})
+                     
+                     #making a list for each item in the menu consists of title, price, ingredients
+                     items_list = []
+                     
+                     for item in categ_items:
+                         try:
+                             menu_item = {}
+                             
+                             item_title = item.find('span', {'class': 'item-title'}).get_text()
+                             menu_item['title']= item_title
+                         
+                             item_price = item.find('span', {'class': 'item-price'}).get_text().strip()
+                             item_price= item_price.replace("$","")
+                             item_price = float(item_price)
+                             menu_item['price'] = item_price
+                         
+                             item_desc = item.find('p', {'class': 'description'}).get_text()
+                             menu_item['description']= item_desc
+                             
+                             item_ingredients = get_ingredients(item_desc)
+                             menu_item['ingredients'] = item_ingredients
+                             
+    
+                             items_list.append(menu_item)
+                             
+                         except:
+                             print("error in getting items")
+                         
+                         
+                         
+                     category_content['items']=items_list
+                     categories.append(category_content)
+                     print("menu items successfully populated")
+                         
+                 except:
+                     print('an error in category organizer')
+             
+                 
+            restaurant['menu'] = categories
+            restaurant['website']=rest_website
+            #saving the result in a JSON File
+            name = restaurant["name"]
+            state = restaurant["state"]
+            city = restaurant["city"]
+            save_as_JSON(restaurant, state, city, name)
+            print("restaurant json file created")
+    except:
+        print("There is an Error in populate menus")
         
         
     return restaurants_list
@@ -277,7 +282,7 @@ def populate_menus(restaurants_list):
 def save_as_JSON(restaurant,state, city,name):
     import json
     rest_JSON = json.dumps(restaurant, indent=4, sort_keys=True)
-    os.chdir(f"C:\\Users\\Hesam\\Desktop\\menu_parser\\countries\\usa\\states\\{state}\\{city}")#############CHECK DIRECTORIES FOR CHANGE
+    os.chdir(f"C:\\Users\\Hesam\\Scraper\\countries\\usa\\states\\{state}\\{city}")#############CHECK DIRECTORIES FOR CHANGE
     with open(f"{name}.json","w") as f:
         f.write(rest_JSON)
     return "THE JSON FILE IS SUCCESSFULLY CREATED FOR THIS RESTAURANT"
